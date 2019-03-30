@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+*RData
 app_data/*
 fit_data/*
 game_data/*
