@@ -1,5 +1,4 @@
 library(tidyverse)
-library(rvest)
 library(rstan)
 options(mc.cores = parallel::detectCores())
 rstan_options(auto_write = TRUE)
@@ -29,7 +28,7 @@ stan_data <- list("T"=nteams,
 
 #fit model
 fit <- stan(file="stan_model/model.stan", data=stan_data, chains=4, iter=10000)
-save(fit, file = "aux_data/stan_fit_190324_4_10000.RData")
+save(fit, file = "fit_data/stan_fit_190329_4_10000.RData")
 
 #check rhat and neff
 print(fit, pars=c("ofsd","dfsd","of[1]","df[1]","of[10]","df[10]"))
@@ -37,8 +36,8 @@ traceplot(fit, pars=c("ofsd","dfsd","of[1]","df[1]","of[10]","df[10]"))
 
 #extract parameter samples
 para <- extract(fit)
-save(para, file="app_data/para_190324_4_10000.RData")
+#save(para, file="app_data/para_190329_4_10000.RData")
 
 #summarize posterior
 param <- get_posterior(para)
-save(param, file="app_data/param_190324.RData")
+save(param, file="app_data/param_190329.RData")

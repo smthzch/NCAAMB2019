@@ -3,8 +3,7 @@ library(rvest)
 library(tidygraph)
 library(ggraph)
 
-source("parseWeb.R")
-source("matchup.R")
+source("utils/parseWeb.R")
 
 #load last loaded games
 load_latestg()
