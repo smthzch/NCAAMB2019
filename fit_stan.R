@@ -28,7 +28,7 @@ stan_data <- list("T"=nteams,
 
 #fit model
 fit <- stan(file="stan_model/model.stan", data=stan_data, chains=4, iter=10000)
-save(fit, file = "fit_data/stan_fit_190329_4_10000.RData")
+save(fit, file = "fit_data/stan_fit_190331_4_10000.RData")
 
 #check rhat and neff
 print(fit, pars=c("ofsd","dfsd","of[1]","df[1]","of[10]","df[10]"))
@@ -40,4 +40,4 @@ para <- extract(fit)
 
 #summarize posterior
 param <- get_posterior(para)
-save(param, file="app_data/param_190329.RData")
+save(param, file="app_data/param_190331.RData")

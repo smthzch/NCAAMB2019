@@ -34,7 +34,7 @@ get_games <- function(st="2018/11/06", ed="2019/03/19"){
 }
 
 get_newgames <- function(g){
-  currdt <- strftime(Sys.Date()-1,"%Y/%m/%d")
+  currdt <- strftime(Sys.Date(),"%Y/%m/%d")
   
   gmfiles <- list.files("game_data")
   mxdt <- as.Date(0, origin="1970-01-01")
@@ -46,7 +46,7 @@ get_newgames <- function(g){
   
   g_ <- get_games(st=mxdt, ed=currdt)
   g <- rbind(g, g_)
-  gt <- strftime(Sys.Date()-1, "%y%m%d")
+  gt <- strftime(Sys.Date(), "%y%m%d")
   save(g, file=paste("game_data/games_",gt,".RData", sep=""))
   #print("Generating Rate Matrix")
   #Q <- get_intensity(g)

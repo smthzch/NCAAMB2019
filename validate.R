@@ -34,9 +34,7 @@ validate <- function(param, st="2019/03/19", ed="2019/03/22"){
   games
 }
 
-update_validate <- function(){
-  
-}
+
 
 #just a running go of it
 #03/22
@@ -63,5 +61,19 @@ load("app_data/param_190324.RData")
 load("vali_data/vld_190324.RData")
 vld <- rbind(vld, validate(param, st="2019/03/25",ed="2019/03/25"))
 save(vld, file="vali_data/vld_190325.RData")
+sum(vld$correct)/nrow(vld)
+reliability.plot(verify(vld$t1w, vld$p1))
+
+load("app_data/param_190324.RData")
+load("vali_data/vld_190325.RData")
+vld <- rbind(vld, validate(param, st="2019/03/26",ed="2019/03/29"))
+save(vld, file="vali_data/vld_190329.RData")
+sum(vld$correct)/nrow(vld)
+reliability.plot(verify(vld$t1w, vld$p1))
+
+load("app_data/param_190329.RData")
+load("vali_data/vld_190329.RData")
+vld <- rbind(vld, validate(param, st="2019/03/30",ed="2019/03/31"))
+save(vld, file="vali_data/vld_190331.RData")
 sum(vld$correct)/nrow(vld)
 reliability.plot(verify(vld$t1w, vld$p1))

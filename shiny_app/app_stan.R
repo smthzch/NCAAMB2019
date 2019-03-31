@@ -20,7 +20,7 @@ bteams <- read.csv("app_data/bracket_teams.csv", stringsAsFactors = F, header = 
 teams <- union(unique(g$team1), unique(g$team2)) %>% unique() %>% str_sort()
 
 
-load("app_data/param_190329.RData")
+load("app_data/param_190331.RData")
 
 its <- 100000
 
@@ -36,7 +36,7 @@ ui <- navbarPage("NCAA Men's Basketball 2019",
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
       sidebarPanel(
-        "Model date: 19/03/30",
+        "Model date: 19/03/31",
         selectInput(
           "team1", "Select Team 1", choices= bteams, selected="Virginia"
         ),
