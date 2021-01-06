@@ -6,7 +6,7 @@ Shiny app and writeup located at:
 
 ---
 
-General workflow
+## General workflow
 
 0. Helper functions in utils/
 
@@ -15,3 +15,7 @@ General workflow
 2. fit_stan.R - fit stan model located in stan_model/
 
 3. Transfer relevant files to shiny_app
+
+## Results
+
+![](IMG_20190411_130657.jpg)
