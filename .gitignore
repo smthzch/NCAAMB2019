@@ -2,9 +2,12 @@
 .Rhistory
 .Ruserdata
 *.RData*
+
 app_data/*
 fit_data/*
 game_data/*
 rsconnect/*
 shiny_app/rsconnect
+.venv/
+
 *~

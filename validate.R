@@ -1,4 +1,6 @@
 library(verification)
+library(Metrics)
+library(tidyverse)
 source("utils/parseWeb.R")
 source("utils/util_stan.R")
 
@@ -26,6 +28,8 @@ validate <- function(param, st="2019/03/19", ed="2019/03/22"){
     p1 <- sum(pred$s1>pred$s2)/its
     games[i,"p1"] <- p1
     games[i,"t1w"] <- games[i,"score1"] > games[i,"score2"]
+    games[i,"ps1"] <- mean(pred$s1)
+    games[i,"ps2"] <- mean(pred$s2)
     s1 <- games[i,"score1"]
     s2 <- games[i,"score2"]
     correct <- ifelse(s1>s2&p1>.5,T,ifelse(s1<s2&p1<.5,T,F))
@@ -38,12 +42,14 @@ validate <- function(param, st="2019/03/19", ed="2019/03/22"){
 
 #just a running go of it
 #03/22
+load("app_data/param_190320.RData")
 vld <- validate(param)
 save(vld, file="vali_data/vld_190322.RData")
 sum(vld$correct)/nrow(vld)
 
 reliability.plot(verify(vld$t1w, vld$p1))
 
+load("app_data/param_190322.RData")
 load("vali_data/vld_190322.RData")
 vld <- rbind(vld, validate(param, st="2019/03/23",ed="2019/03/23"))
 save(vld, file="vali_data/vld_190323.RData")
@@ -77,3 +83,24 @@ vld <- rbind(vld, validate(param, st="2019/03/30",ed="2019/03/31"))
 save(vld, file="vali_data/vld_190331.RData")
 sum(vld$correct)/nrow(vld)
 reliability.plot(verify(vld$t1w, vld$p1))
+
+
+load("vali_data/vld_190331.RData")
+logLoss(vld$t1w*1, vld$p1)
+
+load("app_data/param_190331.RData")
+load("vali_data/vld_190331.RData")
+vld <- rbind(vld, validate(param, st="2019/04/01",ed="2019/04/06"))
+save(vld, file="vali_data/vld_190406.RData")
+sum(vld$correct)/nrow(vld)
+reliability.plot(verify(vld$t1w, vld$p1))
+
+load("app_data/param_190406.RData")
+load("vali_data/vld_190406.RData")
+#vld <- rbind(vld, validate(param, st="2019/04/01",ed="2019/04/06"))
+#save(vld, file="vali_data/vld_190406.RData")
+sum(vld$correct)/nrow(vld)
+reliability.plot(verify(vld$t1w, vld$p1))
+plot(c(vld$score1,vld$score2), c(vld$ps1,vld$ps2))
+abline(a=0,b=1)
+cor(c(vld$score1,vld$score2), c(vld$ps1,vld$ps2))

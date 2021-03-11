@@ -1,0 +1,4040 @@
+team1,team2,score1,score2,date
+ETSU,Abilene Christian,47,70,2020-11-25
+Florida Col.,South Fla.,84,94,2020-11-25
+Mount St. Mary's,Morgan St.,62,55,2020-11-25
+Oakland,Xavier,49,101,2020-11-25
+George Washington,Navy,71,78,2020-11-25
+Radford,Virginia Tech,62,77,2020-11-25
+McNeese,Nebraska,55,102,2020-11-25
+Limestone,James Madison,55,89,2020-11-25
+Prairie View,Little Rock,66,71,2020-11-25
+Keene St.,New Hampshire,54,93,2020-11-25
+Fla. National,Ga. Southern,65,97,2020-11-25
+North Georgia,Mercer,48,79,2020-11-25
+North Dakota,Miami (OH),67,81,2020-11-25
+Virginia,Towson,89,54,2020-11-25
+N.C. A&T,Illinois,60,122,2020-11-25
+App State,South Carolina St.,81,61,2020-11-25
+Illinois St.,Ohio St.,67,94,2020-11-25
+Drake,Kansas St.,80,70,2020-11-25
+Old Dominion,Maryland,67,85,2020-11-25
+Fairfield,Providence,56,97,2020-11-25
+Southern Wesleyan,USC Upstate,82,72,2020-11-25
+Memphis,Saint Mary's (CA),73,56,2020-11-25
+Austin Peay,Omaha,72,66,2020-11-25
+Lander,Chattanooga,63,99,2020-11-25
+North Dakota St.,Nevada,48,62,2020-11-25
+Toledo,Bradley,59,61,2020-11-25
+Lamar University,Houston,45,89,2020-11-25
+Piedmont,The Citadel,64,89,2020-11-25
+Alcorn,UAB,50,99,2020-11-25
+Bowling Green,Michigan,82,96,2020-11-25
+San Francisco,UMass Lowell,68,76,2020-11-25
+N.C. Central,Iowa,67,97,2020-11-25
+Oklahoma St.,UT Arlington,75,68,2020-11-25
+Evansville,Louisville,44,79,2020-11-25
+Tusculum,Furman,62,95,2020-11-25
+UMBC,Georgetown,62,70,2020-11-25
+UNCW,Western Caro.,76,98,2020-11-25
+Delaware St.,Wake Forest,51,111,2020-11-25
+Carver,Kennesaw St.,40,87,2020-11-25
+Western Ky.,UNI,93,87,2020-11-25
+Fairleigh Dickinson,Quinnipiac,66,84,2020-11-25
+UC Riverside,Pacific,60,66,2020-11-25
+Ohio,Chicago St.,84,61,2020-11-25
+North Florida,Eastern Ky.,67,80,2020-11-25
+Toccoa Falls,Wofford,49,88,2020-11-25
+William Jessup,Fresno St.,47,87,2020-11-25
+Morehead St.,Kentucky,45,81,2020-11-25
+Ball St.,Northern Ky.,73,74,2020-11-25
+Western Mich.,Butler,62,66,2020-11-25
+Col. of Charleston,North Carolina,60,79,2020-11-25
+Liberty,Purdue,64,77,2020-11-25
+Eastern Mich.,Michigan St.,67,83,2020-11-25
+Merchant Marine,Army West Point,32,93,2020-11-25
+Oakwood,North Ala.,74,98,2020-11-25
+UC Irvine,Pepperdine,72,86,2020-11-25
+Mary Hardin-Baylor,Texas St.,59,98,2020-11-25
+Flagler,FIU,81,85,2020-11-25
+California,Oregon St.,63,71,2020-11-25
+Rhode Island,Arizona St.,88,94,2020-11-25
+Westmont,CSUN,79,97,2020-11-25
+SIUE,Saint Louis,52,89,2020-11-25
+South Dakota St.,West Virginia,71,79,2020-11-25
+Coastal Ga.,Jacksonville,57,99,2020-11-25
+Southeastern La.,Purdue Fort Wayne,63,67,2020-11-25
+St. Andrews,VMI,63,90,2020-11-25
+N.C. Wesleyan,Elon,52,82,2020-11-25
+Northwestern St.,Texas Tech,58,101,2020-11-25
+High Point,Davidson,73,82,2020-11-25
+Florida A&M,FGCU,56,65,2020-11-25
+Sacred Heart,Rutgers,63,86,2020-11-25
+Green Bay,Minnesota,69,99,2020-11-25
+Oral Roberts,Missouri,64,91,2020-11-25
+Idaho St.,Santa Clara,49,62,2020-11-25
+Tex. Permian Basin,UTEP,81,100,2020-11-25
+UIC,Northern Ill.,65,61,2020-11-25
+Fla. Atlantic,South Alabama,66,68,2020-11-25
+Saint Francis (PA),Pittsburgh,80,70,2020-11-25
+Saint Peter's,St. John's (NY),75,76,2020-11-25
+Mississippi Val.,Arkansas,62,142,2020-11-25
+Charleston So.,NC State,61,95,2020-11-25
+Central Conn. St.,UConn,75,102,2020-11-25
+Dallas Christian,Tarleton St.,48,103,2020-11-25
+Southern Utah,LMU (CA),83,85,2020-11-25
+Westminster (UT),BYU,59,108,2020-11-25
+Sam Houston St.,SMU,67,97,2020-11-25
+Jacksonville St.,Alabama,57,81,2020-11-25
+Houston Baptist,TCU,45,69,2020-11-25
+UTRGV,Texas,55,91,2020-11-25
+South Dakota,Colorado,61,84,2020-11-25
+Tennessee Tech,Indiana,59,89,2020-11-25
+Clemson,Mississippi St.,53,42,2020-11-25
+Tex. A&M Int'l,A&M-Corpus Christi,53,64,2020-11-25
+California Baptist,Southern California,87,95,2020-11-25
+Georgia St.,Georgia Tech,123,120,2020-11-25
+Adams St.,Weber St.,60,88,2020-11-25
+Grambling,Grand Canyon,53,69,2020-11-25
+Villanova,Boston College,76,67,2020-11-25
+Montana St.,UNLV,91,78,2020-11-25
+VCU,Utah St.,85,69,2020-11-25
+Eastern Ill.,Wisconsin,67,77,2020-11-25
+Nicholls St.,UC Davis,101,93,2020-11-25
+Ark.-Pine Bluff,Marquette,57,99,2020-11-25
+Bethesda (CA),Sacramento St.,57,101,2020-11-25
+UCLA,San Diego St.,58,73,2020-11-25
+Texas Southern,Washington St.,52,56,2020-11-25
+Seattle U,Portland,84,72,2020-11-25
+Omaha,Middle Tenn.,60,59,2020-11-26
+Bradley,Xavier,50,51,2020-11-26
+Western Ky.,Memphis,75,69,2020-11-26
+Chicago St.,Illinois,38,97,2020-11-26
+Adams St.,Utah Valley,75,100,2020-11-26
+Gonzaga,Kansas,102,90,2020-11-26
+La Salle,St. John's (NY),65,82,2020-11-26
+Nevada,Nebraska,69,66,2020-11-26
+Austin Peay,ETSU,67,66,2020-11-26
+VCU,West Virginia,66,78,2020-11-26
+Toledo,Oakland,80,53,2020-11-26
+N.C. A&T,Ohio,72,84,2020-11-26
+San Francisco,Towson,79,68,2020-11-26
+Saint Joseph's,Auburn,91,96,2020-11-26
+Howard,Belmont,78,95,2020-11-26
+UNI,Saint Mary's (CA),64,66,2020-11-26
+Liberty,Mississippi St.,84,73,2020-11-26
+Northwest (WA),California,61,86,2020-11-26
+Boston College,Rhode Island,69,64,2020-11-26
+SIUE,LSU,81,94,2020-11-26
+Utah St.,South Dakota St.,59,83,2020-11-26
+Mississippi Val.,North Texas,62,116,2020-11-26
+Queens (NC),George Mason,65,66,2020-11-26
+Purdue,Clemson,70,81,2020-11-26
+New Orleans,BYU,61,86,2020-11-26
+Villanova,Arizona St.,83,74,2020-11-26
+Auburn,Gonzaga,67,90,2020-11-27
+ETSU,Middle Tenn.,57,43,2020-11-27
+Virginia,San Francisco,60,61,2020-11-27
+Toledo,Xavier,73,76,2020-11-27
+Norfolk St.,James Madison,83,73,2020-11-27
+Jacksonville St.,Fla. Atlantic,60,50,2020-11-27
+Western Caro.,Troy,64,66,2020-11-27
+Evansville,Prairie View,61,64,2020-11-27
+Ohio,Illinois,75,77,2020-11-27
+Northwest (WA),Oregon St.,42,114,2020-11-27
+West Virginia,Western Ky.,70,64,2020-11-27
+Lamar University,Tulane,57,66,2020-11-27
+Army West Point,Central Conn. St.,79,57,2020-11-27
+Abilene Christian,Austin Peay,80,72,2020-11-27
+Flagler,FIU,75,82,2020-11-27
+South Dakota,Drake,54,69,2020-11-27
+Rice,UIW,68,53,2020-11-27
+Sam Houston St.,Texas Tech,52,84,2020-11-27
+Belmont,George Mason,77,67,2020-11-27
+Saint Joseph's,Kansas,72,94,2020-11-27
+Eastern Ky.,Charleston So.,60,50,2020-11-27
+Boise St.,Houston,58,68,2020-11-27
+UCLA,Pepperdine,107,98,2020-11-27
+Navy,Maryland,52,82,2020-11-27
+Bryant,Syracuse,84,85,2020-11-27
+Oakland,Bradley,60,74,2020-11-27
+William Jessup,Seattle U,53,77,2020-11-27
+East Carolina,Charlotte,66,57,2020-11-27
+UNCW,UNC Asheville,76,68,2020-11-27
+N.C. A&T,Chicago St.,74,44,2020-11-27
+Arkansas St.,Marshall,56,70,2020-11-27
+UC Davis,Santa Clara,63,66,2020-11-27
+Tex. Permian Basin,UTSA,71,97,2020-11-27
+Saint Peter's,La Salle,62,51,2020-11-27
+Utah St.,UNI,82,71,2020-11-27
+Toccoa Falls,Georgia St.,60,105,2020-11-27
+Seton Hall,Louisville,70,71,2020-11-27
+Buffalo,Towson,74,65,2020-11-27
+Southern U.,Iowa,76,103,2020-11-27
+Grambling,Arizona,55,74,2020-11-27
+Howard,Queens (NC),71,85,2020-11-27
+Kansas City,Greenville,138,97,2020-11-27
+North Florida,NC State,51,86,2020-11-27
+Carver,App State,23,105,2020-11-27
+Morehead St.,Richmond,64,82,2020-11-27
+Mobile,South Alabama,75,95,2020-11-27
+South Dakota St.,Saint Mary's (CA),59,72,2020-11-27
+Nicholls St.,Idaho St.,70,51,2020-11-27
+UNC Greensboro,Little Rock,77,70,2020-11-27
+Bethesda (CA),Cal Poly,46,100,2020-11-27
+Valparaiso,Vanderbilt,71,77,2020-11-27
+Fairleigh Dickinson,Rutgers,75,96,2020-11-27
+UC Irvine,San Diego St.,58,77,2020-11-27
+Longwood,Wake Forest,60,71,2020-11-27
+Eastern Ill.,Marquette,50,75,2020-11-27
+UT Arlington,Louisiana Tech,71,76,2020-11-27
+Mercer,Georgia Tech,83,73,2020-11-27
+Hartford,UConn,57,69,2020-11-27
+Colorado,Kansas St.,76,58,2020-11-27
+Ark.-Pine Bluff,Wisconsin,58,92,2020-11-27
+VCU,Memphis,70,59,2020-11-27
+Omaha,Abilene Christian,58,70,2020-11-28
+North Dakota St.,Nebraska,57,79,2020-11-28
+Belmont,Queens (NC),73,61,2020-11-28
+South Carolina St.,Bowling Green,78,101,2020-11-28
+UNCW,Troy,73,50,2020-11-28
+Limestone,Col. of Charleston,59,99,2020-11-28
+Drexel,Pittsburgh,74,83,2020-11-28
+VMI,Penn St.,65,86,2020-11-28
+Illinois St.,UMass Lowell,82,72,2020-11-28
+Coppin St.,Duke,71,81,2020-11-28
+Southern Miss.,Jacksonville,51,66,2020-11-28
+Mobile,Fla. Atlantic,41,83,2020-11-28
+Carver,Wofford,37,111,2020-11-28
+USC Upstate,Furman,63,91,2020-11-28
+Our Lady of the Lake,Rice,64,103,2020-11-28
+LSU,Saint Louis,81,85,2020-11-28
+Buffalo,Army West Point,74,78,2020-11-28
+Navy,Mount St. Mary's,73,67,2020-11-28
+George Mason,Howard,84,70,2020-11-28
+Regis (CO),Denver,66,82,2020-11-28
+Texas St.,A&M-Corpus Christi,75,63,2020-11-28
+UMBC,Saint Francis (PA),80,65,2020-11-28
+Southeastern La.,UAB,59,84,2020-11-28
+St. Katherine,Southern Utah,47,95,2020-11-28
+William Jessup,Portland,73,83,2020-11-28
+Toccoa Falls,Kennesaw St.,44,106,2020-11-28
+High Point,Elon,75,76,2020-11-28
+UC Davis,Idaho St.,70,61,2020-11-28
+UT Arlington,Northwestern St.,80,71,2020-11-28
+South Carolina,Liberty,62,78,2020-11-28
+Air Force,CSUN,66,61,2020-11-28
+UTSA,UTRGV,64,81,2020-11-28
+Coastal Ga.,Ga. Southern,79,91,2020-11-28
+N.C. Wesleyan,Coastal Carolina,68,117,2020-11-28
+Mississippi Val.,Wyoming,61,97,2020-11-28
+Western Caro.,UNC Asheville,83,81,2020-11-28
+Lipscomb,Lamar University,76,73,2020-11-28
+Southeast Mo. St.,Kansas City,71,66,2020-11-28
+Rhode Island,South Fla.,84,68,2020-11-28
+LMU (CA),Minnesota,73,88,2020-11-28
+North Texas,Arkansas,54,69,2020-11-28
+Central Mich.,UIC,72,74,2020-11-28
+Radford,Norfolk St.,54,57,2020-11-28
+Nicholls St.,Santa Clara,57,73,2020-11-28
+William & Mary,Old Dominion,78,86,2020-11-28
+Tulsa,TCU,65,70,2020-11-28
+Texas Southern,Oklahoma St.,65,85,2020-11-28
+Notre Dame,Michigan St.,70,80,2020-11-28
+Virginia Tech,Villanova,81,73,2020-11-28
+Benedictine Mesa,Grand Canyon,63,94,2020-11-28
+Louisiana,Baylor,82,112,2020-11-28
+Rogers St.,Oral Roberts,63,93,2020-11-28
+St. Louis Pharmacy,SIUE,45,80,2020-11-28
+Utah Valley,BYU,60,82,2020-11-28
+Montana,Southern California,62,76,2020-11-28
+Eastern Wash.,Washington St.,68,71,2020-11-28
+Transylvania,Bellarmine,40,90,2020-11-28
+UMass Lowell,Ohio St.,64,74,2020-11-29
+Ark.-Pine Bluff,Iowa St.,63,80,2020-11-29
+Richmond,Kentucky,76,64,2020-11-29
+Tulsa,South Carolina,58,69,2020-11-29
+Northwestern St.,Louisiana Tech,77,91,2020-11-29
+Lipscomb,Tulane,66,68,2020-11-29
+Boise St.,Sam Houston St.,86,55,2020-11-29
+Mount St. Mary's,Maryland,61,79,2020-11-29
+Our Lady of the Lake,UIW,71,84,2020-11-29
+Florida A&M,Georgia,75,85,2020-11-29
+Alabama A&M,Samford,78,76,2020-11-29
+Northwest (WA),Portland,69,74,2020-11-29
+New Orleans,Texas A&M,53,82,2020-11-29
+Air Force,Seattle U,45,63,2020-11-29
+TCU,Liberty,56,52,2020-11-29
+Arkansas St.,Morehead St.,61,69,2020-11-29
+Hofstra,Rutgers,56,70,2020-11-29
+Houston Baptist,Arizona St.,77,100,2020-11-29
+North Dakota St.,Creighton,58,69,2020-11-29
+Jacksonville St.,South Alabama,77,73,2020-11-29
+Greenville,Murray St.,95,173,2020-11-29
+Texas Tech,Houston,53,64,2020-11-29
+San Francisco,Rhode Island,71,84,2020-11-29
+North Florida,Miami (FL),59,77,2020-11-29
+Prairie View,Louisville,64,86,2020-11-29
+Oakland,Michigan,71,81,2020-11-29
+Washington,Baylor,52,86,2020-11-29
+St. Katherine,UC Santa Barbara,55,92,2020-11-29
+New Mexico St.,Arizona Christian,83,77,2020-11-29
+Virginia Tech,South Fla.,76,58,2020-11-29
+Radford,James Madison,59,67,2020-11-29
+Piedmont,Western Caro.,58,96,2020-11-30
+Texas,Davidson,78,76,2020-11-30
+Indiana,Providence,79,58,2020-11-30
+Mobile,Jacksonville St.,66,85,2020-11-30
+Little Rock,Duquesne,76,66,2020-11-30
+St. Andrews,Campbell,51,85,2020-11-30
+CSUN,Seattle U,76,65,2020-11-30
+Bowling Green,App State,78,76,2020-11-30
+Boston College,St. John's (NY),93,97,2020-11-30
+Chattanooga,Tennessee Tech,62,54,2020-11-30
+Fairleigh Dickinson,Hofstra,58,73,2020-11-30
+Eastern Ky.,Xavier,96,99,2020-11-30
+Georgia St.,Mercer,69,86,2020-11-30
+North Carolina,UNLV,78,51,2020-11-30
+Auburn,UCF,55,63,2020-11-30
+Nicholls St.,California,49,60,2020-11-30
+Southeastern La.,LSU,43,96,2020-11-30
+LMU (CA),Minnesota,64,67,2020-11-30
+Texas St.,Mississippi St.,51,68,2020-11-30
+A&M-Corpus Christi,SMU,54,91,2020-11-30
+Kansas City,Kansas St.,58,62,2020-11-30
+Texas Southern,Wyoming,76,74,2020-11-30
+Iona,Seton Hall,64,86,2020-11-30
+Stanford,Alabama,82,64,2020-11-30
+Pacific,Nevada,58,70,2020-11-30
+Texas,Indiana,66,44,2020-12-01
+Southern California,BYU,79,53,2020-12-01
+Oakland,Purdue,50,93,2020-12-01
+Saint Francis (PA),Virginia,51,76,2020-12-01
+UC Riverside,Washington,57,42,2020-12-01
+Bryant,New Hampshire,93,85,2020-12-01
+North Carolina,Stanford,67,63,2020-12-01
+Longwood,VMI,71,84,2020-12-01
+N.C. Wesleyan,East Carolina,62,91,2020-12-01
+Omaha,Creighton,67,94,2020-12-01
+Green Bay,Wisconsin,42,82,2020-12-01
+Hartford,Villanova,53,87,2020-12-01
+Lincoln (PA),Morgan St.,94,102,2020-12-01
+Western Ky.,Louisville,54,75,2020-12-01
+Navy,Georgetown,78,71,2020-12-01
+Stony Brook,Saint Peter's,68,82,2020-12-01
+Davidson,Providence,62,63,2020-12-01
+Eastern Ill.,Dayton,63,66,2020-12-01
+Central Mich.,FIU,76,96,2020-12-01
+N.C. A&T,Charleston So.,70,63,2020-12-01
+Oklahoma St.,Marquette,70,62,2020-12-01
+Valparaiso,UIC,50,66,2020-12-01
+Cleveland St.,Toledo,61,70,2020-12-01
+Michigan St.,Duke,75,69,2020-12-01
+LeTourneau,SFA,57,102,2020-12-01
+Hampton,George Washington,82,78,2020-12-01
+Judson (AL),Bradley,32,105,2020-12-01
+Howard Payne,Abilene Christian,51,81,2020-12-01
+Winthrop,UNC Greensboro,75,67,2020-12-01
+South Dakota,Nebraska,69,76,2020-12-01
+Mississippi Val.,Grand Canyon,49,88,2020-12-01
+Kentucky,Kansas,62,65,2020-12-01
+UNLV,Alabama,74,86,2020-12-01
+Nicholls St.,Saint Mary's (CA),50,73,2020-12-01
+Indiana,Stanford,79,63,2020-12-02
+Army West Point,Florida,69,76,2020-12-02
+Texas,North Carolina,69,67,2020-12-02
+FGCU,South Fla.,57,76,2020-12-02
+VCU,Penn St.,69,72,2020-12-02
+Morehead St.,Ohio St.,44,77,2020-12-02
+Lipscomb,Cincinnati,55,67,2020-12-02
+Montana St.,Pacific,70,74,2020-12-02
+St. John's (NY),BYU,68,74,2020-12-02
+Eastern Ky.,USC Upstate,95,78,2020-12-02
+Greenville,Illinois St.,108,177,2020-12-02
+UNC Greensboro,Duquesne,68,81,2020-12-02
+South Carolina St.,Clemson,38,75,2020-12-02
+Southern Wesleyan,Furman,49,89,2020-12-02
+Providence,Alabama,71,88,2020-12-02
+North Georgia,Georgia,62,84,2020-12-02
+West Virginia,Gonzaga,82,87,2020-12-02
+Ball St.,Michigan,65,84,2020-12-02
+Tennessee Tech,Xavier,48,79,2020-12-02
+SIUE,Northern Ill.,73,53,2020-12-02
+Tarleton St.,Texas A&M,66,73,2020-12-02
+Oral Roberts,Wichita St.,80,85,2020-12-02
+South Dakota St.,Iowa St.,71,68,2020-12-02
+Presbyterian,Jacksonville,65,78,2020-12-02
+Hartford,Fairfield,66,61,2020-12-02
+Seton Hall,Rhode Island,63,76,2020-12-02
+Southern Ill.,Southeast Mo. St.,87,79,2020-12-02
+Kennesaw St.,UAB,48,73,2020-12-02
+Murray St.,Middle Tenn.,61,78,2020-12-02
+Drexel,Quinnipiac,66,48,2020-12-02
+Dallas Christian,McNeese,37,140,2020-12-02
+Louisiana,New Orleans,66,63,2020-12-02
+William Carey,Southern Miss.,53,80,2020-12-02
+Old Dominion,Norfolk St.,80,66,2020-12-02
+Houston Baptist,SMU,75,102,2020-12-02
+North Florida,Florida St.,58,86,2020-12-02
+A&M-Corpus Christi,UTRGV,59,62,2020-12-02
+Evansville,UT Martin,87,93,2020-12-02
+Westminster (UT),Utah Valley,71,79,2020-12-02
+Arkansas St.,Memphis,54,83,2020-12-02
+Missouri,Oregon,83,75,2020-12-02
+La Sierra,UC Irvine,54,104,2020-12-02
+UT Arlington,Arkansas,60,72,2020-12-02
+UIW,Wyoming,83,94,2020-12-02
+Ark.-Pine Bluff,Northwestern,49,92,2020-12-02
+North Dakota,Dixie St.,73,74,2020-12-02
+San Francisco,Nevada,85,60,2020-12-02
+St. Katherine,San Diego St.,41,83,2020-12-02
+Davidson,UNLV,77,73,2020-12-02
+Southeastern La.,California Baptist,81,80,2020-12-02
+Oregon St.,Washington St.,55,59,2020-12-02
+Illinois,Baylor,69,82,2020-12-02
+CSU Bakersfield,Santa Clara,47,53,2020-12-02
+Quinnipiac,Drexel,58,70,2020-12-03
+LeTourneau,Rice,74,94,2020-12-03
+Chicago St.,Eastern Ill.,56,78,2020-12-03
+Winthrop,Little Rock,80,75,2020-12-03
+UMass Lowell,NC State,59,90,2020-12-03
+Tennessee Tech,Northern Ky.,65,74,2020-12-03
+Washington,Utah,62,76,2020-12-03
+Columbia Int'l,Coastal Carolina,56,113,2020-12-03
+Purdue Northwest,Bowling Green,67,88,2020-12-03
+Saint Francis (PA),Liberty,62,78,2020-12-03
+Newberry,Western Caro.,84,91,2020-12-03
+Southern California,UConn,58,61,2020-12-03
+Marshall,Wright St.,80,64,2020-12-03
+Fla. National,Fla. Atlantic,64,128,2020-12-03
+N.C. A&T,The Citadel,70,78,2020-12-03
+ULM,Louisiana Tech,62,78,2020-12-03
+Western Ill.,Iowa,58,99,2020-12-03
+Omaha,Drake,66,87,2020-12-03
+East Tex. Baptist,Grambling,59,68,2020-12-03
+Seattle U,UCLA,52,78,2020-12-03
+UTSA,Oklahoma,66,105,2020-12-03
+Washburn,Kansas,54,89,2020-12-03
+Niagara,Syracuse,45,75,2020-12-03
+VMI,Virginia Tech,57,64,2020-12-03
+Northwestern St.,TCU,68,74,2020-12-03
+Montana,Southern Utah,63,64,2020-12-03
+Idaho,Sacramento St.,55,77,2020-12-03
+St. Katherine,Pepperdine,45,94,2020-12-03
+Boston College,Florida,70,90,2020-12-03
+Texas Southern,Saint Mary's (CA),70,82,2020-12-03
+Arizona St.,California,70,62,2020-12-03
+Saint Peter's,Maryland,57,90,2020-12-04
+Fairfield,Stony Brook,69,72,2020-12-04
+UT Arlington,Tulsa,64,79,2020-12-04
+Detroit Mercy,Michigan St.,76,83,2020-12-04
+Southeastern La.,California Baptist,66,83,2020-12-04
+Kennesaw St.,Creighton,58,93,2020-12-04
+Kent St.,Virginia,64,71,2020-12-04
+Georgia St.,Charlotte,76,65,2020-12-04
+Central Conn. St.,Hartford,65,80,2020-12-04
+Bellarmine,Duke,54,76,2020-12-04
+Wisconsin,Marquette,65,67,2020-12-04
+William Jessup,UC Davis,62,95,2020-12-04
+Carver,Austin Peay,38,102,2020-12-04
+St. Ambrose,UNI,53,98,2020-12-04
+Sul Ross St.,UTSA,62,91,2020-12-04
+Our Lady of the Lake,UTRGV,68,91,2020-12-04
+Toledo,Eastern Mich.,91,74,2020-12-04
+Jacksonville St.,FIU,70,74,2020-12-04
+Valparaiso,Purdue,61,68,2020-12-04
+Jacksonville,Georgia,65,98,2020-12-04
+Dallas Christian,Sam Houston St.,42,117,2020-12-04
+McNeese,SFA,76,86,2020-12-04
+Stetson,Miami (FL),60,82,2020-12-04
+Crowley's Ridge,Arkansas St.,49,115,2020-12-04
+North Texas,Mississippi St.,63,69,2020-12-04
+South Dakota St.,Bradley,88,84,2020-12-04
+Central Ark.,Memphis,68,85,2020-12-04
+Long Beach St.,LMU (CA),61,85,2020-12-04
+Troy,Texas Tech,46,80,2020-12-04
+Seton Hall,Oregon,70,83,2020-12-04
+San Francisco,Cal Poly,88,60,2020-12-04
+North Dakota,Minnesota,67,76,2020-12-04
+South Alabama,Auburn,81,90,2020-12-04
+Columbia Int'l,Mercer,62,88,2020-12-05
+Bluefield Col.,Liberty,64,86,2020-12-05
+Toccoa Falls,The Citadel,58,100,2020-12-05
+Idaho,Sacramento St.,57,73,2020-12-05
+Montana,Southern Utah,74,75,2020-12-05
+Eastern Wash.,Arizona,67,70,2020-12-05
+Northern Ky.,Chattanooga,72,79,2020-12-05
+Coppin St.,George Washington,69,85,2020-12-05
+Marist,Binghamton,68,65,2020-12-05
+South Carolina St.,UNC Asheville,56,77,2020-12-05
+Mount St. Mary's,VCU,42,60,2020-12-05
+Radford,East Carolina,50,63,2020-12-05
+SMU,Dayton,66,64,2020-12-05
+North Florida,High Point,74,85,2020-12-05
+Salem (WV),Delaware,76,79,2020-12-05
+UIC,Ball St.,66,68,2020-12-05
+Furman,Col. of Charleston,81,57,2020-12-05
+Eastern Ill.,Green Bay,93,91,2020-12-05
+Lamar University,Air Force,44,59,2020-12-05
+UIW,Texas St.,64,72,2020-12-05
+Omaha,SIUE,65,63,2020-12-05
+Lewis,Loyola Chicago,48,76,2020-12-05
+Miami (OH),Wright St.,47,71,2020-12-05
+North Dakota St.,Kansas,61,65,2020-12-05
+St. Katherine,Dixie St.,48,86,2020-12-05
+Iona,Hofstra,82,74,2020-12-05
+Fairleigh Dickinson,Providence,67,79,2020-12-05
+Chicago St.,Northwestern,66,111,2020-12-05
+Samford,Belmont,96,83,2020-12-05
+LSU-Shreveport,Louisiana,73,84,2020-12-05
+Lipscomb,Arkansas,50,86,2020-12-05
+Illinois St.,Murray St.,65,76,2020-12-05
+Point Park,Robert Morris,57,75,2020-12-05
+Ga. Southern,USC Upstate,72,69,2020-12-05
+South Carolina,Houston,67,77,2020-12-05
+Fla. National,FGCU,74,91,2020-12-05
+Northern Ill.,Pittsburgh,59,89,2020-12-05
+Rider,Syracuse,52,87,2020-12-05
+Oakland,Oklahoma St.,71,84,2020-12-05
+Sul Ross St.,UTEP,65,84,2020-12-05
+UNLV,Kansas St.,68,58,2020-12-05
+Tarleton St.,Abilene Christian,48,69,2020-12-05
+Rice,Houston Baptist,86,64,2020-12-05
+Ark.-Pine Bluff,Saint Louis,54,107,2020-12-05
+BYU,Utah St.,67,64,2020-12-05
+Portland St.,Portland,73,86,2020-12-05
+Tennessee Tech,Western Caro.,75,76,2020-12-06
+Villanova,Texas,68,64,2020-12-06
+Southern Wesleyan,Mercer,85,96,2020-12-06
+Missouri,Wichita St.,72,62,2020-12-06
+Stetson,Florida,40,86,2020-12-06
+Coppin St.,Drexel,54,69,2020-12-06
+Stanford,N.C. A&T,78,46,2020-12-06
+Grambling,Texas Tech,40,81,2020-12-06
+Judson (AL),Valparaiso,45,85,2020-12-06
+Cleveland St.,Ohio,46,101,2020-12-06
+New Hampshire,Quinnipiac,58,64,2020-12-06
+Stony Brook,St. John's (NY),66,89,2020-12-06
+St. Ambrose,Drake,53,97,2020-12-06
+Carver,North Ala.,40,107,2020-12-06
+Xavier,Cincinnati,77,69,2020-12-06
+Mississippi Val.,Western Ky.,69,96,2020-12-06
+Central Ark.,Little Rock,83,86,2020-12-06
+Troy,UAB,55,77,2020-12-06
+UC Riverside,Denver,83,63,2020-12-06
+ULM,Northwestern St.,92,83,2020-12-06
+Central Mich.,Western Ill.,79,73,2020-12-06
+UTRGV,Texas A&M,68,81,2020-12-06
+Greensboro,Longwood,67,64,2020-12-06
+La Salle,Army West Point,59,63,2020-12-06
+Binghamton,Marist,60,64,2020-12-06
+N.C. Wesleyan,App State,57,81,2020-12-06
+UCF,Michigan,58,80,2020-12-06
+Seattle U,Long Beach St.,75,80,2020-12-06
+Oklahoma,TCU,82,78,2020-12-06
+Wyoming,Oregon St.,76,73,2020-12-06
+West Virginia,Georgetown,80,71,2020-12-06
+Pepperdine,San Diego St.,60,65,2020-12-06
+Kentucky,Georgia Tech,62,79,2020-12-06
+Quincy,Southern Ill.,61,102,2020-12-06
+LSU-Alexandria,SFA,79,97,2020-12-06
+Louisiana Tech,LSU,55,86,2020-12-06
+Howard Payne,Sam Houston St.,54,117,2020-12-06
+Western Mich.,Michigan St.,61,79,2020-12-06
+Buffalo,Bowling Green,78,86,2020-12-06
+Bellarmine,Howard,84,63,2020-12-06
+Detroit Mercy,Notre Dame,70,78,2020-12-06
+Seton Hall,Penn St.,98,92,2020-12-06
+California,UCLA,56,76,2020-12-06
+Wofford,Richmond,72,77,2020-12-07
+Fairfield,Hartford,54,67,2020-12-07
+George Washington,UMBC,81,92,2020-12-07
+UNCW,East Carolina,78,88,2020-12-07
+N.C. Central,Coastal Carolina,71,78,2020-12-07
+South Carolina St.,Charlotte,40,78,2020-12-07
+Hampton,Norfolk St.,64,76,2020-12-07
+Eastern Wash.,Oregon,52,69,2020-12-07
+Bethesda (CA),CSU Bakersfield,43,94,2020-12-07
+Adrian,Western Mich.,42,62,2020-12-07
+Columbia Int'l,The Citadel,57,96,2020-12-07
+Fla. Atlantic,North Florida,79,77,2020-12-07
+Morehead St.,Eastern Ky.,68,71,2020-12-07
+Chattanooga,Middle Tenn.,80,70,2020-12-07
+Lipscomb,Southeast Mo. St.,77,82,2020-12-07
+LMU (CA),UC Santa Barbara,58,69,2020-12-07
+Lewis,Bradley,62,95,2020-12-07
+Northern Ariz.,Arizona,53,96,2020-12-07
+Fla. National,New Orleans,57,74,2020-12-08
+Morgan St.,Iona,83,72,2020-12-08
+Delaware,UMBC,61,76,2020-12-08
+Lincoln (PA),La Salle,62,80,2020-12-08
+Creighton,Kansas,72,73,2020-12-08
+Purdue,Miami (FL),54,58,2020-12-08
+Stetson,South Fla.,62,73,2020-12-08
+Wagner,Seton Hall,45,78,2020-12-08
+Truman,Indiana St.,66,80,2020-12-08
+Greensboro,VMI,65,100,2020-12-08
+Colorado,Tennessee,47,56,2020-12-08
+N.C. A&T,Longwood,60,77,2020-12-08
+Idaho St.,Utah,59,75,2020-12-08
+Coppin St.,Georgetown,48,80,2020-12-08
+Northern Ky.,Dayton,60,66,2020-12-08
+Rider,St. John's (NY),79,82,2020-12-08
+Campbell,Jacksonville,80,78,2020-12-08
+Ball St.,Northern Ill.,79,70,2020-12-08
+Kent St.,Detroit Mercy,80,66,2020-12-08
+Carver,Charleston So.,59,94,2020-12-08
+William Carey,South Alabama,67,80,2020-12-08
+Saint Francis (PA),Mount St. Mary's,57,75,2020-12-08
+Boston College,Minnesota,80,85,2020-12-08
+Bryant,St. Francis Brooklyn,101,82,2020-12-08
+LSU-Alexandria,Louisiana,75,90,2020-12-08
+Central Conn. St.,Fairleigh Dickinson,94,87,2020-12-08
+Montana,Georgia,50,63,2020-12-08
+Tennessee St.,Belmont,64,79,2020-12-08
+North Carolina,Iowa,80,93,2020-12-08
+Ohio St.,Notre Dame,90,85,2020-12-08
+Fort Hays St.,Kansas St.,81,68,2020-12-08
+Oral Roberts,Oklahoma St.,78,83,2020-12-08
+Mississippi Val.,Memphis,57,94,2020-12-08
+Central Ark.,Saint Louis,65,88,2020-12-08
+Austin Peay,Murray St.,57,87,2020-12-08
+Penn St.,Virginia Tech,75,55,2020-12-08
+Jackson St.,Mississippi St.,59,82,2020-12-08
+Green Bay,Marquette,68,82,2020-12-08
+Col. of Idaho,Utah St.,64,90,2020-12-08
+Westminster (UT),Weber St.,73,85,2020-12-08
+Illinois,Duke,83,68,2020-12-08
+Syracuse,Rutgers,69,79,2020-12-08
+UTEP,Saint Mary's (CA),61,73,2020-12-08
+UC Irvine,Southern California,56,91,2020-12-08
+Northwest (WA),Portland St.,48,88,2020-12-08
+Mars Hill,Radford,50,98,2020-12-09
+New Orleans,Campbell,70,79,2020-12-09
+Chicago St.,Loyola Chicago,51,88,2020-12-09
+Central Conn. St.,Fairleigh Dickinson,71,79,2020-12-09
+Bryant,St. Francis Brooklyn,91,93,2020-12-09
+Rhode Island,Wisconsin,62,73,2020-12-09
+Providence,TCU,79,70,2020-12-09
+Maryland,Clemson,51,67,2020-12-09
+Furman,Cincinnati,73,78,2020-12-09
+Western Ill.,Miami (OH),57,67,2020-12-09
+UNI,Richmond,68,78,2020-12-09
+Transylvania,Morehead St.,55,77,2020-12-09
+Toledo,Michigan,71,91,2020-12-09
+CSU Bakersfield,Arizona,60,85,2020-12-09
+Ark.-Pine Bluff,Arkansas St.,75,74,2020-12-09
+Chattanooga,Bellarmine,77,68,2020-12-09
+Adrian,Eastern Mich.,35,95,2020-12-09
+Fla. National,Jacksonville,69,78,2020-12-09
+St. Andrews,UNCW,66,116,2020-12-09
+Point Park,Youngstown St.,52,72,2020-12-09
+N.C. A&T,VCU,59,95,2020-12-09
+SIUE,Valparaiso,58,80,2020-12-09
+Carver,The Citadel,51,102,2020-12-09
+Eastern Ill.,Evansville,65,68,2020-12-09
+Stony Brook,Hofstra,67,72,2020-12-09
+Marshall,Col. of Charleston,84,72,2020-12-09
+Abilene Christian,Texas Tech,44,51,2020-12-09
+Lamar University,ULM,63,60,2020-12-09
+Indiana,Florida St.,67,69,2020-12-09
+Georgia Tech,Nebraska,75,64,2020-12-09
+Tuskegee,UAB,64,89,2020-12-09
+Southeastern La.,Louisiana Tech,69,78,2020-12-09
+Southern U.,Arkansas,44,79,2020-12-09
+Arlington Baptist,Tarleton St.,43,84,2020-12-09
+McKendree,Drake,66,90,2020-12-09
+Oklahoma,Xavier,77,99,2020-12-09
+SFA,Baylor,52,83,2020-12-09
+Fresno Pacific,San Jose St.,79,87,2020-12-09
+Southern Miss.,Tulane,38,58,2020-12-09
+Southern Utah,Utah Valley,81,71,2020-12-09
+Southeast Mo. St.,Lipscomb,74,80,2020-12-09
+Texas St.,Texas,53,74,2020-12-09
+Liberty,Missouri,60,69,2020-12-09
+Colo. Christian,Northern Colo.,62,87,2020-12-09
+Santa Clara,Cal Poly,76,69,2020-12-09
+California,Pepperdine,62,74,2020-12-09
+Idaho,Washington St.,58,61,2020-12-09
+San Diego,UCLA,56,83,2020-12-09
+Boise St.,BYU,74,70,2020-12-09
+Denver,Wyoming,61,83,2020-12-09
+Pittsburgh,Northwestern,71,70,2020-12-09
+Seattle U,Washington,41,73,2020-12-09
+Florida A&M,Oregon,66,87,2020-12-09
+Fla. National,Campbell,92,122,2020-12-10
+Western Ill.,Mt. St. Joseph,80,55,2020-12-10
+Purdue Northwest,Ohio,72,92,2020-12-10
+Mercyhurst,Buffalo,64,81,2020-12-10
+North Florida,East Carolina,67,73,2020-12-10
+New Orleans,Jacksonville,70,77,2020-12-10
+Transylvania,Morehead St.,55,81,2020-12-10
+North Dakota,South Dakota,75,71,2020-12-10
+UNC Greensboro,Coppin St.,80,85,2020-12-10
+UC Riverside,Northern Ariz.,74,50,2020-12-10
+Troy,North Ala.,62,57,2020-12-10
+LeTourneau,Sam Houston St.,65,107,2020-12-10
+UTRGV,A&M-Corpus Christi,68,64,2020-12-10
+Kansas City,Minnesota,61,90,2020-12-10
+Portland,Oregon St.,87,86,2020-12-10
+Gardner-Webb,Western Ky.,84,86,2020-12-10
+Jackson St.,Ole Miss,45,80,2020-12-10
+Long Beach St.,San Francisco,62,107,2020-12-10
+North Dakota St.,South Dakota St.,75,77,2020-12-10
+San Diego St.,Arizona St.,80,68,2020-12-10
+Hawaii Pacific,Hawaii,50,83,2020-12-11
+Northeastern,Massachusetts,79,94,2020-12-11
+North Texas,West Virginia,50,62,2020-12-11
+St. John's (NY),Seton Hall,68,77,2020-12-11
+App State,Charlotte,61,57,2020-12-11
+Col. of Idaho,Eastern Wash.,56,80,2020-12-11
+Mt. St. Joseph,Miami (OH),64,79,2020-12-11
+Rider,Manhattan,82,64,2020-12-11
+LeTourneau,Texas Southern,60,103,2020-12-11
+South Dakota St.,North Dakota,74,62,2020-12-11
+Villanova,Georgetown,76,63,2020-12-11
+Iona,Fairfield,70,42,2020-12-11
+George Washington,Delaware,65,68,2020-12-11
+Nebraska,Creighton,74,98,2020-12-11
+South Carolina St.,Col. of Charleston,63,90,2020-12-11
+Omaha,Kansas,50,95,2020-12-11
+Marist,Canisius,72,81,2020-12-11
+Ga. Southern,Davidson,45,77,2020-12-11
+Hardin-Simmons,UT Arlington,66,91,2020-12-11
+Murray St.,Southern Ill.,66,70,2020-12-11
+Niagara,Saint Peter's,54,70,2020-12-11
+Champion Chris.,Houston Baptist,60,93,2020-12-11
+Milwaukee,Kansas St.,75,76,2020-12-11
+Regis (CO),Northern Colo.,58,83,2020-12-11
+Central Baptist,Arkansas St.,69,81,2020-12-11
+Nevada,Grand Canyon,77,87,2020-12-11
+South Dakota,North Dakota St.,67,74,2020-12-11
+Iowa St.,Iowa,77,105,2020-12-11
+Marquette,UCLA,60,69,2020-12-11
+San Jose St.,Saint Mary's (CA),61,96,2020-12-11
+Florida,Florida St.,71,83,2020-12-12
+Tennessee St.,IUPUI,66,69,2020-12-12
+FGCU,Miami (FL),66,62,2020-12-12
+Wofford,South Fla.,56,58,2020-12-12
+Kansas City,Toledo,57,64,2020-12-12
+Notre Dame,Kentucky,64,63,2020-12-12
+Cincinnati,Tennessee,56,65,2020-12-12
+Stony Brook,Bryant,72,81,2020-12-12
+Columbia Int'l,Liberty,26,73,2020-12-12
+Syracuse,Boston College,101,63,2020-12-12
+McMurry,Abilene Christian,46,83,2020-12-12
+Cedarville,Akron,49,97,2020-12-12
+Dalton St.,Kennesaw St.,62,72,2020-12-12
+N.C. Central,North Carolina,67,73,2020-12-12
+North Georgia,Chattanooga,63,81,2020-12-12
+Detroit Mercy,Western Mich.,67,57,2020-12-12
+Ark.-Pine Bluff,Tulane,56,67,2020-12-12
+Flagler,Furman,61,86,2020-12-12
+High Point,UNC Asheville,67,80,2020-12-12
+La Salle,Drexel,58,48,2020-12-12
+Texas A&M,TCU,55,73,2020-12-12
+A&M-Corpus Christi,Texas Tech,57,77,2020-12-12
+Southwestern Christ.,Oral Roberts,58,111,2020-12-12
+Dixie St.,Denver,73,70,2020-12-12
+Dayton,Mississippi St.,85,82,2020-12-12
+Oklahoma St.,Wichita St.,67,64,2020-12-12
+South Alabama,Southern Miss.,76,75,2020-12-12
+Transylvania,Eastern Ky.,60,81,2020-12-12
+Colorado St.-Pueblo,Colorado St.,77,89,2020-12-12
+UAB,ETSU,65,61,2020-12-12
+Western Caro.,N.C. A&T,104,98,2020-12-12
+Winthrop,USC Upstate,95,77,2020-12-12
+Idaho,CSU Bakersfield,66,76,2020-12-12
+Gardner-Webb,Pittsburgh,50,67,2020-12-12
+Wyoming,Utah Valley,93,88,2020-12-12
+Valparaiso,Central Mich.,79,84,2020-12-12
+Western Ill.,Eastern Ill.,88,92,2020-12-12
+FIU,North Florida,77,80,2020-12-12
+UC Santa Barbara,LMU (CA),76,81,2020-12-12
+SFA,ULM,55,66,2020-12-12
+Old Dominion,VCU,54,77,2020-12-12
+Florida A&M,Oklahoma,54,85,2020-12-12
+Our Lady of the Lake,Texas St.,61,58,2020-12-12
+UNCW,Ole Miss,58,78,2020-12-12
+Covenant,Middle Tenn.,57,76,2020-12-12
+Greensboro,Coastal Carolina,45,103,2020-12-12
+Champion Chris.,Northwestern St.,44,77,2020-12-12
+Auburn,Memphis,74,71,2020-12-12
+Fresno Pacific,California Baptist,71,110,2020-12-12
+UTEP,Arizona,61,69,2020-12-12
+Utah,BYU,64,82,2020-12-12
+Rider,Manhattan,77,87,2020-12-12
+North Dakota,North Dakota St.,52,53,2020-12-12
+Samford,Georgia,75,79,2020-12-12
+Illinois St.,Ball St.,66,82,2020-12-12
+Marist,Canisius,56,52,2020-12-12
+Louisiana Tech,Louisiana,56,61,2020-12-12
+Iona,Fairfield,52,67,2020-12-12
+Carver,McNeese,53,96,2020-12-12
+Indiana St.,Purdue,68,80,2020-12-12
+Oregon,Washington,74,71,2020-12-12
+Belmont,Lipscomb,81,71,2020-12-12
+Alabama,Clemson,56,64,2020-12-12
+Central Ark.,Arkansas,75,100,2020-12-12
+Niagara,Saint Peter's,49,53,2020-12-12
+Illinois,Missouri,78,81,2020-12-12
+South Dakota,South Dakota St.,91,78,2020-12-12
+CSUN,Pepperdine,89,84,2020-12-12
+Rhode Island,Western Ky.,65,68,2020-12-13
+Oakland,Michigan St.,91,109,2020-12-13
+Wright St.,Bowling Green,85,67,2020-12-13
+Massachusetts,Northeastern,75,78,2020-12-13
+North Ala.,Indiana,52,87,2020-12-13
+Richmond,West Virginia,71,87,2020-12-13
+Hampton,VMI,64,79,2020-12-13
+Youngstown St.,Binghamton,79,65,2020-12-13
+High Point,UNC Asheville,84,90,2020-12-13
+Penn St.,Michigan,58,62,2020-12-13
+Norfolk St.,UNC Greensboro,47,64,2020-12-13
+Air Force,Drake,53,81,2020-12-13
+Mississippi Val.,Vanderbilt,41,84,2020-12-13
+Loyola Chicago,UIC,77,66,2020-12-13
+Northern Ill.,Iowa,53,106,2020-12-13
+Northern Ky.,Kent St.,73,92,2020-12-13
+Winthrop,USC Upstate,107,77,2020-12-13
+Jacksonville,South Carolina St.,60,58,2020-12-13
+Ohio,Marshall,67,81,2020-12-13
+Milwaukee,Western Mich.,71,63,2020-12-13
+UMBC,Coppin St.,66,49,2020-12-13
+San Francisco,California,70,72,2020-12-13
+Central Baptist,Troy,44,61,2020-12-13
+New Mexico,Rice,72,61,2020-12-13
+Weber St.,Boise St.,59,70,2020-12-13
+San Jose St.,Cal Poly,71,75,2020-12-13
+Cleveland St.,Ohio St.,61,67,2020-12-13
+Arizona St.,Grand Canyon,71,70,2020-12-13
+Jacksonville St.,Tennessee Tech,73,67,2020-12-13
+Portland St.,Washington St.,60,69,2020-12-13
+Mercer,Ga. Southern,77,75,2020-12-13
+San Diego Christian,Cal St. Fullerton,70,94,2020-12-13
+St. John's (NY),Georgetown,94,97,2020-12-13
+Northwest (WA),Seattle U,40,89,2020-12-13
+Sam Houston St.,LSU,66,88,2020-12-14
+St. Francis (IL),Central Mich.,39,91,2020-12-14
+Eastern Ky.,Morehead St.,62,75,2020-12-14
+Rutgers,Maryland,74,60,2020-12-14
+Longwood,Radford,66,67,2020-12-14
+Carver,Presbyterian,46,85,2020-12-14
+Tex. A&M Int'l,UTRGV,51,89,2020-12-14
+William & Mary,George Washington,85,84,2020-12-14
+Arlington Baptist,McNeese,64,110,2020-12-14
+McKendree,Austin Peay,68,82,2020-12-14
+Central Ark.,Ole Miss,54,68,2020-12-14
+Northern Ariz.,Colorado St.,52,91,2020-12-14
+Northern Colo.,Colorado,45,81,2020-12-14
+Marquette,Creighton,89,84,2020-12-14
+Nevada,San Diego,79,72,2020-12-14
+Point Park,Stony Brook,39,83,2020-12-15
+St. Bonaventure,Akron,81,74,2020-12-15
+Houston Baptist,Rice,79,90,2020-12-15
+Chicago St.,Illinois St.,62,91,2020-12-15
+Quincy,Northwestern,48,100,2020-12-15
+St. Francis Brooklyn,Central Conn. St.,91,86,2020-12-15
+Stanford,CSUN,82,71,2020-12-15
+Buffalo,Miami (OH),90,62,2020-12-15
+Longwood,Radford,53,62,2020-12-15
+Carver,Ga. Southern,27,92,2020-12-15
+Coastal Carolina,Wofford,77,88,2020-12-15
+Clemson,Virginia Tech,60,66,2020-12-15
+Texas Southern,Auburn,63,80,2020-12-15
+Camp. Harrodsburg,VMI,72,106,2020-12-15
+Charlotte,Davidson,63,52,2020-12-15
+Wichita St.,Tulsa,69,65,2020-12-15
+Fla. Atlantic,Stetson,69,78,2020-12-15
+Hofstra,Monmouth,96,88,2020-12-15
+Gardner-Webb,ETSU,60,65,2020-12-15
+Western Caro.,VCU,68,93,2020-12-15
+Our Lady of the Lake,New Mexico,65,104,2020-12-15
+South Carolina St.,Liberty,52,82,2020-12-15
+USC Upstate,UNC Greensboro,57,65,2020-12-15
+App State,Tennessee,38,79,2020-12-15
+Utah Valley,Utah,67,75,2020-12-15
+Southeastern La.,Texas A&M,52,69,2020-12-15
+Southeast Mo. St.,Evansville,63,66,2020-12-15
+Minnesota,Illinois,65,92,2020-12-15
+New Orleans,Louisiana,63,73,2020-12-15
+Arlington Baptist,McNeese,50,114,2020-12-15
+Jackson St.,Louisiana Tech,58,85,2020-12-15
+Trevecca Nazarene,Lipscomb,45,61,2020-12-15
+Loyola Chicago,Wisconsin,63,77,2020-12-15
+Southern Miss.,Lamar University,66,63,2020-12-15
+A&M-Corpus Christi,Texas St.,46,51,2020-12-15
+Ark.-Pine Bluff,North Texas,56,81,2020-12-15
+Indiana St.,Saint Louis,59,78,2020-12-15
+Bacone,Oral Roberts,65,96,2020-12-15
+Transylvania,Murray St.,49,90,2020-12-15
+Col. of Idaho,Portland,74,88,2020-12-15
+Florida A&M,Austin Peay,76,70,2020-12-15
+Georgia Tech,Florida St.,61,74,2020-12-15
+Kansas St.,Iowa St.,74,65,2020-12-15
+Furman,Alabama,80,83,2020-12-15
+Fresno Pacific,Santa Clara,65,88,2020-12-15
+Eastern Wash.,Saint Mary's (CA),75,80,2020-12-15
+Massachusetts,La Salle,85,66,2020-12-16
+St. Francis Brooklyn,Central Conn. St.,59,78,2020-12-16
+Richmond,Vanderbilt,78,67,2020-12-16
+Campbell,Elon,56,66,2020-12-16
+Northeastern,Syracuse,56,62,2020-12-16
+LIU,Sacred Heart,75,55,2020-12-16
+Wagner,Bryant,62,74,2020-12-16
+Omaha,Colorado,49,91,2020-12-16
+UTSA,Oregon St.,61,73,2020-12-16
+Mercer,Georgia St.,81,88,2020-12-16
+San Diego,Cal Poly,70,61,2020-12-16
+Pittsburgh,Miami (FL),70,55,2020-12-16
+Toledo,Marshall,96,87,2020-12-16
+William & Mary,Hampton,75,58,2020-12-16
+Butler,Villanova,66,85,2020-12-16
+Carver,Liberty,38,91,2020-12-16
+South Fla.,Cincinnati,74,71,2020-12-16
+Central Ark.,Mississippi St.,65,81,2020-12-16
+Grambling,ULM,78,61,2020-12-16
+FIU,FGCU,85,69,2020-12-16
+UNC Asheville,Chattanooga,66,69,2020-12-16
+Samford,Troy,71,79,2020-12-16
+Ohio St.,Purdue,60,67,2020-12-16
+TCU,Oklahoma St.,77,76,2020-12-16
+Flagler,South Alabama,81,103,2020-12-16
+Southern U.,UAB,46,88,2020-12-16
+Kennesaw St.,Belmont,53,64,2020-12-16
+Ole Miss,Middle Tenn.,70,51,2020-12-16
+Oral Roberts,Oklahoma,65,79,2020-12-16
+East Carolina,SMU,55,70,2020-12-16
+Hardin-Simmons,Abilene Christian,73,95,2020-12-16
+Sam Houston St.,Texas,63,79,2020-12-16
+Tennessee Tech,Jacksonville St.,50,74,2020-12-16
+Duke,Notre Dame,75,65,2020-12-16
+Northern Colo.,Denver,83,75,2020-12-16
+Memphis,Tulane,80,74,2020-12-16
+UTEP,Arizona St.,76,63,2020-12-16
+Montana,Washington,66,58,2020-12-16
+North Dakota,Southern Ill.,64,85,2020-12-17
+LIU,Sacred Heart,72,87,2020-12-17
+Wagner,Bryant,75,81,2020-12-17
+LeTourneau,New Mexico,58,90,2020-12-17
+Saint Joseph's,Drexel,77,81,2020-12-17
+Delaware St.,Coastal Carolina,73,99,2020-12-17
+Greensboro,App State,47,87,2020-12-17
+Purdue Northwest,Valparaiso,71,89,2020-12-17
+Camp. Harrodsburg,Eastern Ky.,54,118,2020-12-17
+Columbia Int'l,ETSU,54,96,2020-12-17
+Doane,Nebraska,64,110,2020-12-17
+Kansas,Texas Tech,58,57,2020-12-17
+Creighton,St. John's (NY),94,76,2020-12-17
+Crowley's Ridge,North Ala.,51,99,2020-12-17
+NC State,Saint Louis,69,80,2020-12-17
+Houston Baptist,North Texas,55,85,2020-12-17
+Jackson St.,Bradley,60,83,2020-12-17
+San Francisco,Oregon,64,74,2020-12-17
+Omaha,Wyoming,78,82,2020-12-17
+SAGU American Indian,Idaho St.,54,89,2020-12-17
+Col. of Idaho,Seattle U,54,78,2020-12-17
+UC Irvine,LMU (CA),48,51,2020-12-17
+Dixie St.,Southern Utah,78,85,2020-12-17
+Seton Hall,Marquette,70,63,2020-12-17
+VMI,Gardner-Webb,77,88,2020-12-18
+Carver,Georgia St.,57,122,2020-12-18
+Central Mich.,Western Mich.,61,76,2020-12-18
+Greensboro,N.C. A&T,45,91,2020-12-18
+Fairfield,Niagara,51,68,2020-12-18
+UNCW,Norfolk St.,80,72,2020-12-18
+North Dakota,Southern Ill.,50,62,2020-12-18
+Columbia Int'l,App State,41,77,2020-12-18
+BYU,San Diego St.,72,62,2020-12-18
+Hampton,Howard,76,81,2020-12-18
+Saint Peter's,Monmouth,76,78,2020-12-18
+Dickinson St.,Montana,51,78,2020-12-18
+SIUE,Morehead St.,69,65,2020-12-18
+South Carolina St.,Presbyterian,56,62,2020-12-18
+Alice Lloyd,Coastal Carolina,63,86,2020-12-18
+Loyola Chicago,Richmond,73,75,2020-12-18
+Drake,South Dakota,75,57,2020-12-18
+Bowling Green,Robert Morris,85,65,2020-12-18
+Webber Int'l,FGCU,39,112,2020-12-18
+Tennessee Tech,Tennessee,49,103,2020-12-18
+Western Caro.,Col. of Charleston,76,70,2020-12-18
+Emporia St.,Wichita St.,57,73,2020-12-18
+Chicago St.,Northern Ill.,54,64,2020-12-18
+Belmont,Tennessee St.,88,63,2020-12-18
+Florida A&M,Georgia Tech,64,74,2020-12-18
+Iona,Rider,70,56,2020-12-18
+Northwestern St.,Tulsa,55,82,2020-12-18
+Davidson,Rhode Island,67,58,2020-12-18
+Champion Chris.,Little Rock,50,78,2020-12-18
+UT Martin,Southeast Mo. St.,69,67,2020-12-18
+Iowa St.,West Virginia,65,70,2020-12-18
+Montana St.,Washington St.,54,82,2020-12-18
+Idaho,Utah,41,79,2020-12-18
+Bethesda (CA),Southern Utah,64,98,2020-12-18
+Northern Colo.,Utah St.,50,63,2020-12-18
+SAGU American Indian,Idaho St.,46,113,2020-12-18
+Air Force,Nevada,57,74,2020-12-18
+Weber St.,Portland St.,94,66,2020-12-18
+Hawaii Hilo,Hawaii,66,89,2020-12-19
+Indiana,Butler,68,60,2020-12-19
+Gonzaga,Iowa,99,88,2020-12-19
+Troy,Auburn,41,77,2020-12-19
+Louisville,Wisconsin,48,85,2020-12-19
+The Citadel,Longwood,91,89,2020-12-19
+UNC Greensboro,Elon,71,64,2020-12-19
+James Madison,East Carolina,64,73,2020-12-19
+Ball St.,Indiana St.,57,67,2020-12-19
+Malone,Akron,83,93,2020-12-19
+Valparaiso,Toledo,57,71,2020-12-19
+West Va. Tech,Morgan St.,73,67,2020-12-19
+North Carolina,Kentucky,75,63,2020-12-19
+Western Ky.,Alabama,73,71,2020-12-19
+Hofstra,St. Bonaventure,69,77,2020-12-19
+Marist,Manhattan,61,39,2020-12-19
+Texas St.,Denver,70,68,2020-12-19
+Grambling,Tulane,65,77,2020-12-19
+Lamar University,Louisiana Tech,57,86,2020-12-19
+Wright St.,Detroit Mercy,93,70,2020-12-19
+High Point,William & Mary,71,49,2020-12-19
+Milwaukee,Green Bay,68,65,2020-12-19
+Stony Brook,Binghamton,73,59,2020-12-19
+Maine,Hartford,60,63,2020-12-19
+Drexel,Fairleigh Dickinson,85,68,2020-12-19
+Youngstown St.,Northern Ky.,64,79,2020-12-19
+Ole Miss,Dayton,62,65,2020-12-19
+Purdue,Notre Dame,88,78,2020-12-19
+South Alabama,Alabama A&M,90,93,2020-12-19
+Our Lady of the Lake,A&M-Corpus Christi,72,99,2020-12-19
+Rice,Sam Houston St.,69,82,2020-12-19
+Portland,Oregon,41,80,2020-12-19
+ULM,Southern Miss.,47,60,2020-12-19
+Chattanooga,UAB,69,66,2020-12-19
+Jacksonville,Miami (FL),64,73,2020-12-19
+Furman,Winthrop,71,87,2020-12-19
+Campbell,NC State,50,69,2020-12-19
+N.C. A&T,Charlotte,72,76,2020-12-19
+Lee,ETSU,53,62,2020-12-19
+UMBC,Albany (NY),65,64,2020-12-19
+Fairfield,Niagara,61,81,2020-12-19
+Baylor,Kansas St.,100,69,2020-12-19
+Delaware,La Salle,61,71,2020-12-19
+Samford,Kennesaw St.,65,63,2020-12-19
+NJIT,Temple,60,72,2020-12-19
+UCLA,Ohio St.,70,77,2020-12-19
+Flagler,North Florida,73,66,2020-12-19
+Houston Baptist,Oklahoma,65,84,2020-12-19
+Saint Peter's,Monmouth,78,76,2020-12-19
+CSUN,California,56,87,2020-12-19
+Coppin St.,Virginia Tech,57,97,2020-12-19
+Carver,Stetson,51,95,2020-12-19
+UC Santa Barbara,Pepperdine,75,63,2020-12-19
+Buffalo,Syracuse,96,107,2020-12-19
+Eastern Wash.,Northern Ariz.,80,64,2020-12-19
+St. Katherine,CSU Bakersfield,46,87,2020-12-19
+Arizona,Stanford,75,78,2020-12-19
+San Diego,UC Irvine,53,85,2020-12-19
+Cleveland St.,Purdue Fort Wayne,63,61,2020-12-19
+Fresno Pacific,Fresno St.,65,78,2020-12-19
+Oakland,UIC,72,74,2020-12-19
+Ga. Southern,FIU,103,99,2020-12-19
+Iona,Rider,72,64,2020-12-19
+Crowley's Ridge,Tennessee St.,68,90,2020-12-19
+Miami (OH),Bradley,68,69,2020-12-19
+McNeese,Louisiana,65,75,2020-12-19
+Radford,Vanderbilt,50,59,2020-12-19
+Colorado St.,Saint Mary's (CA),33,53,2020-12-19
+Cincinnati,Georgia,68,83,2020-12-19
+Northwestern St.,Missouri St.,67,94,2020-12-19
+UCF,Florida St.,86,74,2020-12-19
+Cal Poly,LMU (CA),52,76,2020-12-19
+Bethesda (CA),Dixie St.,69,90,2020-12-19
+Saint Joseph's,Villanova,68,88,2020-12-19
+Creighton,UConn,76,74,2020-12-20
+Illinois,Rutgers,88,91,2020-12-20
+Olivet,Central Mich.,66,127,2020-12-20
+Jackson St.,Iowa St.,45,60,2020-12-20
+Milwaukee,Green Bay,74,62,2020-12-20
+Oklahoma St.,Texas,74,77,2020-12-20
+Wright St.,Detroit Mercy,85,72,2020-12-20
+Maine,Hartford,50,65,2020-12-20
+Stony Brook,Binghamton,80,70,2020-12-20
+Oral Roberts,Arkansas,76,87,2020-12-20
+UMBC,Albany (NY),65,60,2020-12-20
+Marquette,Xavier,88,91,2020-12-20
+Marist,Manhattan,72,67,2020-12-20
+Northeastern,Old Dominion,62,66,2020-12-20
+Robert Morris,Marshall,71,85,2020-12-20
+Freed-Hardeman,North Ala.,56,82,2020-12-20
+Youngstown St.,Northern Ky.,70,60,2020-12-20
+Chicago St.,Drake,67,111,2020-12-20
+Weber St.,Portland St.,72,74,2020-12-20
+Champion Chris.,Arkansas St.,50,90,2020-12-20
+Our Lady of the Lake,UTSA,70,102,2020-12-20
+Alcorn,Houston,55,88,2020-12-20
+Providence,Seton Hall,80,77,2020-12-20
+Oakland,UIC,73,90,2020-12-20
+Mt. Marty,South Dakota,44,84,2020-12-20
+Cleveland St.,Purdue Fort Wayne,89,80,2020-12-20
+Alice Lloyd,James Madison,55,98,2020-12-20
+Air Force,Nevada,68,66,2020-12-20
+Delaware St.,Georgia Tech,69,97,2020-12-20
+Western Ill.,UT Martin,81,63,2020-12-20
+Benedictine Mesa,UTEP,59,79,2020-12-20
+Georgetown,St. John's (NY),83,94,2020-12-20
+San Francisco,Grand Canyon,68,65,2020-12-20
+Carver,Ga. Southern,43,119,2020-12-20
+Michigan St.,Northwestern,65,79,2020-12-20
+Pacific,Westmont,92,64,2020-12-20
+Saint Louis,Minnesota,82,90,2020-12-20
+Colorado,Washington,92,69,2020-12-20
+Morehead St.,Clemson,51,66,2020-12-21
+UNCW,Campbell,78,59,2020-12-21
+VMI,George Mason,66,68,2020-12-21
+Wofford,Texas A&M,52,70,2020-12-21
+Jacksonville,Kansas St.,46,70,2020-12-21
+Bethesda (CA),Southern Utah,57,96,2020-12-21
+Crowley's Ridge,Lipscomb,60,97,2020-12-21
+New Orleans,Rice,62,73,2020-12-21
+Texas St.,Northern Ariz.,70,65,2020-12-21
+South Carolina St.,Furman,52,118,2020-12-21
+Bryant,Massachusetts,93,88,2020-12-21
+Vermont,UMass Lowell,65,73,2020-12-21
+Florida Col.,Fla. Atlantic,72,107,2020-12-21
+Saint Joseph's,Tennessee,66,102,2020-12-21
+Morgan St.,Delaware,65,59,2020-12-21
+Carver,FIU,34,111,2020-12-21
+Gardner-Webb,Florida St.,59,72,2020-12-21
+Col. of Charleston,Georgia St.,55,72,2020-12-21
+Prairie View,Washington St.,62,90,2020-12-21
+Edward Waters,North Florida,71,98,2020-12-21
+Sam Houston St.,UTRGV,69,66,2020-12-21
+Hampton,Charleston So.,67,55,2020-12-21
+Belmont,Evansville,72,63,2020-12-21
+Sacred Heart,Wagner,46,74,2020-12-21
+Southern Ill.,Butler,76,73,2020-12-21
+Mississippi Val.,Mississippi St.,48,87,2020-12-21
+Tulsa,Memphis,56,49,2020-12-21
+Belhaven,Samford,84,133,2020-12-21
+Little Rock,Missouri St.,77,85,2020-12-21
+Longwood,Virginia Tech,58,84,2020-12-21
+Ark.-Pine Bluff,Baylor,42,99,2020-12-21
+San Jose St.,Utah St.,62,107,2020-12-21
+Northwestern St.,Gonzaga,57,95,2020-12-21
+Texas Southern,BYU,71,87,2020-12-21
+Murray St.,Austin Peay,70,74,2020-12-21
+CSU Bakersfield,Stanford,50,63,2020-12-21
+New Mexico,Boise St.,53,77,2020-12-21
+Maine,Boston College,62,78,2020-12-22
+Alcorn,Liberty,65,108,2020-12-22
+Southeast Mo. St.,Indiana St.,66,72,2020-12-22
+St. Francis (IL),Loyola Chicago,55,92,2020-12-22
+Ohio,Akron,70,90,2020-12-22
+LSU-Alexandria,North Texas,78,110,2020-12-22
+William & Mary,Virginia,40,76,2020-12-22
+Charlotte,George Washington,66,65,2020-12-22
+Northern Ill.,Toledo,55,78,2020-12-22
+Ball St.,Western Mich.,76,68,2020-12-22
+Mercer,Kennesaw St.,81,71,2020-12-22
+Hofstra,Richmond,76,71,2020-12-22
+Northern Ariz.,Denver,68,65,2020-12-22
+Montana St.,Portland,59,62,2020-12-22
+Niagara,Albany (NY),70,65,2020-12-22
+Paul Quinn,A&M-Corpus Christi,35,59,2020-12-22
+Fairleigh Dickinson,Fairfield,69,65,2020-12-22
+App State,Auburn,53,67,2020-12-22
+Chattanooga,Tennessee St.,66,63,2020-12-22
+Presbyterian,The Citadel,82,94,2020-12-22
+Vermont,UMass Lowell,62,53,2020-12-22
+Tulane,East Carolina,58,68,2020-12-22
+Sacred Heart,Wagner,86,85,2020-12-22
+Idaho St.,Northern Colo.,64,69,2020-12-22
+Cincinnati,UCF,70,75,2020-12-22
+James Madison,VCU,81,82,2020-12-22
+Colorado St.,Santa Clara,70,57,2020-12-22
+Abilene Christian,Arkansas,72,85,2020-12-22
+UT Martin,Ole Miss,43,90,2020-12-22
+Seattle U,California,65,70,2020-12-22
+UNC Greensboro,N.C. A&T,86,65,2020-12-22
+Hampton,Charleston So.,70,68,2020-12-22
+UNC Asheville,Marshall,67,88,2020-12-22
+North Carolina,NC State,76,79,2020-12-22
+Wichita St.,South Fla.,82,77,2020-12-22
+Ga. Southern,FGCU,60,73,2020-12-22
+Howard Payne,UT Arlington,53,117,2020-12-22
+Bradley,Missouri,53,54,2020-12-22
+Lamar University,UTSA,66,88,2020-12-22
+La Salle,Maryland,71,84,2020-12-22
+Tennessee Tech,Western Ky.,68,88,2020-12-22
+High Point,Eastern Ky.,67,86,2020-12-22
+Texas Tech,Oklahoma,69,67,2020-12-22
+Montana,Arizona,64,70,2020-12-22
+Vanderbilt,Davidson,65,85,2020-12-22
+Louisville,Pittsburgh,64,54,2020-12-22
+Northeastern,Georgia,58,76,2020-12-22
+North Dakota,Drake,55,88,2020-12-22
+Nebraska,Wisconsin,53,67,2020-12-22
+ETSU,Alabama,69,85,2020-12-22
+Louisiana Tech,ULM,68,57,2020-12-22
+Temple,Houston,50,76,2020-12-22
+Saint Mary's (CA),San Diego St.,49,74,2020-12-22
+North Dakota St.,TCU,82,89,2020-12-22
+West Virginia,Kansas,65,79,2020-12-22
+Purdue,Iowa,55,70,2020-12-22
+Portland St.,Oregon St.,62,67,2020-12-22
+St. Katherine,UC San Diego,51,77,2020-12-22
+Northwestern St.,Gonzaga,78,95,2020-12-22
+Colorado,Grand Canyon,74,64,2020-12-22
+Bellarmine,Notre Dame,70,81,2020-12-23
+Delaware St.,UNCW,63,87,2020-12-23
+NJIT,Rider,81,66,2020-12-23
+Saint Peter's,St. Francis Brooklyn,70,64,2020-12-23
+Xavier,Creighton,61,66,2020-12-23
+Towson,George Mason,65,70,2020-12-23
+Idaho St.,Northern Colo.,71,56,2020-12-23
+Southeastern La.,Grambling,77,70,2020-12-23
+Rutgers,Ohio St.,68,80,2020-12-23
+Northwestern St.,Washington St.,52,62,2020-12-23
+USC Upstate,Tennessee,60,80,2020-12-23
+Georgetown,Seton Hall,67,78,2020-12-23
+CSU Bakersfield,Pepperdine,79,51,2020-12-23
+Providence,Butler,64,70,2020-12-23
+Illinois,Penn St.,98,81,2020-12-23
+Weber St.,BYU,79,87,2020-12-23
+Villanova,Marquette,85,68,2020-12-23
+Coppin St.,Iona,65,85,2020-12-23
+Southwestern Christ.,Tulsa,45,102,2020-12-23
+St. Katherine,UC San Diego,39,75,2020-12-23
+Kansas City,Saint Louis,46,62,2020-12-23
+Northwestern,Indiana,74,67,2020-12-23
+San Jose St.,Utah St.,52,85,2020-12-23
+Western Ill.,DePaul,72,91,2020-12-23
+New Mexico,Boise St.,52,89,2020-12-23
+Wisconsin,Michigan St.,85,76,2020-12-25
+Maryland,Purdue,70,73,2020-12-25
+Michigan,Nebraska,80,69,2020-12-25
+Iowa,Minnesota,95,102,2020-12-25
+Youngstown St.,Cleveland St.,69,87,2020-12-26
+Kentucky,Louisville,59,62,2020-12-26
+Houston,UCF,63,54,2020-12-26
+Ohio St.,Northwestern,70,71,2020-12-26
+Coppin St.,Towson,73,78,2020-12-26
+Nicholls St.,LSU,80,86,2020-12-26
+Green Bay,Wright St.,53,67,2020-12-26
+Indiana,Illinois,60,69,2020-12-26
+Virginia,Gonzaga,75,98,2020-12-26
+Norfolk St.,George Mason,68,65,2020-12-26
+Oakland,Detroit Mercy,77,75,2020-12-26
+Robert Morris,Purdue Fort Wayne,102,88,2020-12-26
+Binghamton,UMBC,67,74,2020-12-27
+Hartford,New Hampshire,69,77,2020-12-27
+Youngstown St.,Cleveland St.,74,81,2020-12-27
+Drake,Indiana St.,81,63,2020-12-27
+Green Bay,Wright St.,77,90,2020-12-27
+UMass Lowell,Stony Brook,58,73,2020-12-27
+Canisius,Monmouth,66,84,2020-12-27
+Olivet,Eastern Mich.,65,94,2020-12-27
+Carver,Jacksonville St.,45,104,2020-12-27
+NJIT,Vermont,78,92,2020-12-27
+Missouri St.,UNI,79,59,2020-12-27
+Evansville,Southern Ill.,57,63,2020-12-27
+Illinois St.,Loyola Chicago,60,90,2020-12-27
+Alcorn,Vanderbilt,59,87,2020-12-27
+Oakland,Detroit Mercy,83,80,2020-12-27
+DePaul,Providence,90,95,2020-12-27
+Robert Morris,Purdue Fort Wayne,82,87,2020-12-27
+UC Santa Barbara,UC Irvine,56,75,2020-12-27
+Binghamton,UMBC,75,69,2020-12-28
+UMass Lowell,Stony Brook,64,71,2020-12-28
+Hartford,New Hampshire,51,53,2020-12-28
+NJIT,Vermont,81,80,2020-12-28
+Canisius,Monmouth,69,97,2020-12-28
+Loyola (LA),Southern Miss.,54,74,2020-12-28
+Drake,Indiana St.,73,66,2020-12-28
+New Mexico St.,CSUN,63,66,2020-12-28
+Evansville,Southern Ill.,84,72,2020-12-28
+Illinois St.,Loyola Chicago,55,86,2020-12-28
+Maryland,Wisconsin,70,64,2020-12-28
+Carver,Troy,35,88,2020-12-28
+UC Santa Barbara,UC Irvine,69,73,2020-12-28
+Michigan St.,Minnesota,56,81,2020-12-28
+Fresno St.,Colorado St.,53,75,2020-12-28
+Missouri St.,UNI,75,85,2020-12-28
+Northern Ariz.,Gonzaga,58,88,2020-12-28
+Colorado,Arizona,74,88,2020-12-28
+Northeastern,West Virginia,51,73,2020-12-29
+Central Ark.,Baylor,56,93,2020-12-29
+Miami (FL),Virginia Tech,78,80,2020-12-29
+Purdue,Rutgers,76,81,2020-12-29
+Santa Clara,Southern California,63,86,2020-12-29
+South Fla.,Memphis,57,58,2020-12-29
+Wofford,Mercer,78,65,2020-12-29
+Central Mich.,Eastern Mich.,87,60,2020-12-29
+UIW,Texas Tech,51,79,2020-12-29
+Texas A&M,LSU,54,77,2020-12-29
+Florida St.,Clemson,67,77,2020-12-29
+Mary Hardin-Baylor,Sam Houston St.,59,101,2020-12-29
+Champion Chris.,McNeese,36,94,2020-12-29
+Dallas Christian,Abilene Christian,44,82,2020-12-29
+Freed-Hardeman,Lipscomb,72,93,2020-12-29
+Southeastern La.,Lamar University,64,74,2020-12-29
+Omaha,Kansas St.,58,60,2020-12-29
+Dixie St.,Gonzaga,67,112,2020-12-29
+Ole Miss,Alabama,64,82,2020-12-29
+Northwestern,Iowa,72,87,2020-12-29
+Houston,Tulsa,64,65,2020-12-29
+VCU,Saint Joseph's,80,64,2020-12-30
+Manhattan,Delaware St.,65,59,2020-12-30
+George Washington,Fordham,71,47,2020-12-30
+Furman,Chattanooga,77,73,2020-12-30
+Gardner-Webb,Hampton,69,80,2020-12-30
+Bowling Green,Ohio,83,75,2020-12-30
+SMU,Temple,79,71,2020-12-30
+Campbell,Winthrop,83,84,2020-12-30
+UNC Asheville,Longwood,80,73,2020-12-30
+Alcorn,Baylor,76,105,2020-12-30
+St. Bonaventure,Rhode Island,57,63,2020-12-30
+Fresno St.,Colorado St.,59,81,2020-12-30
+Butler,Providence,55,71,2020-12-30
+Radford,Presbyterian,71,65,2020-12-30
+George Mason,Massachusetts,93,92,2020-12-30
+Virginia,Notre Dame,66,57,2020-12-30
+USC Upstate,High Point,52,63,2020-12-30
+Nebraska,Ohio St.,54,90,2020-12-30
+Mississippi St.,Georgia,83,73,2020-12-30
+Seton Hall,Xavier,85,68,2020-12-30
+Newman,Wichita St.,43,81,2020-12-30
+Richmond,Davidson,80,74,2020-12-30
+Murray St.,Belmont,55,68,2020-12-30
+La Salle,Dayton,67,65,2020-12-30
+Western Caro.,ETSU,78,86,2020-12-30
+Arkansas,Auburn,97,85,2020-12-30
+Champion Chris.,McNeese,76,91,2020-12-30
+Prairie View,TCU,61,66,2020-12-30
+Boston College,NC State,76,79,2020-12-30
+North Carolina,Georgia Tech,67,72,2020-12-30
+Austin Peay,Tennessee St.,68,59,2020-12-30
+Eastern Ill.,Eastern Ky.,61,69,2020-12-30
+VMI,Samford,71,84,2020-12-30
+UT Martin,Jacksonville St.,70,80,2020-12-30
+Penn St.,Indiana,85,87,2020-12-30
+Southeast Mo. St.,Tennessee Tech,63,72,2020-12-30
+Portland,Seattle U,68,84,2020-12-30
+Florida,Vanderbilt,91,72,2020-12-30
+Tennessee,Missouri,73,53,2020-12-30
+DePaul,UConn,61,82,2020-12-30
+Sacramento St.,Saint Mary's (CA),45,63,2020-12-30
+Gardner-Webb,Hampton,80,69,2020-12-31
+Campbell,Winthrop,76,94,2020-12-31
+McMurry,UIW,71,92,2020-12-31
+UNC Asheville,Longwood,55,65,2020-12-31
+Radford,Presbyterian,63,65,2020-12-31
+Catawba,Wake Forest,62,70,2020-12-31
+Utah St.,Air Force,83,48,2020-12-31
+Minnesota,Wisconsin,59,71,2020-12-31
+San Diego,San Francisco,62,70,2020-12-31
+USC Upstate,High Point,60,51,2020-12-31
+Utah,UCLA,70,72,2020-12-31
+Northern Ariz.,Idaho,78,65,2020-12-31
+Michigan,Maryland,84,73,2020-12-31
+Arizona,Washington,80,53,2020-12-31
+Boise St.,San Jose St.,106,54,2020-12-31
+Nevada,New Mexico,68,54,2020-12-31
+Colorado,Southern California,72,62,2020-12-31
+California,Oregon,69,82,2020-12-31
+Saint Peter's,Canisius,58,70,2021-01-01
+McMurry,UIW,54,81,2021-01-01
+Niagara,Marist,61,63,2021-01-01
+Liberty,Lipscomb,70,77,2021-01-01
+UTSA,Rice,86,95,2021-01-01
+Green Bay,Youngstown St.,77,84,2021-01-01
+Western Ky.,Charlotte,67,63,2021-01-01
+Montana Western,Montana St.,67,96,2021-01-01
+Rider,Fairfield,70,62,2021-01-01
+UT Arlington,Little Rock,93,102,2021-01-01
+Milwaukee,Robert Morris,64,67,2021-01-01
+Troy,App State,69,56,2021-01-01
+Jacksonville,Kennesaw St.,62,57,2021-01-01
+Georgia St.,Coastal Carolina,69,81,2021-01-01
+South Alabama,Ga. Southern,88,59,2021-01-01
+Purdue Fort Wayne,Northern Ky.,68,75,2021-01-01
+Cleveland St.,IUPUI,65,62,2021-01-01
+Kent St.,Akron,62,66,2021-01-01
+Old Dominion,FIU,67,82,2021-01-01
+Wright St.,Oakland,90,51,2021-01-01
+Texas St.,Louisiana,77,83,2021-01-01
+CSU Bakersfield,Long Beach St.,89,90,2021-01-01
+Arkansas St.,ULM,72,84,2021-01-01
+Transylvania,Bellarmine,40,90,2021-01-01
+Marshall,Louisiana Tech,68,75,2021-01-01
+Cal St. Fullerton,UC Santa Barbara,63,81,2021-01-01
+UTEP,Southern Miss.,66,74,2021-01-01
+Elon,Northeastern,52,75,2021-01-02
+Louisville,Boston College,76,64,2021-01-02
+Missouri,Arkansas,81,68,2021-01-02
+Creighton,Providence,67,65,2021-01-02
+Texas,Kansas,84,59,2021-01-02
+Duquesne,George Washington,75,63,2021-01-02
+Saint Peter's,Canisius,60,63,2021-01-02
+Chattanooga,VMI,79,84,2021-01-02
+Florida A&M,South Carolina,71,78,2021-01-02
+Baylor,Iowa St.,76,65,2021-01-02
+Bucknell,Navy,69,78,2021-01-02
+LSU,Florida,79,83,2021-01-02
+Lafayette,Lehigh,89,90,2021-01-02
+TCU,Kansas St.,67,60,2021-01-02
+Col. of Charleston,Delaware,67,70,2021-01-02
+Northern Ariz.,Idaho,83,78,2021-01-02
+Iowa,Rutgers,77,75,2021-01-02
+East Carolina,Tulane,56,60,2021-01-02
+N.C. A&T,South Carolina St.,97,86,2021-01-02
+Niagara,Marist,86,72,2021-01-02
+Toledo,Western Mich.,70,59,2021-01-02
+Clemson,Miami (FL),66,65,2021-01-02
+Binghamton,Hartford,56,76,2021-01-02
+William & Mary,Hofstra,56,61,2021-01-02
+Mercer,Furman,80,83,2021-01-02
+Tulsa,Cincinnati,70,66,2021-01-02
+UTSA,Rice,69,84,2021-01-02
+Old Dominion,FIU,71,66,2021-01-02
+Georgia St.,Coastal Carolina,70,62,2021-01-02
+New Hampshire,Maine,56,59,2021-01-02
+Ohio,Ball St.,78,68,2021-01-02
+Army West Point,Colgate,57,101,2021-01-02
+South Alabama,Ga. Southern,49,62,2021-01-02
+NJIT,UMass Lowell,73,67,2021-01-02
+Auburn,Texas A&M,66,68,2021-01-02
+Jacksonville,Kennesaw St.,72,66,2021-01-02
+Oklahoma St.,Texas Tech,82,77,2021-01-02
+West Virginia,Oklahoma,71,75,2021-01-02
+Green Bay,Youngstown St.,79,69,2021-01-02
+Lamar University,Abilene Christian,65,83,2021-01-02
+Notre Dame,North Carolina,65,66,2021-01-02
+Colorado St.,San Diego St.,70,67,2021-01-02
+UNI,Evansville,61,65,2021-01-02
+Utah,Southern California,46,64,2021-01-02
+Troy,App State,59,90,2021-01-02
+Western Ky.,Charlotte,71,75,2021-01-02
+George Mason,Dayton,65,74,2021-01-02
+Kansas City,North Dakota,45,52,2021-01-02
+North Dakota St.,Western Ill.,68,50,2021-01-02
+Utah Valley,Weber St.,62,70,2021-01-02
+Butler,Seton Hall,60,68,2021-01-02
+Mt. St. Joseph,Bellarmine,38,90,2021-01-02
+Tennessee Tech,Eastern Ill.,81,87,2021-01-02
+UT Arlington,Little Rock,62,75,2021-01-02
+Texas St.,Louisiana,71,59,2021-01-02
+Liberty,Lipscomb,66,50,2021-01-02
+Eastern Ky.,Austin Peay,80,75,2021-01-02
+Central Ark.,McNeese,81,67,2021-01-02
+Oral Roberts,Omaha,95,83,2021-01-02
+Rider,Fairfield,56,72,2021-01-02
+Denver,South Dakota,54,93,2021-01-02
+Morehead St.,Murray St.,61,56,2021-01-02
+Cleveland St.,IUPUI,59,49,2021-01-02
+Wright St.,Oakland,71,81,2021-01-02
+Arkansas St.,ULM,55,62,2021-01-02
+St. Bonaventure,Richmond,69,66,2021-01-02
+ETSU,UNC Greensboro,71,61,2021-01-02
+Belmont,UT Martin,90,69,2021-01-02
+UTEP,Southern Miss.,77,62,2021-01-02
+New Orleans,SFA,67,78,2021-01-02
+Grambling,Alabama St.,66,49,2021-01-02
+California,Oregon St.,64,73,2021-01-02
+Utah St.,Air Force,72,53,2021-01-02
+Wichita St.,Ole Miss,83,79,2021-01-02
+Bowling Green,Northern Ill.,68,42,2021-01-02
+Tennessee St.,Southeast Mo. St.,79,83,2021-01-02
+Purdue,Illinois,58,66,2021-01-02
+Albany (NY),Vermont,63,62,2021-01-02
+Sam Houston,Nicholls St.,84,81,2021-01-02
+Purdue Fort Wayne,Northern Ky.,68,70,2021-01-02
+Alabama,Tennessee,71,63,2021-01-02
+Kentucky,Mississippi St.,78,73,2021-01-02
+Mississippi Val.,Ark.-Pine Bluff,52,92,2021-01-02
+Indiana St.,Missouri St.,74,84,2021-01-02
+Fordham,La Salle,52,89,2021-01-02
+Boise St.,San Jose St.,87,86,2021-01-02
+UCF,South Fla.,61,68,2021-01-02
+Marshall,Louisiana Tech,80,73,2021-01-02
+CSU Bakersfield,Long Beach St.,89,76,2021-01-02
+Wyoming,Fresno St.,78,74,2021-01-02
+Samford,Wofford,84,94,2021-01-02
+Northern Colo.,Montana,64,62,2021-01-02
+Marquette,Georgetown,64,60,2021-01-02
+North Texas,Loyola Chicago,49,57,2021-01-02
+Cal St. Fullerton,UC Santa Barbara,61,65,2021-01-02
+Northwestern St.,Houston Baptist,93,99,2021-01-02
+San Francisco,Gonzaga,62,85,2021-01-02
+Michigan St.,Nebraska,84,77,2021-01-02
+Colorado,UCLA,62,65,2021-01-02
+Nevada,New Mexico,84,74,2021-01-02
+Stanford,Oregon,56,73,2021-01-02
+Arizona,Washington St.,86,82,2021-01-02
+Mt. St. Joseph,Bellarmine,38,90,2021-01-02
+Elon,Northeastern,58,66,2021-01-03
+NJIT,UMass Lowell,60,74,2021-01-03
+New Hampshire,Maine,62,58,2021-01-03
+William & Mary,Hofstra,73,82,2021-01-03
+Binghamton,Hartford,74,77,2021-01-03
+Col. of Charleston,Delaware,66,59,2021-01-03
+Duquesne,George Washington,73,75,2021-01-03
+Monmouth,Siena,77,78,2021-01-03
+Army West Point,Colgate,75,73,2021-01-03
+Fresno Pacific,Sacramento St.,54,85,2021-01-03
+Lehigh,Lafayette,70,82,2021-01-03
+UNI,Evansville,64,70,2021-01-03
+Indiana St.,Missouri St.,66,70,2021-01-03
+N.C. A&T,South Carolina St.,73,66,2021-01-03
+Kansas City,North Dakota,77,53,2021-01-03
+North Dakota St.,Western Ill.,78,67,2021-01-03
+Saint Joseph's,Rhode Island,77,85,2021-01-03
+Albany (NY),Vermont,66,74,2021-01-03
+Oral Roberts,Omaha,86,75,2021-01-03
+Denver,South Dakota,57,79,2021-01-03
+Ohio St.,Minnesota,60,77,2021-01-03
+Navy,Bucknell,63,60,2021-01-03
+Morgan St.,James Madison,80,73,2021-01-03
+Southern Ill.,Drake,55,73,2021-01-03
+Wake Forest,Georgia Tech,54,70,2021-01-03
+Houston,SMU,74,60,2021-01-03
+Northwestern,Michigan,66,85,2021-01-03
+Northern Colo.,Montana,54,56,2021-01-04
+Boston U.,Holy Cross,83,76,2021-01-04
+Stanford,Oregon St.,81,71,2021-01-04
+Winthrop,Charleston So.,85,69,2021-01-04
+Monmouth,Siena,62,76,2021-01-04
+Campbell,Gardner-Webb,70,61,2021-01-04
+Longwood,USC Upstate,69,71,2021-01-04
+Hampton,Radford,66,79,2021-01-04
+Southern Ill.,Drake,55,86,2021-01-04
+Mt. Marty,South Dakota St.,50,93,2021-01-04
+Delaware St.,Coppin St.,78,86,2021-01-04
+Maryland,Indiana,55,63,2021-01-04
+Colorado St.,San Diego St.,65,78,2021-01-04
+Jackson St.,Alabama St.,60,44,2021-01-04
+Wyoming,Fresno St.,61,81,2021-01-04
+West Virginia,Oklahoma St.,87,84,2021-01-04
+Benedictine Mesa,San Jose St.,64,80,2021-01-04
+Holy Cross,Boston U.,68,66,2021-01-05
+Toledo,Kent St.,84,82,2021-01-05
+Winthrop,Charleston So.,78,76,2021-01-05
+Campbell,Gardner-Webb,70,85,2021-01-05
+Fla. Atlantic,James Madison,70,79,2021-01-05
+Dayton,Fordham,54,55,2021-01-05
+Central Mich.,Bowling Green,69,90,2021-01-05
+Longwood,USC Upstate,59,65,2021-01-05
+Hampton,Radford,65,76,2021-01-05
+Northern Ill.,Ohio,73,76,2021-01-05
+Kansas St.,Texas Tech,71,82,2021-01-05
+Davidson,Duquesne,61,48,2021-01-05
+Vanderbilt,Kentucky,74,77,2021-01-05
+Florida,Alabama,71,86,2021-01-05
+NC State,Clemson,70,74,2021-01-05
+Delaware St.,Coppin St.,77,81,2021-01-05
+North Carolina,Miami (FL),67,65,2021-01-05
+Iowa St.,Texas,72,78,2021-01-05
+Rutgers,Michigan St.,45,68,2021-01-05
+Missouri,Mississippi St.,63,78,2021-01-05
+UConn,Marquette,65,54,2021-01-05
+Kansas,TCU,93,64,2021-01-05
+Saint Joseph's,St. Bonaventure,57,83,2021-01-06
+Tulsa,South Fla.,61,51,2021-01-06
+Pittsburgh,Syracuse,63,60,2021-01-06
+Rhode Island,Richmond,73,80,2021-01-06
+Virginia Tech,Louisville,71,73,2021-01-06
+Georgia,LSU,92,94,2021-01-06
+Georgetown,Butler,55,63,2021-01-06
+UNC Greensboro,Wofford,84,75,2021-01-06
+Samford,Chattanooga,68,73,2021-01-06
+Arkansas,Tennessee,74,79,2021-01-06
+VCU,George Mason,66,61,2021-01-06
+UIW,Northwestern St.,75,67,2021-01-06
+Wichita St.,Houston,63,70,2021-01-06
+Abilene Christian,Houston Baptist,66,63,2021-01-06
+St. John's (NY),Xavier,61,69,2021-01-06
+Lamar University,Nicholls St.,69,76,2021-01-06
+Sam Houston,Southeastern La.,70,52,2021-01-06
+New Orleans,Central Ark.,79,83,2021-01-06
+Boston College,Duke,82,83,2021-01-06
+Minnesota,Michigan,57,82,2021-01-06
+Oklahoma,Baylor,61,76,2021-01-06
+Seton Hall,Creighton,53,89,2021-01-06
+Texas A&M,South Carolina,54,78,2021-01-06
+Wake Forest,Virginia,61,70,2021-01-06
+Auburn,Ole Miss,61,72,2021-01-06
+Utah St.,New Mexico,77,45,2021-01-06
+Air Force,Boise St.,59,78,2021-01-06
+Mount St. Mary's,St. Francis Brooklyn,55,70,2021-01-07
+Central Conn. St.,Bryant,68,93,2021-01-07
+Northeastern,Hofstra,81,78,2021-01-07
+Oregon,Colorado,72,79,2021-01-07
+Cincinnati,SMU,76,69,2021-01-07
+St. Mary's (TX),UTRGV,67,96,2021-01-07
+Iowa,Maryland,89,67,2021-01-07
+Sacred Heart,Merrimack,90,97,2021-01-07
+Tennessee Tech,Morehead St.,54,57,2021-01-07
+Saint Francis (PA),LIU,75,78,2021-01-07
+Southeast Mo. St.,Belmont,66,77,2021-01-07
+Indiana,Wisconsin,73,80,2021-01-07
+Idaho St.,Northern Ariz.,73,69,2021-01-07
+UNLV,Colorado St.,71,74,2021-01-07
+Jacksonville St.,Eastern Ky.,66,69,2021-01-07
+Murray St.,Eastern Ill.,68,74,2021-01-07
+Montana St.,Northern Colo.,79,67,2021-01-07
+BYU,Gonzaga,69,86,2021-01-07
+Southern California,Arizona,87,73,2021-01-07
+Idaho,Southern Utah,80,85,2021-01-07
+Washington,Stanford,75,91,2021-01-07
+Illinois,Northwestern,81,56,2021-01-07
+UT Martin,Tennessee St.,62,74,2021-01-07
+Portland,San Francisco,64,88,2021-01-07
+Nevada,San Diego St.,60,65,2021-01-07
+Washington St.,California,71,60,2021-01-07
+UCLA,Arizona St.,81,75,2021-01-07
+IUPUI,Milwaukee,70,94,2021-01-08
+Rider,Niagara,76,70,2021-01-08
+Central Conn. St.,Bryant,64,76,2021-01-08
+Sacred Heart,Merrimack,68,62,2021-01-08
+Saint Francis (PA),LIU,58,71,2021-01-08
+Mount St. Mary's,St. Francis Brooklyn,55,67,2021-01-08
+Manhattan,Quinnipiac,79,84,2021-01-08
+Oakland,Green Bay,81,84,2021-01-08
+Ga. Southern,App State,63,66,2021-01-08
+South Alabama,Coastal Carolina,65,78,2021-01-08
+Kennesaw St.,Liberty,63,69,2021-01-08
+Ohio,Toledo,78,95,2021-01-08
+UT Arlington,ULM,77,64,2021-01-08
+Little Rock,Louisiana,64,66,2021-01-08
+Fla. Atlantic,Old Dominion,67,71,2021-01-08
+North Florida,Jacksonville,65,66,2021-01-08
+Hawaii,UC Riverside,88,83,2021-01-08
+FIU,Middle Tenn.,68,55,2021-01-08
+North Texas,UTSA,77,70,2021-01-08
+Purdue,Michigan St.,55,54,2021-01-08
+UIC,Purdue Fort Wayne,89,96,2021-01-08
+Stetson,North Ala.,86,77,2021-01-08
+Youngstown St.,Wright St.,74,72,2021-01-08
+Northern Ky.,Cleveland St.,44,58,2021-01-08
+Lipscomb,Bellarmine,77,72,2021-01-08
+Midwestern St.,SFA,71,87,2021-01-08
+Southern Miss.,UAB,60,72,2021-01-08
+Louisiana Tech,Western Ky.,64,66,2021-01-08
+Grand Canyon,Tarleton St.,75,72,2021-01-08
+Air Force,Boise St.,69,80,2021-01-08
+Long Beach St.,Cal St. Fullerton,82,80,2021-01-08
+South Dakota,Kansas City,66,64,2021-01-08
+California Baptist,Utah Valley,50,77,2021-01-08
+Omaha,North Dakota St.,69,71,2021-01-08
+Western Ill.,South Dakota St.,77,83,2021-01-08
+North Dakota,Oral Roberts,72,71,2021-01-08
+Utah St.,New Mexico,82,46,2021-01-08
+Dayton,Davidson,89,78,2021-01-08
+San Jose St.,Fresno St.,64,79,2021-01-08
+Rice,UTEP,89,101,2021-01-08
+Cal Poly,CSU Bakersfield,49,62,2021-01-08
+Hartford,UMass Lowell,62,71,2021-01-09
+Richmond,George Mason,77,57,2021-01-09
+Miami (FL),NC State,64,59,2021-01-09
+Hofstra,Northeastern,56,67,2021-01-09
+Wake Forest,Duke,68,79,2021-01-09
+Alabama,Auburn,94,90,2021-01-09
+St. John's (NY),Creighton,79,97,2021-01-09
+IUPUI,Milwaukee,63,71,2021-01-09
+Ohio St.,Rutgers,79,68,2021-01-09
+Gardner-Webb,Winthrop,65,75,2021-01-09
+Northern Ill.,Miami (OH),58,70,2021-01-09
+South Fla.,East Carolina,69,63,2021-01-09
+Chattanooga,The Citadel,87,92,2021-01-09
+Drexel,Col. of Charleston,60,61,2021-01-09
+Mississippi St.,Vanderbilt,84,81,2021-01-09
+Texas,West Virginia,72,70,2021-01-09
+Idaho,Southern Utah,67,83,2021-01-09
+Seton Hall,DePaul,76,68,2021-01-09
+Marist,Monmouth,64,80,2021-01-09
+Idaho St.,Northern Ariz.,76,70,2021-01-09
+Rhode Island,VCU,83,68,2021-01-09
+Illinois St.,Evansville,48,57,2021-01-09
+Vermont,Binghamton,76,60,2021-01-09
+Virginia,Boston College,61,49,2021-01-09
+Missouri St.,Valparaiso,81,68,2021-01-09
+Maine,NJIT,54,63,2021-01-09
+UMBC,New Hampshire,69,54,2021-01-09
+Morgan St.,Norfolk St.,78,74,2021-01-09
+Delaware,William & Mary,62,67,2021-01-09
+Navy,Lehigh,69,61,2021-01-09
+Akron,Eastern Mich.,59,71,2021-01-09
+Tennessee,Texas A&M,68,54,2021-01-09
+Montana St.,Northern Colo.,76,74,2021-01-09
+Fordham,Duquesne,45,48,2021-01-09
+UNC Asheville,Hampton,71,73,2021-01-09
+Army West Point,Holy Cross,83,68,2021-01-09
+Youngstown St.,Wright St.,55,93,2021-01-09
+Baylor,TCU,67,49,2021-01-09
+South Alabama,Coastal Carolina,69,83,2021-01-09
+Houston Baptist,Lamar University,65,71,2021-01-09
+Washington,California,78,84,2021-01-09
+Northwest Nazarene,Portland St.,75,72,2021-01-09
+Georgia,Arkansas,69,99,2021-01-09
+Texas Tech,Iowa St.,91,64,2021-01-09
+Rider,Niagara,55,66,2021-01-09
+Lafayette,Bucknell,83,60,2021-01-09
+Western Mich.,Kent St.,54,80,2021-01-09
+Jacksonville St.,Morehead St.,55,56,2021-01-09
+Manhattan,Quinnipiac,45,42,2021-01-09
+UNLV,Colorado St.,80,83,2021-01-09
+Ga. Southern,App State,71,77,2021-01-09
+La Salle,Massachusetts,67,83,2021-01-09
+North Texas,UTSA,69,77,2021-01-09
+Tulane,Houston,50,71,2021-01-09
+UConn,Butler,72,60,2021-01-09
+Whitworth,Montana,67,84,2021-01-09
+Siena,Fairfield,74,58,2021-01-09
+Bowling Green,Central Mich.,93,65,2021-01-09
+Oklahoma,Kansas,59,63,2021-01-09
+Oakland,Green Bay,78,87,2021-01-09
+Sam Houston,Central Ark.,91,80,2021-01-09
+UIC,Purdue Fort Wayne,55,88,2021-01-09
+Radford,Charleston So.,79,64,2021-01-09
+Northwestern St.,McNeese,78,75,2021-01-09
+Kentucky,Florida,76,58,2021-01-09
+Ball St.,Buffalo,69,86,2021-01-09
+Austin Peay,Eastern Ill.,74,71,2021-01-09
+Lipscomb,Bellarmine,65,58,2021-01-09
+Little Rock,Louisiana,78,76,2021-01-09
+UT Martin,Belmont,69,89,2021-01-09
+Kennesaw St.,Liberty,47,76,2021-01-09
+FIU,Middle Tenn.,56,67,2021-01-09
+Southern Miss.,UAB,58,62,2021-01-09
+Washington St.,Stanford,60,75,2021-01-09
+Wofford,UNC Greensboro,48,45,2021-01-09
+UT Arlington,ULM,75,74,2021-01-09
+Colgate,Boston U.,86,79,2021-01-09
+Alabama St.,Ark.-Pine Bluff,82,91,2021-01-09
+Albany (NY),Saint Joseph's,64,67,2021-01-09
+Oklahoma St.,Kansas St.,70,54,2021-01-09
+Campbell,Longwood,64,58,2021-01-09
+North Florida,Jacksonville,70,68,2021-01-09
+Southeastern La.,Nicholls St.,67,87,2021-01-09
+Southern U.,Grambling,61,55,2021-01-09
+Santa Clara,Saint Mary's (CA),66,64,2021-01-09
+UC Irvine,UC San Diego,79,65,2021-01-09
+Hawaii,UC Riverside,68,70,2021-01-09
+Georgetown,Syracuse,69,74,2021-01-09
+Stetson,North Ala.,66,73,2021-01-09
+Tennessee Tech,Eastern Ky.,80,90,2021-01-09
+Northern Ky.,Cleveland St.,71,74,2021-01-09
+Fla. Atlantic,Old Dominion,55,64,2021-01-09
+Southern California,Arizona St.,73,64,2021-01-09
+UIW,New Orleans,64,86,2021-01-09
+Louisiana Tech,Western Ky.,63,58,2021-01-09
+Belmont Abbey,Charlotte,75,72,2021-01-09
+Grand Canyon,Tarleton St.,59,48,2021-01-09
+South Dakota,Kansas City,68,62,2021-01-09
+Long Beach St.,Cal St. Fullerton,72,75,2021-01-09
+California Baptist,Utah Valley,77,81,2021-01-09
+Gonzaga,Portland,116,88,2021-01-09
+North Dakota,Oral Roberts,57,74,2021-01-09
+Western Ill.,South Dakota St.,63,92,2021-01-09
+Omaha,North Dakota St.,66,80,2021-01-09
+LSU,Ole Miss,75,61,2021-01-09
+Nevada,San Diego St.,67,69,2021-01-09
+Saint Martin's,Seattle U,63,98,2021-01-09
+Rice,UTEP,71,68,2021-01-09
+UCLA,Arizona,81,76,2021-01-09
+Oregon,Utah,79,73,2021-01-09
+Cal Poly,CSU Bakersfield,50,67,2021-01-09
+Providence,Xavier,73,74,2021-01-10
+UMBC,New Hampshire,68,66,2021-01-10
+Hartford,UMass Lowell,75,58,2021-01-10
+UNC Asheville,Hampton,85,77,2021-01-10
+Drexel,Col. of Charleston,68,73,2021-01-10
+Gardner-Webb,Winthrop,83,91,2021-01-10
+Maine,NJIT,45,41,2021-01-10
+Chowan,James Madison,76,100,2021-01-10
+Morgan St.,Norfolk St.,85,89,2021-01-10
+Illinois St.,Evansville,73,68,2021-01-10
+Missouri St.,Valparaiso,78,68,2021-01-10
+Marist,Monmouth,62,72,2021-01-10
+South Carolina St.,Florida A&M,68,70,2021-01-10
+Vermont,Binghamton,84,44,2021-01-10
+Minnesota,Iowa,71,86,2021-01-10
+Holy Cross,Army West Point,70,61,2021-01-10
+Lehigh,Navy,58,73,2021-01-10
+Siena,Fairfield,75,68,2021-01-10
+Bradley,UNI,72,78,2021-01-10
+Radford,Charleston So.,68,48,2021-01-10
+Cincinnati,Wichita St.,76,82,2021-01-10
+Campbell,Longwood,69,78,2021-01-10
+Notre Dame,Virginia Tech,63,77,2021-01-10
+Bucknell,Lafayette,76,87,2021-01-10
+Indiana,Nebraska,84,76,2021-01-10
+Colgate,Boston U.,89,45,2021-01-10
+Loyola Chicago,Indiana St.,71,76,2021-01-10
+San Francisco,LMU (CA),60,68,2021-01-10
+San Jose St.,Fresno St.,65,80,2021-01-10
+Maryland,Illinois,66,63,2021-01-10
+Temple,SMU,68,79,2021-01-11
+Colorado,Utah,65,58,2021-01-11
+UConn,DePaul,60,53,2021-01-11
+Loyola Chicago,Indiana St.,58,48,2021-01-11
+Texas Southern,Prairie View,67,73,2021-01-11
+Bradley,UNI,75,73,2021-01-11
+Boise St.,Wyoming,83,60,2021-01-11
+Buffalo,Western Mich.,85,69,2021-01-12
+Akron,Northern Ill.,65,67,2021-01-12
+Kent St.,Central Mich.,94,85,2021-01-12
+St. Katherine,UNLV,34,95,2021-01-12
+Alabama St.,Mississippi Val.,64,51,2021-01-12
+Saint Joseph's,Davidson,66,80,2021-01-12
+Butler,St. John's (NY),57,69,2021-01-12
+Miami (FL),Boston College,62,84,2021-01-12
+Wisconsin,Michigan,54,77,2021-01-12
+Miami (OH),Ohio,61,78,2021-01-12
+Eastern Mich.,Toledo,63,96,2021-01-12
+Duke,Virginia Tech,67,74,2021-01-12
+Ole Miss,Florida,63,72,2021-01-12
+Ball St.,Bowling Green,88,64,2021-01-12
+TCU,Oklahoma,46,82,2021-01-12
+Kansas,Oklahoma St.,70,75,2021-01-12
+Alcorn,Grambling,74,79,2021-01-12
+Syracuse,North Carolina,75,81,2021-01-12
+Providence,Marquette,69,79,2021-01-12
+Alabama,Kentucky,85,65,2021-01-12
+UC Riverside,Southern California,62,67,2021-01-12
+VCU,George Washington,84,77,2021-01-13
+St. Bonaventure,Fordham,68,54,2021-01-13
+Furman,The Citadel,94,88,2021-01-13
+N.C. Wesleyan,Norfolk St.,58,80,2021-01-13
+Notre Dame,Virginia,68,80,2021-01-13
+NC State,Florida St.,73,105,2021-01-13
+Duquesne,Dayton,63,72,2021-01-13
+Tulsa,Wichita St.,53,72,2021-01-13
+Rhode Island,Massachusetts,78,80,2021-01-13
+Auburn,Georgia,95,77,2021-01-13
+Wofford,VMI,80,78,2021-01-13
+Mercer,Chattanooga,80,83,2021-01-13
+La Salle,George Mason,42,75,2021-01-13
+Northwestern,Ohio St.,71,81,2021-01-13
+Arkansas,LSU,76,92,2021-01-13
+Central Ark.,SFA,69,95,2021-01-13
+Nicholls St.,Northwestern St.,76,66,2021-01-13
+Lamar University,Sam Houston,71,96,2021-01-13
+A&M-Corpus Christi,Southeastern La.,63,76,2021-01-13
+McNeese,UIW,61,83,2021-01-13
+Louisville,Wake Forest,77,65,2021-01-13
+Boise St.,Wyoming,90,70,2021-01-13
+Texas Tech,Texas,79,77,2021-01-13
+Texas A&M,Mississippi St.,56,55,2021-01-13
+New Mexico,Dixie St.,72,63,2021-01-13
+UCF,Temple,55,62,2021-01-14
+California,Colorado,60,89,2021-01-14
+Charleston So.,UNC Asheville,54,92,2021-01-14
+Santa Clara,Pacific,58,79,2021-01-14
+Stanford,Utah,65,79,2021-01-14
+Washington St.,UCLA,61,91,2021-01-14
+Hampton,USC Upstate,69,68,2021-01-14
+Northern Ariz.,Montana,56,67,2021-01-14
+UNC Greensboro,Samford,87,63,2021-01-14
+Calvin,Eastern Mich.,56,67,2021-01-14
+Fla. Atlantic,FIU,81,79,2021-01-14
+Presbyterian,Campbell,46,48,2021-01-14
+LIU,Wagner,77,66,2021-01-14
+Belmont,Tennessee Tech,88,67,2021-01-14
+Longwood,Winthrop,61,72,2021-01-14
+Central Conn. St.,Sacred Heart,48,65,2021-01-14
+Bryant,Saint Francis (PA),82,89,2021-01-14
+Purdue,Indiana,81,69,2021-01-14
+Merrimack,Mount St. Mary's,57,77,2021-01-14
+San Francisco,Portland,79,63,2021-01-14
+Portland St.,Montana St.,64,71,2021-01-14
+Tennessee St.,Jacksonville St.,64,65,2021-01-14
+San Diego St.,Utah St.,45,57,2021-01-14
+Morehead St.,Eastern Ill.,87,61,2021-01-14
+Pepperdine,Gonzaga,70,95,2021-01-14
+Northern Colo.,Idaho,74,54,2021-01-14
+Southern Utah,Eastern Wash.,63,75,2021-01-14
+Colorado St.,San Jose St.,90,57,2021-01-14
+Washington,Southern California,68,95,2021-01-14
+BYU,Saint Mary's (CA),62,52,2021-01-14
+Arizona,Oregon St.,98,64,2021-01-14
+CSU Bakersfield,Hawaii,60,55,2021-01-15
+Wingate,Maryland,58,100,2021-01-15
+Hofstra,Delaware,56,74,2021-01-15
+Charleston So.,UNC Asheville,75,83,2021-01-15
+Oral Roberts,Denver,88,84,2021-01-15
+Old Dominion,Rice,59,69,2021-01-15
+Bryant,Saint Francis (PA),72,63,2021-01-15
+Merrimack,Mount St. Mary's,52,63,2021-01-15
+Niagara,Manhattan,49,58,2021-01-15
+Fairfield,Marist,63,73,2021-01-15
+Quinnipiac,Monmouth,80,92,2021-01-15
+UAB,Charlotte,61,37,2021-01-15
+Marshall,Western Ky.,73,81,2021-01-15
+IUPUI,Northern Ky.,74,69,2021-01-15
+Troy,Ga. Southern,64,67,2021-01-15
+Hampton,USC Upstate,84,74,2021-01-15
+Longwood,Winthrop,50,70,2021-01-15
+North Ala.,Kennesaw St.,66,43,2021-01-15
+Duquesne,St. Bonaventure,48,62,2021-01-15
+App State,South Alabama,64,73,2021-01-15
+Dixie St.,UTRGV,49,82,2021-01-15
+ULM,Arkansas St.,72,74,2021-01-15
+Louisiana,UT Arlington,86,91,2021-01-15
+Siena,Rider,78,69,2021-01-15
+Bellarmine,FGCU,74,60,2021-01-15
+Green Bay,Detroit Mercy,61,86,2021-01-15
+Bowling Green,Buffalo,76,69,2021-01-15
+UC Riverside,Cal Poly,86,51,2021-01-15
+LIU,Wagner,74,76,2021-01-15
+Purdue Fort Wayne,Milwaukee,81,72,2021-01-15
+Presbyterian,Campbell,51,73,2021-01-15
+Youngstown St.,Oakland,65,82,2021-01-15
+Cleveland St.,Wright St.,66,64,2021-01-15
+Liberty,Stetson,59,65,2021-01-15
+Texas St.,Little Rock,63,59,2021-01-15
+UTSA,Louisiana Tech,66,77,2021-01-15
+UC San Diego,UC Santa Barbara,52,69,2021-01-15
+UTEP,North Texas,33,63,2021-01-15
+North Florida,Lipscomb,72,84,2021-01-15
+Middle Tenn.,Southern Miss.,54,84,2021-01-15
+Robert Morris,UIC,53,67,2021-01-15
+North Dakota St.,North Dakota,62,45,2021-01-15
+Wisconsin,Rutgers,60,54,2021-01-15
+Utah Valley,Seattle U,93,92,2021-01-15
+Tarleton St.,California Baptist,74,83,2021-01-15
+Bethesda (CA),Grand Canyon,62,121,2021-01-15
+Fresno St.,Nevada,57,73,2021-01-15
+CSU Bakersfield,Hawaii,83,72,2021-01-16
+North Carolina,Florida St.,75,82,2021-01-16
+Syracuse,Pittsburgh,76,96,2021-01-16
+Georgia,Ole Miss,78,74,2021-01-16
+American,Navy,86,87,2021-01-16
+Marquette,St. John's (NY),73,71,2021-01-16
+Ohio St.,Illinois,87,81,2021-01-16
+Army West Point,Boston U.,79,59,2021-01-16
+Temple,Tulane,65,57,2021-01-16
+Holy Cross,Colgate,55,95,2021-01-16
+Northern Ariz.,Montana,62,58,2021-01-16
+William & Mary,Drexel,58,82,2021-01-16
+The Citadel,VMI,103,110,2021-01-16
+Hartford,UMBC,70,63,2021-01-16
+Missouri,Texas A&M,68,52,2021-01-16
+Northern Ill.,Ball St.,58,78,2021-01-16
+Northeastern,Col. of Charleston,67,62,2021-01-16
+San Diego St.,Utah St.,59,64,2021-01-16
+Oral Roberts,Denver,91,82,2021-01-16
+Old Dominion,Rice,61,58,2021-01-16
+Creighton,Butler,66,70,2021-01-16
+Coppin St.,Morgan St.,72,92,2021-01-16
+Davidson,La Salle,77,53,2021-01-16
+James Madison,Towson,81,72,2021-01-16
+Wofford,Chattanooga,77,59,2021-01-16
+George Mason,Rhode Island,60,80,2021-01-16
+Western Caro.,Mercer,76,78,2021-01-16
+Michigan,Minnesota,57,75,2021-01-16
+Lehigh,Bucknell,70,75,2021-01-16
+Kentucky,Auburn,59,66,2021-01-16
+UMass Lowell,Binghamton,92,78,2021-01-16
+New Hampshire,Stony Brook,81,64,2021-01-16
+Kent St.,Ohio,89,79,2021-01-16
+Coastal Carolina,Georgia St.,68,71,2021-01-16
+Toledo,Akron,94,95,2021-01-16
+Portland St.,Montana St.,64,69,2021-01-16
+Youngstown St.,Oakland,74,81,2021-01-16
+Stanford,Colorado,64,77,2021-01-16
+Maine,Vermont,30,65,2021-01-16
+UNC Greensboro,Samford,82,70,2021-01-16
+Troy,Ga. Southern,56,63,2021-01-16
+Northern Colo.,Idaho,75,61,2021-01-16
+Southern Utah,Eastern Wash.,99,94,2021-01-16
+Arkansas,Alabama,59,90,2021-01-16
+ETSU,Furman,66,78,2021-01-16
+Loyola Maryland,Lafayette,75,77,2021-01-16
+Valparaiso,DePaul,58,77,2021-01-16
+Bethesda (CA),Grand Canyon,47,98,2021-01-16
+Indiana St.,Illinois St.,73,65,2021-01-16
+Evansville,Bradley,60,69,2021-01-16
+FIU,Fla. Atlantic,63,107,2021-01-16
+UAB,Charlotte,55,70,2021-01-16
+Southeastern La.,Abilene Christian,42,76,2021-01-16
+Boston College,Notre Dame,70,80,2021-01-16
+Niagara,Manhattan,55,58,2021-01-16
+Baylor,Texas Tech,68,60,2021-01-16
+UTEP,North Texas,65,74,2021-01-16
+North Ala.,Kennesaw St.,66,64,2021-01-16
+Wyoming,Air Force,69,72,2021-01-16
+Florida,Mississippi St.,69,72,2021-01-16
+Alabama St.,Alabama A&M,63,70,2021-01-16
+Houston Baptist,Sam Houston,80,87,2021-01-16
+Eastern Mich.,Central Mich.,64,75,2021-01-16
+Texas St.,Little Rock,67,56,2021-01-16
+NJIT,Albany (NY),75,83,2021-01-16
+Eastern Ky.,Eastern Ill.,93,85,2021-01-16
+Quinnipiac,Monmouth,63,70,2021-01-16
+ULM,Arkansas St.,72,93,2021-01-16
+Nicholls St.,Central Ark.,74,72,2021-01-16
+Louisiana,UT Arlington,68,51,2021-01-16
+Liberty,Stetson,68,58,2021-01-16
+Morehead St.,Southeast Mo. St.,64,50,2021-01-16
+Middle Tenn.,Southern Miss.,59,64,2021-01-16
+Washington,UCLA,76,81,2021-01-16
+Norfolk St.,Delaware St.,87,76,2021-01-16
+Murray St.,UT Martin,79,57,2021-01-16
+App State,South Alabama,83,77,2021-01-16
+Belmont,Jacksonville St.,98,91,2021-01-16
+Fairfield,Marist,55,52,2021-01-16
+Ark.-Pine Bluff,Southern U.,53,88,2021-01-16
+New Mexico,UNLV,54,77,2021-01-16
+North Florida,Lipscomb,72,67,2021-01-16
+UNI,Loyola Chicago,57,72,2021-01-16
+Green Bay,Detroit Mercy,65,68,2021-01-16
+Virginia,Clemson,85,50,2021-01-16
+IUPUI,Northern Ky.,65,63,2021-01-16
+Vanderbilt,Tennessee,61,81,2021-01-16
+LMU (CA),Pacific,49,58,2021-01-16
+Colorado St.,San Jose St.,88,61,2021-01-16
+Robert Morris,UIC,62,66,2021-01-16
+Mississippi Val.,Alcorn,59,71,2021-01-16
+Arizona St.,Oregon St.,79,80,2021-01-16
+UTSA,Louisiana Tech,66,82,2021-01-16
+McNeese,New Orleans,84,99,2021-01-16
+Dixie St.,UTRGV,65,72,2021-01-16
+UC Riverside,Cal Poly,70,53,2021-01-16
+Siena,Rider,74,72,2021-01-16
+Bellarmine,FGCU,80,63,2021-01-16
+Cleveland St.,Wright St.,49,85,2021-01-16
+Portland,Pepperdine,65,80,2021-01-16
+Purdue Fort Wayne,Milwaukee,81,74,2021-01-16
+SFA,UIW,83,65,2021-01-16
+Kansas St.,Texas,67,82,2021-01-16
+BYU,San Francisco,72,63,2021-01-16
+Louisville,Miami (FL),72,78,2021-01-16
+UC San Diego,UC Santa Barbara,53,84,2021-01-16
+South Carolina,LSU,80,85,2021-01-16
+North Dakota St.,North Dakota,78,82,2021-01-16
+Grambling,Texas Southern,78,72,2021-01-16
+Tennessee St.,Tennessee Tech,71,74,2021-01-16
+Tarleton St.,California Baptist,67,73,2021-01-16
+Washington St.,Southern California,77,85,2021-01-16
+Gonzaga,Saint Mary's (CA),73,59,2021-01-16
+CSUN,Cal St. Fullerton,86,85,2021-01-16
+California,Utah,72,63,2021-01-16
+UMass Lowell,Binghamton,77,67,2021-01-17
+Iowa,Northwestern,96,73,2021-01-17
+American,Navy,59,71,2021-01-17
+Northeastern,Col. of Charleston,68,66,2021-01-17
+William & Mary,Drexel,69,64,2021-01-17
+Maine,Vermont,60,88,2021-01-17
+Holy Cross,Colgate,87,96,2021-01-17
+Hofstra,Delaware,68,67,2021-01-17
+Hartford,UMBC,49,57,2021-01-17
+Army West Point,Boston U.,76,65,2021-01-17
+Penn St.,Purdue,72,80,2021-01-17
+UCF,Houston,58,75,2021-01-17
+Coppin St.,Morgan St.,89,79,2021-01-17
+Western Ky.,Marshall,69,67,2021-01-17
+New Hampshire,Stony Brook,67,64,2021-01-17
+Massachusetts,Fordham,65,46,2021-01-17
+Memphis,Tulsa,57,58,2021-01-17
+Sacramento St.,Idaho St.,56,57,2021-01-17
+Indiana St.,Illinois St.,74,68,2021-01-17
+Evansville,Bradley,55,86,2021-01-17
+Bucknell,Lehigh,77,61,2021-01-17
+Fresno St.,Nevada,65,79,2021-01-17
+Dayton,George Washington,67,54,2021-01-17
+UNI,Loyola Chicago,46,88,2021-01-17
+Santa Clara,San Diego,69,63,2021-01-17
+Norfolk St.,Delaware St.,83,79,2021-01-17
+NJIT,Albany (NY),71,83,2021-01-17
+Virginia Tech,Wake Forest,64,60,2021-01-17
+Missouri S&T,Missouri St.,49,94,2021-01-17
+Lafayette,Loyola Maryland,72,70,2021-01-17
+Tarleton St.,Weber St.,79,94,2021-01-17
+CSUN,Cal St. Fullerton,77,85,2021-01-17
+UNCW,Towson,69,72,2021-01-18
+St. John's (NY),UConn,74,70,2021-01-18
+Western Caro.,Samford,78,82,2021-01-18
+Sacramento St.,Idaho St.,70,65,2021-01-18
+Saint Joseph's,La Salle,83,90,2021-01-18
+Ark.-Pine Bluff,Alcorn,48,82,2021-01-18
+Mississippi Val.,Southern U.,61,102,2021-01-18
+VMI,ETSU,81,92,2021-01-18
+Florida St.,Louisville,78,65,2021-01-18
+The Citadel,UNC Greensboro,73,87,2021-01-18
+Grambling,Prairie View,50,59,2021-01-18
+Wyoming,Air Force,77,58,2021-01-18
+Kansas,Baylor,69,77,2021-01-18
+New Mexico,UNLV,46,53,2021-01-18
+UNCW,Towson,74,78,2021-01-19
+Buffalo,Kent St.,81,84,2021-01-19
+High Point,Longwood,54,75,2021-01-19
+Kansas St.,Oklahoma,50,76,2021-01-19
+Purdue,Ohio St.,67,65,2021-01-19
+Maryland,Michigan,63,87,2021-01-19
+Southern California,Oregon St.,56,58,2021-01-19
+Southeast Mo. St.,Tennessee St.,63,59,2021-01-19
+Butler,DePaul,67,53,2021-01-19
+Radford,Campbell,97,91,2021-01-19
+South Carolina,Missouri,70,81,2021-01-19
+Tennessee,Florida,49,75,2021-01-19
+UNC Asheville,Gardner-Webb,79,75,2021-01-19
+Winthrop,Presbyterian,72,58,2021-01-19
+Central Mich.,Toledo,72,89,2021-01-19
+Akron,Bowling Green,69,57,2021-01-19
+Miami (FL),Syracuse,57,83,2021-01-19
+Ball St.,Miami (OH),71,81,2021-01-19
+Penn St.,Illinois,65,79,2021-01-19
+San Diego,LMU (CA),69,72,2021-01-19
+Ole Miss,Mississippi St.,64,46,2021-01-19
+Seton Hall,Villanova,74,76,2021-01-19
+Colorado St.,Utah St.,64,83,2021-01-19
+Duke,Pittsburgh,73,79,2021-01-19
+Alabama,LSU,105,75,2021-01-19
+Fordham,Davidson,58,73,2021-01-20
+ETSU,Western Caro.,59,48,2021-01-20
+Winthrop,Presbyterian,78,66,2021-01-20
+Mercer,The Citadel,83,63,2021-01-20
+Rhode Island,Duquesne,69,71,2021-01-20
+High Point,Longwood,54,67,2021-01-20
+VCU,St. Bonaventure,54,70,2021-01-20
+Furman,VMI,73,74,2021-01-20
+Loyola Chicago,Valparaiso,75,39,2021-01-20
+Radford,Campbell,67,61,2021-01-20
+UNC Asheville,Gardner-Webb,57,84,2021-01-20
+Saint Joseph's,George Mason,85,87,2021-01-20
+Kentucky,Georgia,62,63,2021-01-20
+Clemson,Georgia Tech,65,83,2021-01-20
+Wake Forest,North Carolina,73,80,2021-01-20
+Providence,Creighton,74,70,2021-01-20
+Northwestern St.,SFA,74,86,2021-01-20
+Southeastern La.,McNeese,92,88,2021-01-20
+Tulsa,Houston,59,86,2021-01-20
+Northwestern,Wisconsin,52,68,2021-01-20
+Nicholls St.,Houston Baptist,92,83,2021-01-20
+Chattanooga,Samford,70,64,2021-01-20
+A&M-Corpus Christi,New Orleans,68,87,2021-01-20
+Auburn,Arkansas,73,75,2021-01-20
+Fresno St.,Boise St.,51,73,2021-01-20
+Colorado,Washington,80,84,2021-01-20
+Bradley,Illinois St.,56,71,2021-01-20
+San Diego Christian,California Baptist,37,89,2021-01-20
+Abilene Christian,Sam Houston,57,64,2021-01-20
+Eastern Mich.,Buffalo,77,92,2021-01-21
+San Jose St.,New Mexico,51,67,2021-01-21
+Bowling Green,Miami (OH),77,96,2021-01-21
+Central Mich.,Akron,67,81,2021-01-21
+St. Mary's (MD),Morgan St.,41,99,2021-01-21
+Fairleigh Dickinson,Merrimack,51,62,2021-01-21
+Saint Francis (PA),Sacred Heart,76,58,2021-01-21
+Southeast Mo. St.,Morehead St.,65,76,2021-01-21
+Mount St. Mary's,Central Conn. St.,67,57,2021-01-21
+Wichita St.,Memphis,52,72,2021-01-21
+Rutgers,Penn St.,67,75,2021-01-21
+Saint Mary's (CA),LMU (CA),65,61,2021-01-21
+Benedictine Mesa,UNLV,45,99,2021-01-21
+UT Martin,Eastern Ky.,73,113,2021-01-21
+Montana St.,Northern Ariz.,62,51,2021-01-21
+Eastern Ill.,Belmont,66,79,2021-01-21
+Montana,Sacramento St.,78,66,2021-01-21
+Jacksonville St.,Murray St.,85,82,2021-01-21
+Tennessee Tech,Austin Peay,69,72,2021-01-21
+Eastern Wash.,Northern Colo.,76,78,2021-01-21
+Indiana,Iowa,81,69,2021-01-21
+UCLA,California,61,57,2021-01-21
+Arizona,Arizona St.,84,82,2021-01-21
+Southern Utah,Weber St.,67,91,2021-01-21
+Portland,BYU,67,95,2021-01-21
+Pacific,Pepperdine,68,85,2021-01-21
+SIUE,Tennessee St.,67,65,2021-01-21
+San Francisco,Santa Clara,73,50,2021-01-21
+Utah,Washington St.,71,56,2021-01-21
+Idaho St.,Portland St.,64,57,2021-01-21
+Colorado St.,Utah St.,84,76,2021-01-21
+Wright St.,IUPUI,95,65,2021-01-22
+Mount St. Mary's,Central Conn. St.,64,65,2021-01-22
+Fairleigh Dickinson,Merrimack,71,76,2021-01-22
+Saint Francis (PA),Sacred Heart,70,82,2021-01-22
+Niagara,Quinnipiac,59,56,2021-01-22
+UIC,Youngstown St.,67,66,2021-01-22
+Purdue Fort Wayne,Green Bay,59,77,2021-01-22
+Troy,Coastal Carolina,81,90,2021-01-22
+Georgia St.,App State,71,80,2021-01-22
+Texas St.,ULM,57,47,2021-01-22
+Southern Miss.,UTSA,64,70,2021-01-22
+Marshall,FIU,79,66,2021-01-22
+Charlotte,Fla. Atlantic,53,66,2021-01-22
+Marist,Rider,64,76,2021-01-22
+Ga. Southern,South Alabama,84,75,2021-01-22
+Kennesaw St.,North Florida,54,69,2021-01-22
+Arkansas St.,Louisiana,68,81,2021-01-22
+UC Davis,UC San Diego,69,89,2021-01-22
+Little Rock,UT Arlington,66,59,2021-01-22
+CSU Bakersfield,UC Riverside,47,45,2021-01-22
+Cal Poly,UC Irvine,49,68,2021-01-22
+Jacksonville,North Ala.,81,82,2021-01-22
+Michigan,Purdue,70,53,2021-01-22
+Detroit Mercy,Oakland,81,86,2021-01-22
+Stetson,Bellarmine,62,67,2021-01-22
+Saint Peter's,Siena,68,62,2021-01-22
+Northern Ky.,Robert Morris,81,76,2021-01-22
+UC Santa Barbara,CSUN,105,58,2021-01-22
+Rice,UAB,68,78,2021-01-22
+Nevada,Wyoming,64,71,2021-01-22
+Hawaii,Cal St. Fullerton,67,83,2021-01-22
+FGCU,Lipscomb,79,69,2021-01-22
+South Dakota,Western Ill.,65,60,2021-01-22
+North Dakota,South Dakota St.,73,92,2021-01-22
+Denver,North Dakota St.,58,70,2021-01-22
+Milwaukee,Cleveland St.,53,64,2021-01-22
+San Diego St.,Air Force,98,61,2021-01-22
+Grand Canyon,Dixie St.,77,74,2021-01-22
+Louisiana Tech,UTEP,74,82,2021-01-22
+James Madison,Northeastern,63,72,2021-01-23
+Wright St.,IUPUI,100,72,2021-01-23
+UConn,Creighton,66,74,2021-01-23
+Houston,Temple,68,51,2021-01-23
+Kent St.,Toledo,74,76,2021-01-23
+UNC Greensboro,Chattanooga,74,66,2021-01-23
+Loyola Maryland,American,70,71,2021-01-23
+Auburn,South Carolina,109,86,2021-01-23
+Virginia Tech,Syracuse,60,78,2021-01-23
+Kansas,Oklahoma,68,75,2021-01-23
+George Mason,Saint Joseph's,71,62,2021-01-23
+Drexel,William & Mary,79,64,2021-01-23
+Arkansas,Vanderbilt,92,71,2021-01-23
+Delaware,UNCW,70,77,2021-01-23
+Norfolk St.,Coppin St.,71,81,2021-01-23
+Ball St.,Ohio,77,85,2021-01-23
+San Jose St.,New Mexico,83,71,2021-01-23
+NC State,North Carolina,76,86,2021-01-23
+VMI,Mercer,80,83,2021-01-23
+Marshall,FIU,89,72,2021-01-23
+Eastern Wash.,Northern Colo.,82,76,2021-01-23
+Weber St.,Southern Utah,72,77,2021-01-23
+Montana St.,Northern Ariz.,58,53,2021-01-23
+Lehigh,Holy Cross,75,72,2021-01-23
+SMU,UCF,78,65,2021-01-23
+Stony Brook,NJIT,65,74,2021-01-23
+Maryland,Minnesota,63,49,2021-01-23
+Albany (NY),New Hampshire,64,71,2021-01-23
+Florida,Georgia,92,84,2021-01-23
+Towson,Hofstra,58,71,2021-01-23
+Baylor,Oklahoma St.,81,66,2021-01-23
+Montana,Sacramento St.,83,89,2021-01-23
+Providence,Villanova,56,71,2021-01-23
+Army West Point,Navy,62,69,2021-01-23
+La Salle,Richmond,84,78,2021-01-23
+A&M-Corpus Christi,UIW,53,72,2021-01-23
+Troy,Coastal Carolina,65,70,2021-01-23
+Clemson,Florida St.,61,80,2021-01-23
+Southern U.,Alabama A&M,58,68,2021-01-23
+Idaho St.,Portland St.,43,69,2021-01-23
+Texas A&M,Ole Miss,50,61,2021-01-23
+Furman,ETSU,62,71,2021-01-23
+Ohio St.,Wisconsin,74,62,2021-01-23
+Duke,Louisville,65,70,2021-01-23
+Georgia St.,App State,61,74,2021-01-23
+UT Martin,Morehead St.,44,76,2021-01-23
+Utah Valley,St. John's (NY),78,96,2021-01-23
+West Virginia,Kansas St.,69,47,2021-01-23
+Southern Miss.,UTSA,72,78,2021-01-23
+Charlotte,Fla. Atlantic,74,71,2021-01-23
+Niagara,Quinnipiac,69,78,2021-01-23
+Western Caro.,Wofford,78,91,2021-01-23
+Prairie View,Mississippi Val.,77,31,2021-01-23
+Central Ark.,Abilene Christian,58,93,2021-01-23
+Boston U.,Lafayette,81,76,2021-01-23
+Dayton,VCU,43,66,2021-01-23
+UCLA,Stanford,72,73,2021-01-23
+Ga. Southern,South Alabama,48,62,2021-01-23
+UIC,Youngstown St.,77,85,2021-01-23
+UC Davis,UC San Diego,78,71,2021-01-23
+Texas St.,ULM,69,63,2021-01-23
+Eastern Ill.,Tennessee St.,54,65,2021-01-23
+Stetson,Bellarmine,65,76,2021-01-23
+Purdue Fort Wayne,Green Bay,72,87,2021-01-23
+Arkansas St.,Louisiana,74,77,2021-01-23
+Milwaukee,Cleveland St.,81,80,2021-01-23
+Little Rock,UT Arlington,61,66,2021-01-23
+Northwestern St.,Southeastern La.,73,68,2021-01-23
+Jackson St.,Grambling,75,61,2021-01-23
+Western Ky.,Middle Tenn.,82,67,2021-01-23
+Rice,UAB,74,86,2021-01-23
+Kennesaw St.,North Florida,65,68,2021-01-23
+San Diego,Portland,78,70,2021-01-23
+Akron,Western Mich.,79,68,2021-01-23
+SIUE,Belmont,62,114,2021-01-23
+Northern Ky.,Robert Morris,79,74,2021-01-23
+Detroit Mercy,Oakland,82,72,2021-01-23
+Jacksonville St.,Austin Peay,76,70,2021-01-23
+Alcorn,Alabama St.,57,52,2021-01-23
+Miami (OH),Eastern Mich.,85,63,2021-01-23
+Lamar University,SFA,72,102,2021-01-23
+Pittsburgh,Wake Forest,75,76,2021-01-23
+DePaul,Marquette,68,61,2021-01-23
+Texas Southern,Ark.-Pine Bluff,66,57,2021-01-23
+LSU,Kentucky,69,82,2021-01-23
+Valparaiso,Illinois St.,69,60,2021-01-23
+Mississippi St.,Alabama,73,81,2021-01-23
+New Orleans,Nicholls St.,62,86,2021-01-23
+McNeese,Houston Baptist,74,71,2021-01-23
+Marist,Rider,76,67,2021-01-23
+CSU Bakersfield,UC Riverside,63,70,2021-01-23
+Santa Clara,LMU (CA),72,69,2021-01-23
+Northwestern,Penn St.,78,81,2021-01-23
+UC Santa Barbara,CSUN,80,66,2021-01-23
+Saint Peter's,Siena,40,47,2021-01-23
+St. Bonaventure,Duquesne,65,61,2021-01-23
+Cal Poly,UC Irvine,44,67,2021-01-23
+Jacksonville,North Ala.,54,76,2021-01-23
+Saint Mary's (CA),San Francisco,67,63,2021-01-23
+Georgia Tech,Virginia,62,64,2021-01-23
+South Dakota,Western Ill.,84,74,2021-01-23
+Southern California,California,76,68,2021-01-23
+FGCU,Lipscomb,56,71,2021-01-23
+Hawaii,Cal St. Fullerton,76,53,2021-01-23
+Colorado,Washington St.,70,59,2021-01-23
+Kansas City,Oral Roberts,58,60,2021-01-23
+Louisiana Tech,UTEP,73,55,2021-01-23
+North Dakota,South Dakota St.,74,85,2021-01-23
+Tennessee Tech,Murray St.,63,72,2021-01-23
+Denver,North Dakota St.,58,84,2021-01-23
+Missouri,Tennessee,73,64,2021-01-23
+Grand Canyon,Dixie St.,81,46,2021-01-23
+Long Beach St.,California Baptist,75,96,2021-01-23
+Pacific,Gonzaga,49,95,2021-01-23
+Pepperdine,BYU,54,65,2021-01-23
+Oregon St.,Oregon,75,64,2021-01-23
+James Madison,Northeastern,79,72,2021-01-24
+Rutgers,Indiana,74,70,2021-01-24
+Davidson,Massachusetts,69,60,2021-01-24
+Delaware,UNCW,67,62,2021-01-24
+Norfolk St.,Coppin St.,77,81,2021-01-24
+Carver,Nicholls St.,60,105,2021-01-24
+Charleston So.,Gardner-Webb,62,74,2021-01-24
+Stony Brook,NJIT,56,44,2021-01-24
+Western Ky.,Middle Tenn.,68,52,2021-01-24
+Albany (NY),New Hampshire,83,64,2021-01-24
+Presbyterian,High Point,57,81,2021-01-24
+Towson,Hofstra,69,74,2021-01-24
+Radford,UNC Asheville,68,76,2021-01-24
+Lehigh,Holy Cross,82,74,2021-01-24
+Delaware St.,Morgan St.,83,99,2021-01-24
+Fordham,Rhode Island,42,52,2021-01-24
+Army West Point,Navy,87,78,2021-01-24
+Loyola Chicago,Bradley,69,56,2021-01-24
+Utah,Washington,79,83,2021-01-24
+Memphis,East Carolina,80,53,2021-01-24
+Nevada,Wyoming,88,93,2021-01-24
+Boston U.,Lafayette,64,61,2021-01-24
+American,Loyola Maryland,81,79,2021-01-24
+Notre Dame,Miami (FL),73,59,2021-01-24
+Valparaiso,Illinois St.,70,66,2021-01-24
+Kansas City,Oral Roberts,81,76,2021-01-24
+San Diego St.,Air Force,91,59,2021-01-24
+Radford,UNC Asheville,73,63,2021-01-25
+Charleston So.,Gardner-Webb,71,80,2021-01-25
+LMU (CA),Portland,75,50,2021-01-25
+Presbyterian,High Point,71,56,2021-01-25
+Western N.M.,New Mexico St.,41,70,2021-01-25
+Prairie View,Ark.-Pine Bluff,73,56,2021-01-25
+Coe,UNI,60,70,2021-01-25
+Southern Ill.,Indiana St.,66,69,2021-01-25
+Loyola Chicago,Bradley,65,58,2021-01-25
+Syracuse,Virginia,58,81,2021-01-25
+Southern U.,Alabama St.,64,66,2021-01-25
+Texas Tech,West Virginia,87,88,2021-01-25
+Utah St.,UNLV,56,59,2021-01-25
+Oklahoma St.,Iowa St.,81,60,2021-01-25
+Arizona St.,Arizona,67,80,2021-01-25
+Tulsa,Temple,67,76,2021-01-26
+Southern Ill.,Indiana St.,59,71,2021-01-26
+Richmond,Saint Joseph's,79,56,2021-01-26
+Western Mich.,Ohio,58,81,2021-01-26
+Kentucky,Alabama,59,70,2021-01-26
+SMU,Memphis,72,76,2021-01-26
+Mississippi St.,Tennessee,53,56,2021-01-26
+Oklahoma,Texas,80,79,2021-01-26
+North Carolina,Pittsburgh,75,65,2021-01-26
+Toledo,Miami (OH),90,81,2021-01-26
+Fairleigh Dickinson,Saint Francis (PA),94,92,2021-01-26
+Eastern Mich.,Akron,65,86,2021-01-26
+Drake,Missouri St.,68,61,2021-01-26
+SIUE,Eastern Ill.,87,74,2021-01-26
+Butler,UConn,51,63,2021-01-26
+Dayton,Saint Louis,76,71,2021-01-26
+LSU,Texas A&M,78,66,2021-01-26
+Georgia Tech,Duke,68,75,2021-01-26
+Missouri,Auburn,82,88,2021-01-26
+Southeast Mo. St.,UT Martin,66,69,2021-01-26
+Saint Martin's,Portland St.,60,69,2021-01-26
+BYU,Pepperdine,73,76,2021-01-27
+Fairleigh Dickinson,Saint Francis (PA),82,90,2021-01-27
+Towson,James Madison,63,78,2021-01-27
+Merrimack,LIU,68,63,2021-01-27
+Wofford,The Citadel,69,77,2021-01-27
+Rhode Island,La Salle,73,60,2021-01-27
+Bowling Green,Kent St.,91,96,2021-01-27
+Duquesne,Fordham,86,62,2021-01-27
+Miami (FL),Florida St.,59,81,2021-01-27
+Vanderbilt,Florida,71,78,2021-01-27
+Creighton,Seton Hall,85,81,2021-01-27
+Mercer,UNC Greensboro,68,81,2021-01-27
+Virginia Tech,Notre Dame,62,51,2021-01-27
+Penn St.,Ohio St.,79,83,2021-01-27
+Georgia,South Carolina,59,83,2021-01-27
+Western Caro.,VMI,61,87,2021-01-27
+Marquette,Providence,63,72,2021-01-27
+New Orleans,Northwestern St.,73,81,2021-01-27
+East Carolina,UCF,64,71,2021-01-27
+Wake Forest,NC State,67,72,2021-01-27
+Sam Houston,A&M-Corpus Christi,75,70,2021-01-27
+McNeese,Nicholls St.,69,76,2021-01-27
+Houston Baptist,UIW,73,57,2021-01-27
+SFA,Abilene Christian,62,82,2021-01-27
+Ole Miss,Arkansas,59,74,2021-01-27
+Louisville,Clemson,50,54,2021-01-27
+Boise St.,Colorado St.,56,78,2021-01-27
+Wisconsin,Maryland,61,55,2021-01-27
+Kansas St.,Baylor,59,107,2021-01-27
+St. John's (NY),DePaul,81,68,2021-01-27
+Washington St.,Colorado,58,70,2021-01-27
+Drake,Missouri St.,78,73,2021-01-27
+Central Ark.,Southeastern La.,57,69,2021-01-27
+Utah St.,UNLV,83,74,2021-01-27
+Merrimack,LIU,68,78,2021-01-28
+Oregon St.,Southern California,62,75,2021-01-28
+Michigan St.,Rutgers,37,67,2021-01-28
+Louisiana Tech,Southern Miss.,76,63,2021-01-28
+UTEP,UTSA,79,86,2021-01-28
+Bradley,Valparaiso,85,91,2021-01-28
+UNC Asheville,Winthrop,80,84,2021-01-28
+TCU,Kansas,51,59,2021-01-28
+Memphis,SMU,65,67,2021-01-28
+Morehead St.,Jacksonville St.,85,66,2021-01-28
+Tennessee St.,Murray St.,53,73,2021-01-28
+Weber St.,Idaho,81,56,2021-01-28
+Houston,Tulane,83,60,2021-01-28
+UAB,Middle Tenn.,70,59,2021-01-28
+Eastern Ill.,UT Martin,41,51,2021-01-28
+Belmont,Austin Peay,81,76,2021-01-28
+Gonzaga,San Diego,90,62,2021-01-28
+Wyoming,San Diego St.,57,87,2021-01-28
+SIUE,Southeast Mo. St.,62,64,2021-01-28
+Air Force,San Jose St.,58,59,2021-01-28
+Stanford,Arizona,73,64,2021-01-28
+New Mexico,Fresno St.,62,64,2021-01-28
+California,Arizona St.,68,72,2021-01-28
+UC Irvine,Hawaii,53,51,2021-01-29
+North Texas,Rice,79,74,2021-01-29
+Monmouth,Niagara,77,67,2021-01-29
+Carver,N.C. Central,61,94,2021-01-29
+Detroit Mercy,Youngstown St.,78,75,2021-01-29
+Louisiana,Texas St.,62,60,2021-01-29
+UIC,Northern Ky.,68,72,2021-01-29
+UNC Asheville,Winthrop,57,55,2021-01-29
+FIU,Charlotte,55,63,2021-01-29
+Longwood,Presbyterian,49,45,2021-01-29
+Milwaukee,IUPUI,68,73,2021-01-29
+Bellarmine,Kennesaw St.,84,67,2021-01-29
+Liberty,Jacksonville,59,54,2021-01-29
+Stetson,FGCU,63,64,2021-01-29
+High Point,Gardner-Webb,59,55,2021-01-29
+App State,Troy,62,71,2021-01-29
+CSUN,Cal Poly,70,76,2021-01-29
+North Ala.,North Florida,82,78,2021-01-29
+Ohio,Buffalo,76,75,2021-01-29
+Green Bay,Cleveland St.,68,74,2021-01-29
+UC Santa Barbara,UC Davis,72,51,2021-01-29
+Oakland,Purdue Fort Wayne,81,66,2021-01-29
+ULM,Little Rock,62,66,2021-01-29
+Charleston So.,Campbell,58,59,2021-01-29
+North Dakota St.,Kansas City,71,67,2021-01-29
+Tarleton St.,Utah Valley,60,73,2021-01-29
+Omaha,South Dakota,59,91,2021-01-29
+Manhattan,Saint Peter's,55,59,2021-01-29
+Northern Colo.,Northern Ariz.,64,68,2021-01-29
+Western Ill.,North Dakota,81,83,2021-01-29
+Coastal Carolina,Ga. Southern,79,62,2021-01-29
+UT Arlington,Arkansas St.,75,83,2021-01-29
+Robert Morris,Wright St.,70,79,2021-01-29
+Dixie St.,California Baptist,74,89,2021-01-29
+New Mexico St.,Grand Canyon,62,70,2021-01-29
+Iowa,Illinois,75,80,2021-01-29
+Cal St. Fullerton,CSU Bakersfield,90,84,2021-01-29
+Boise St.,Colorado St.,85,77,2021-01-29
+UC Irvine,Hawaii,61,62,2021-01-30
+Tulsa,East Carolina,77,68,2021-01-30
+Alabama,Oklahoma,61,66,2021-01-30
+Clemson,Duke,53,79,2021-01-30
+Loyola Maryland,Navy,52,70,2021-01-30
+Texas A&M,Kansas St.,68,61,2021-01-30
+Siena,Marist,54,55,2021-01-30
+Furman,Western Caro.,75,69,2021-01-30
+Providence,Georgetown,72,73,2021-01-30
+Hofstra,UNCW,82,73,2021-01-30
+William & Mary,Towson,84,74,2021-01-30
+La Salle,VCU,62,73,2021-01-30
+New Hampshire,Binghamton,44,65,2021-01-30
+Florida,West Virginia,85,80,2021-01-30
+George Mason,St. Bonaventure,67,84,2021-01-30
+TCU,Missouri,98,102,2021-01-30
+Bucknell,Lehigh,84,70,2021-01-30
+Texas Tech,LSU,76,71,2021-01-30
+Hartford,Stony Brook,59,57,2021-01-30
+Florida A&M,N.C. A&T,58,70,2021-01-30
+Sacred Heart,Mount St. Mary's,61,58,2021-01-30
+Miami (FL),Wake Forest,54,66,2021-01-30
+Elon,Delaware,43,66,2021-01-30
+Ball St.,Akron,42,74,2021-01-30
+Morehead St.,Tennessee Tech,74,55,2021-01-30
+Colgate,Holy Cross,74,63,2021-01-30
+Western Mich.,Miami (OH),56,65,2021-01-30
+Utah,Colorado,77,74,2021-01-30
+Milwaukee,IUPUI,83,76,2021-01-30
+Abilene Christian,UIW,75,67,2021-01-30
+Southern Miss.,Louisiana Tech,62,65,2021-01-30
+Morgan St.,Coppin St.,79,76,2021-01-30
+Wisconsin,Penn St.,71,81,2021-01-30
+Bluefield St.,Lipscomb,56,89,2021-01-30
+Weber St.,Idaho,81,62,2021-01-30
+Villanova,Seton Hall,80,72,2021-01-30
+UNI,Southern Ill.,74,62,2021-01-30
+UCF,Wichita St.,88,93,2021-01-30
+The Citadel,ETSU,84,112,2021-01-30
+Longwood,Presbyterian,54,66,2021-01-30
+Bellarmine,Kennesaw St.,84,79,2021-01-30
+Central Mich.,Kent St.,76,83,2021-01-30
+Coastal Carolina,Ga. Southern,58,61,2021-01-30
+Florida St.,Georgia Tech,65,76,2021-01-30
+Rhode Island,Dayton,56,67,2021-01-30
+Auburn,Baylor,72,84,2021-01-30
+Arkansas,Oklahoma St.,77,81,2021-01-30
+Alabama A&M,Prairie View,57,79,2021-01-30
+Mercer,Wofford,69,72,2021-01-30
+Monmouth,Niagara,74,83,2021-01-30
+FIU,Charlotte,65,68,2021-01-30
+LIU,St. Francis Brooklyn,102,88,2021-01-30
+Southern U.,Alcorn,76,59,2021-01-30
+Delaware St.,Norfolk St.,66,94,2021-01-30
+Robert Morris,Wright St.,56,86,2021-01-30
+North Ala.,North Florida,72,82,2021-01-30
+Detroit Mercy,Youngstown St.,77,72,2021-01-30
+Tennessee St.,Austin Peay,56,71,2021-01-30
+Toledo,Bowling Green,84,66,2021-01-30
+ULM,Little Rock,49,65,2021-01-30
+New Orleans,Southeastern La.,73,79,2021-01-30
+Louisiana,Texas St.,74,73,2021-01-30
+UT Arlington,Arkansas St.,65,64,2021-01-30
+App State,Troy,59,65,2021-01-30
+High Point,Gardner-Webb,72,69,2021-01-30
+Northwestern St.,Central Ark.,81,77,2021-01-30
+California,Arizona,50,71,2021-01-30
+SIUE,UT Martin,76,60,2021-01-30
+UIC,Northern Ky.,67,69,2021-01-30
+Charleston So.,Campbell,67,75,2021-01-30
+Xavier,Butler,68,55,2021-01-30
+McNeese,Lamar University,56,64,2021-01-30
+Virginia,Virginia Tech,51,65,2021-01-30
+Pacific,BYU,87,95,2021-01-30
+Air Force,San Jose St.,62,75,2021-01-30
+Kansas,Tennessee,61,80,2021-01-30
+Liberty,Jacksonville,64,58,2021-01-30
+Ole Miss,Georgia,61,71,2021-01-30
+Iowa St.,Mississippi St.,56,95,2021-01-30
+Eastern Ill.,Southeast Mo. St.,44,75,2021-01-30
+Mississippi Val.,Jackson St.,56,106,2021-01-30
+Ark.-Pine Bluff,Grambling,71,74,2021-01-30
+Stetson,FGCU,77,66,2021-01-30
+New Mexico,Fresno St.,55,65,2021-01-30
+Central Conn. St.,Saint Francis (PA),59,62,2021-01-30
+Bryant,Fairleigh Dickinson,79,81,2021-01-30
+Green Bay,Cleveland St.,65,73,2021-01-30
+UC Santa Barbara,UC Davis,89,86,2021-01-30
+Oakland,Purdue Fort Wayne,82,75,2021-01-30
+VMI,UNC Greensboro,59,76,2021-01-30
+Saint Joseph's,Duquesne,50,67,2021-01-30
+CSUN,Cal Poly,64,51,2021-01-30
+Oregon St.,UCLA,52,57,2021-01-30
+Minnesota,Purdue,62,81,2021-01-30
+Tarleton St.,Utah Valley,70,62,2021-01-30
+Manhattan,Saint Peter's,54,68,2021-01-30
+Omaha,South Dakota,93,97,2021-01-30
+Stanford,Arizona St.,75,79,2021-01-30
+North Dakota St.,Kansas City,47,49,2021-01-30
+Notre Dame,Pittsburgh,84,58,2021-01-30
+Gonzaga,Pepperdine,97,75,2021-01-30
+Creighton,DePaul,69,62,2021-01-30
+South Carolina,Vanderbilt,81,93,2021-01-30
+Belmont,Murray St.,72,71,2021-01-30
+Western Ill.,North Dakota,99,87,2021-01-30
+Alabama St.,Texas Southern,73,80,2021-01-30
+New Mexico St.,Grand Canyon,53,65,2021-01-30
+Dixie St.,California Baptist,79,75,2021-01-30
+UTSA,UTEP,51,69,2021-01-30
+Wyoming,San Diego St.,71,98,2021-01-30
+Cal St. Fullerton,CSU Bakersfield,73,83,2021-01-30
+Tulane,Temple,81,64,2021-01-31
+Hofstra,UNCW,89,83,2021-01-31
+William & Mary,Towson,75,74,2021-01-31
+Michigan St.,Ohio St.,62,79,2021-01-31
+SMU,Houston,48,70,2021-01-31
+Drexel,James Madison,64,73,2021-01-31
+New Hampshire,Binghamton,71,65,2021-01-31
+Elon,Delaware,70,75,2021-01-31
+Sacred Heart,Mount St. Mary's,64,76,2021-01-31
+UMBC,NJIT,65,69,2021-01-31
+Hartford,Stony Brook,49,63,2021-01-31
+Lehigh,Bucknell,68,92,2021-01-31
+Sacramento St.,Eastern Wash.,60,68,2021-01-31
+Illinois St.,Drake,76,78,2021-01-31
+Middle Tenn.,UAB,52,63,2021-01-31
+Siena,Marist,63,50,2021-01-31
+Loyola Chicago,Missouri St.,72,46,2021-01-31
+St. John's (NY),Marquette,75,73,2021-01-31
+Rice,North Texas,53,79,2021-01-31
+Sam Houston,SFA,68,78,2021-01-31
+Florida A&M,N.C. A&T,65,67,2021-01-31
+Valparaiso,Evansville,52,70,2021-01-31
+Bradley,Indiana St.,57,60,2021-01-31
+Bryant,Fairleigh Dickinson,84,95,2021-01-31
+Central Conn. St.,Saint Francis (PA),85,77,2021-01-31
+Colgate,Holy Cross,78,60,2021-01-31
+UNI,Southern Ill.,68,71,2021-01-31
+NC State,Syracuse,73,76,2021-01-31
+UC San Diego,UC Riverside,59,71,2021-01-31
+Rutgers,Northwestern,64,56,2021-01-31
+Washington St.,Washington,77,62,2021-01-31
+UNLV,Nevada,60,89,2021-01-31
+The Citadel,Western Caro.,75,76,2021-02-01
+Georgia Tech,Louisville,58,74,2021-02-01
+Sacramento St.,Eastern Wash.,79,94,2021-02-01
+Austin Peay,SIUE,74,59,2021-02-01
+Bradley,Indiana St.,55,67,2021-02-01
+Carver,Stetson,56,110,2021-02-01
+Valparaiso,Evansville,51,58,2021-02-01
+Fla. Memorial,FIU,74,90,2021-02-01
+ETSU,Wofford,62,67,2021-02-01
+Illinois St.,Drake,60,95,2021-02-01
+Duke,Miami (FL),75,77,2021-02-01
+Murray St.,Southeast Mo. St.,77,60,2021-02-01
+Loyola Chicago,Missouri St.,70,50,2021-02-01
+UCF,Memphis,69,96,2021-02-01
+Alabama A&M,Texas Southern,49,66,2021-02-01
+Alabama St.,Prairie View,63,87,2021-02-01
+Ark.-Pine Bluff,Jackson St.,55,63,2021-02-01
+Mississippi Val.,Grambling,72,85,2021-02-01
+Oklahoma,Texas Tech,52,57,2021-02-01
+South Carolina St.,N.C. Central,77,91,2021-02-01
+UMBC,NJIT,75,71,2021-02-02
+Ohio,Central Mich.,83,69,2021-02-02
+Wake Forest,Notre Dame,58,79,2021-02-02
+Butler,Marquette,67,70,2021-02-02
+Miami (OH),Kent St.,68,77,2021-02-02
+Buffalo,Ball St.,78,58,2021-02-02
+Eastern Ill.,SIUE,70,61,2021-02-02
+Purdue,Maryland,60,61,2021-02-02
+Baylor,Texas,83,69,2021-02-02
+South Carolina St.,N.C. Central,63,64,2021-02-02
+Spring Hill,Troy,73,90,2021-02-02
+Michigan St.,Iowa,78,84,2021-02-02
+Tennessee,Ole Miss,50,52,2021-02-02
+Akron,Toledo,76,91,2021-02-02
+North Carolina,Clemson,50,63,2021-02-02
+Georgia,Auburn,91,86,2021-02-02
+West Virginia,Iowa St.,76,72,2021-02-02
+Eastern Ky.,Jacksonville St.,86,82,2021-02-02
+Kansas St.,Kansas,51,74,2021-02-02
+Morgan St.,Coppin St.,95,82,2021-02-02
+Penn St.,Wisconsin,56,72,2021-02-02
+Dayton,Duquesne,64,69,2021-02-02
+Mississippi St.,Arkansas,45,61,2021-02-02
+Illinois,Indiana,75,71,2021-02-02
+UNLV,Nevada,62,72,2021-02-02
+Southern California,Stanford,72,66,2021-02-02
+Elon,James Madison,57,78,2021-02-03
+Fordham,Massachusetts,54,60,2021-02-03
+Houston,East Carolina,73,82,2021-02-03
+South Carolina,Florida,72,66,2021-02-03
+VCU,Rhode Island,63,62,2021-02-03
+Western Mich.,Bowling Green,76,70,2021-02-03
+Saint Louis,La Salle,75,82,2021-02-03
+VMI,Wofford,84,80,2021-02-03
+Chattanooga,Western Caro.,74,67,2021-02-03
+LSU,Alabama,60,78,2021-02-03
+Seton Hall,Providence,60,43,2021-02-03
+UNC Greensboro,The Citadel,85,66,2021-02-03
+Kentucky,Missouri,70,75,2021-02-03
+Virginia Tech,Pittsburgh,72,83,2021-02-03
+ETSU,Mercer,70,64,2021-02-03
+UIW,Lamar University,67,58,2021-02-03
+SFA,A&M-Corpus Christi,84,75,2021-02-03
+Tulane,Wichita St.,67,75,2021-02-03
+UCF,Memphis,61,75,2021-02-03
+Oklahoma St.,TCU,78,81,2021-02-03
+Virginia,NC State,64,57,2021-02-03
+Georgetown,Creighton,86,79,2021-02-03
+Villanova,St. John's (NY),59,70,2021-02-03
+SMU,Tulsa,65,63,2021-02-03
+Tennessee St.,SIUE,60,68,2021-02-04
+Saint Francis (PA),Merrimack,62,68,2021-02-04
+Wagner,St. Francis Brooklyn,74,67,2021-02-04
+USC Upstate,Radford,61,63,2021-02-04
+Presbyterian,Gardner-Webb,53,59,2021-02-04
+Fairleigh Dickinson,LIU,78,70,2021-02-04
+Arizona,Utah,58,73,2021-02-04
+Cincinnati,Temple,63,60,2021-02-04
+Murray St.,Morehead St.,56,66,2021-02-04
+Austin Peay,Eastern Ky.,94,79,2021-02-04
+Ohio St.,Iowa,89,85,2021-02-04
+BYU,Portland,105,60,2021-02-04
+Belmont,Eastern Ill.,89,61,2021-02-04
+Montana St.,Weber St.,88,96,2021-02-04
+Stanford,California,70,55,2021-02-04
+Washington,Oregon St.,71,91,2021-02-04
+Colorado St.,Wyoming,74,72,2021-02-04
+Utah St.,Fresno St.,69,53,2021-02-04
+Tennessee Tech,Southeast Mo. St.,64,68,2021-02-04
+Minnesota,Rutgers,72,76,2021-02-04
+Gonzaga,Pacific,76,58,2021-02-04
+Jacksonville St.,UT Martin,82,70,2021-02-04
+Eastern Wash.,Idaho,89,75,2021-02-04
+Montana,Portland St.,70,64,2021-02-04
+Washington St.,Oregon,74,71,2021-02-04
+Cal Poly,Hawaii,68,84,2021-02-05
+North Dakota,Denver,85,82,2021-02-05
+Southern Miss.,Rice,62,88,2021-02-05
+UMass Lowell,New Hampshire,74,69,2021-02-05
+Wagner,St. Francis Brooklyn,84,81,2021-02-05
+Saint Francis (PA),Merrimack,54,59,2021-02-05
+Fairleigh Dickinson,LIU,77,62,2021-02-05
+IUPUI,Green Bay,80,71,2021-02-05
+Little Rock,Texas St.,47,57,2021-02-05
+USC Upstate,Radford,66,102,2021-02-05
+Lancaster Bible,Liberty,49,90,2021-02-05
+Purdue Fort Wayne,Detroit Mercy,72,82,2021-02-05
+Northern Ky.,Milwaukee,87,73,2021-02-05
+Louisiana,Arkansas St.,87,95,2021-02-05
+Jacksonville,Bellarmine,56,71,2021-02-05
+Coastal Carolina,South Alabama,65,71,2021-02-05
+George Mason,Dayton,65,74,2021-02-05
+Ga. Southern,Troy,56,68,2021-02-05
+Charlotte,Middle Tenn.,65,66,2021-02-05
+North Ala.,FGCU,60,86,2021-02-05
+Marshall,Old Dominion,81,82,2021-02-05
+Akron,Kent St.,72,61,2021-02-05
+Presbyterian,Gardner-Webb,64,91,2021-02-05
+UTSA,FIU,87,80,2021-02-05
+Maryland,Penn St.,50,55,2021-02-05
+Cleveland St.,Oakland,80,72,2021-02-05
+UC Davis,CSUN,77,80,2021-02-05
+CSU Bakersfield,UC Irvine,53,70,2021-02-05
+ULM,UT Arlington,56,63,2021-02-05
+Youngstown St.,Robert Morris,84,78,2021-02-05
+UTEP,UAB,51,63,2021-02-05
+Western Ill.,Omaha,85,77,2021-02-05
+Wright St.,UIC,72,47,2021-02-05
+Louisiana Tech,North Texas,68,63,2021-02-05
+Lipscomb,Stetson,68,73,2021-02-05
+South Dakota,South Dakota St.,64,56,2021-02-05
+Oral Roberts,North Dakota St.,54,61,2021-02-05
+Monmouth,Manhattan,70,65,2021-02-05
+Seattle U,Dixie St.,76,77,2021-02-05
+California Baptist,New Mexico St.,85,75,2021-02-05
+Boise St.,Nevada,72,74,2021-02-05
+Cal Poly,Hawaii,64,81,2021-02-06
+Iowa St.,Oklahoma,72,79,2021-02-06
+DePaul,Butler,58,68,2021-02-06
+Seton Hall,UConn,80,73,2021-02-06
+Toledo,Ball St.,67,81,2021-02-06
+Alabama,Missouri,65,68,2021-02-06
+NC State,Boston College,81,65,2021-02-06
+Virginia Tech,Miami (FL),80,76,2021-02-06
+La Salle,Fordham,68,76,2021-02-06
+UMass Lowell,New Hampshire,63,74,2021-02-06
+Western Caro.,The Citadel,63,74,2021-02-06
+Towson,Col. of Charleston,88,90,2021-02-06
+Belmont,SIUE,94,62,2021-02-06
+North Dakota,Denver,81,85,2021-02-06
+Louisiana Tech,North Texas,55,57,2021-02-06
+Benedictine Mesa,Southern Utah,58,110,2021-02-06
+UTSA,FIU,90,47,2021-02-06
+Miami (OH),Buffalo,64,88,2021-02-06
+Western Mich.,Central Mich.,67,65,2021-02-06
+Kansas,West Virginia,79,91,2021-02-06
+Montana St.,Weber St.,74,82,2021-02-06
+Drexel,Hofstra,73,71,2021-02-06
+Evansville,Loyola Chicago,55,68,2021-02-06
+East Carolina,Memphis,59,66,2021-02-06
+Austin Peay,Morehead St.,74,75,2021-02-06
+Drake,Valparaiso,80,77,2021-02-06
+St. John's (NY),Providence,92,81,2021-02-06
+Delaware St.,Morgan St.,69,74,2021-02-06
+St. Bonaventure,Saint Louis,59,70,2021-02-06
+Syracuse,Clemson,61,78,2021-02-06
+Wisconsin,Illinois,60,75,2021-02-06
+Northern Ky.,Milwaukee,79,65,2021-02-06
+Texas,Oklahoma St.,67,75,2021-02-06
+Our Lady of the Lake,Houston,46,112,2021-02-06
+McNeese,Central Ark.,80,70,2021-02-06
+Southern Miss.,Rice,68,76,2021-02-06
+Missouri St.,Illinois St.,74,67,2021-02-06
+Montana,Portland St.,56,61,2021-02-06
+Idaho,Eastern Wash.,64,90,2021-02-06
+Mississippi St.,South Carolina,75,59,2021-02-06
+Air Force,UNLV,58,68,2021-02-06
+Texas Tech,Kansas St.,73,62,2021-02-06
+Ole Miss,Auburn,86,84,2021-02-06
+Murray St.,Eastern Ky.,76,64,2021-02-06
+Pittsburgh,Virginia,66,73,2021-02-06
+Southern Ill.,Bradley,66,74,2021-02-06
+Chattanooga,ETSU,67,65,2021-02-06
+Washington,Oregon,74,86,2021-02-06
+Jackson St.,Alcorn,74,66,2021-02-06
+UIW,A&M-Corpus Christi,58,53,2021-02-06
+Northwestern,Purdue,70,75,2021-02-06
+ULM,UT Arlington,52,58,2021-02-06
+Charlotte,Middle Tenn.,60,73,2021-02-06
+Tennessee St.,Eastern Ill.,72,86,2021-02-06
+Youngstown St.,Robert Morris,70,66,2021-02-06
+Cleveland St.,Oakland,80,78,2021-02-06
+Purdue Fort Wayne,Detroit Mercy,56,83,2021-02-06
+Jacksonville St.,Southeast Mo. St.,66,54,2021-02-06
+IUPUI,Green Bay,72,79,2021-02-06
+Jacksonville,Bellarmine,44,63,2021-02-06
+Little Rock,Texas St.,67,77,2021-02-06
+Coastal Carolina,South Alabama,66,70,2021-02-06
+Ga. Southern,Troy,79,64,2021-02-06
+Louisiana,Arkansas St.,77,83,2021-02-06
+UTEP,UAB,60,75,2021-02-06
+UC Davis,CSUN,75,63,2021-02-06
+Creighton,Marquette,71,68,2021-02-06
+Tennessee Tech,UT Martin,64,66,2021-02-06
+Lipscomb,Stetson,69,61,2021-02-06
+Ark.-Pine Bluff,Alabama St.,67,73,2021-02-06
+Mississippi Val.,Alabama A&M,58,93,2021-02-06
+Abilene Christian,Lamar University,77,62,2021-02-06
+Colorado St.,Wyoming,68,59,2021-02-06
+Vanderbilt,Georgia,70,73,2021-02-06
+North Carolina,Duke,91,87,2021-02-06
+Nicholls St.,Sam Houston,71,78,2021-02-06
+UCF,Tulsa,65,58,2021-02-06
+Washington St.,Oregon St.,66,68,2021-02-06
+Indiana St.,UNI,61,57,2021-02-06
+Wofford,Furman,75,67,2021-02-06
+Nebraska,Michigan St.,56,66,2021-02-06
+Pepperdine,Portland,91,70,2021-02-06
+Marshall,Old Dominion,87,67,2021-02-06
+North Ala.,FGCU,60,69,2021-02-06
+Tennessee,Kentucky,82,71,2021-02-06
+Wright St.,UIC,77,57,2021-02-06
+Massachusetts,Rhode Island,75,63,2021-02-06
+Notre Dame,Georgia Tech,80,82,2021-02-06
+UTRGV,Texas Southern,75,77,2021-02-06
+Arizona,Colorado,79,82,2021-02-06
+Grambling,Southern U.,72,69,2021-02-06
+Western Ill.,Omaha,75,73,2021-02-06
+Oral Roberts,North Dakota St.,80,74,2021-02-06
+South Dakota,South Dakota St.,78,89,2021-02-06
+California Baptist,New Mexico St.,70,97,2021-02-06
+Seattle U,Dixie St.,77,56,2021-02-06
+Monmouth,Manhattan,71,69,2021-02-06
+UCLA,Southern California,48,66,2021-02-06
+CSU Bakersfield,UC Irvine,62,57,2021-02-06
+Iowa,Indiana,65,67,2021-02-07
+Cincinnati,Tulane,64,61,2021-02-07
+Lafayette,Loyola Maryland,62,75,2021-02-07
+UMBC,Stony Brook,71,65,2021-02-07
+Towson,Col. of Charleston,53,66,2021-02-07
+Drake,Valparaiso,57,74,2021-02-07
+High Point,Hampton,72,58,2021-02-07
+Coppin St.,Norfolk St.,72,84,2021-02-07
+Drexel,Hofstra,74,79,2021-02-07
+Quinnipiac,Fairfield,78,63,2021-02-07
+Evansville,Loyola Chicago,58,69,2021-02-07
+Georgetown,Villanova,74,84,2021-02-07
+Missouri St.,Illinois St.,72,62,2021-02-07
+Temple,Wichita St.,67,70,2021-02-07
+Boise St.,Nevada,62,73,2021-02-07
+Indiana St.,UNI,67,70,2021-02-07
+Southern Ill.,Bradley,69,68,2021-02-07
+California,Stanford,70,76,2021-02-07
+UMBC,Stony Brook,60,48,2021-02-08
+Rochester Univ. (MI),Youngstown St.,50,60,2021-02-08
+Quinnipiac,Fairfield,70,77,2021-02-08
+Eastern Ky.,SIUE,78,74,2021-02-08
+High Point,Hampton,71,76,2021-02-08
+SMU,East Carolina,71,56,2021-02-08
+UNC Greensboro,Furman,49,68,2021-02-08
+Gardner-Webb,USC Upstate,69,77,2021-02-08
+St. Francis Brooklyn,LIU,84,96,2021-02-08
+N.C. Central,Florida A&M,50,59,2021-02-08
+Austin Peay,UT Martin,75,76,2021-02-08
+Loyola Maryland,Lafayette,76,80,2021-02-08
+Samford,Mercer,82,89,2021-02-08
+Oregon St.,Colorado,49,78,2021-02-08
+Coppin St.,Norfolk St.,74,64,2021-02-08
+Nebraska,Minnesota,61,79,2021-02-08
+Abilene Christian,A&M-Corpus Christi,82,69,2021-02-08
+Ark.-Pine Bluff,Alabama A&M,55,56,2021-02-08
+Grambling,Alcorn,67,62,2021-02-08
+Air Force,UNLV,64,69,2021-02-08
+Ohio St.,Maryland,73,65,2021-02-08
+Oklahoma St.,Kansas,66,78,2021-02-08
+Mississippi Val.,Alabama St.,68,65,2021-02-08
+Jackson St.,Southern U.,57,53,2021-02-08
+San Jose St.,San Diego St.,54,85,2021-02-08
+Gonzaga,BYU,82,71,2021-02-08
+South Alabama,Georgia St.,70,67,2021-02-09
+San Diego Christian,Southern Utah,50,109,2021-02-09
+Notre Dame,Duke,93,89,2021-02-09
+VCU,Dayton,76,67,2021-02-09
+La Salle,St. Bonaventure,73,86,2021-02-09
+N.C. Central,Florida A&M,47,60,2021-02-09
+James Madison,Elon,70,61,2021-02-09
+Alabama,South Carolina,81,78,2021-02-09
+Syracuse,NC State,77,68,2021-02-09
+Arkansas,Kentucky,81,80,2021-02-09
+Kent St.,Bowling Green,71,67,2021-02-09
+Penn St.,Michigan St.,58,60,2021-02-09
+McMurry,Tarleton St.,54,112,2021-02-09
+Texas,Kansas St.,80,77,2021-02-09
+Auburn,Vanderbilt,73,67,2021-02-09
+West Virginia,Texas Tech,82,71,2021-02-09
+Iowa St.,TCU,76,79,2021-02-09
+Creighton,Georgetown,63,48,2021-02-09
+St. John's (NY),Butler,73,76,2021-02-09
+UConn,Providence,59,70,2021-02-10
+Furman,UNC Greensboro,58,64,2021-02-10
+Tulane,Tulsa,58,48,2021-02-10
+Pepperdine,San Francisco,76,68,2021-02-10
+Indiana,Northwestern,79,76,2021-02-10
+Old Dominion,Charlotte,78,76,2021-02-10
+UNI,Drake,59,80,2021-02-10
+VMI,Western Caro.,72,74,2021-02-10
+Houston,South Fla.,82,65,2021-02-10
+Bradley,Valparaiso,76,52,2021-02-10
+Wichita St.,UCF,61,60,2021-02-10
+Fordham,George Mason,45,77,2021-02-10
+Chattanooga,Wofford,78,66,2021-02-10
+ETSU,The Citadel,71,79,2021-02-10
+Wake Forest,Boston College,69,65,2021-02-10
+Virginia,Georgia Tech,57,49,2021-02-10
+A&M-Corpus Christi,SFA,68,80,2021-02-10
+Southeastern La.,Sam Houston,61,79,2021-02-10
+Rutgers,Iowa,66,79,2021-02-10
+Nicholls St.,Lamar University,76,71,2021-02-10
+Georgia,Tennessee,81,89,2021-02-10
+Mercer,Samford,77,70,2021-02-10
+Southern Ill.,Missouri St.,53,65,2021-02-10
+Northwestern St.,UIW,68,67,2021-02-10
+Houston Baptist,Abilene Christian,59,88,2021-02-10
+Marquette,Villanova,64,96,2021-02-10
+LSU,Mississippi St.,94,80,2021-02-10
+Missouri,Ole Miss,59,80,2021-02-10
+Rhode Island,Saint Louis,60,67,2021-02-10
+Wisconsin,Nebraska,61,48,2021-02-10
+San Jose St.,San Diego St.,55,77,2021-02-10
+UT Martin,Austin Peay,50,71,2021-02-11
+Gardner-Webb,Longwood,54,57,2021-02-11
+Purdue,Minnesota,68,71,2021-02-11
+Fairleigh Dickinson,Wagner,72,76,2021-02-11
+Portland,Pacific,57,84,2021-02-11
+Charleston So.,High Point,73,77,2021-02-11
+Ga. Southern,Georgia St.,75,79,2021-02-11
+Presbyterian,Hampton,85,70,2021-02-11
+Winthrop,Radford,80,64,2021-02-11
+Utah,California,76,75,2021-02-11
+Troy,South Alabama,70,73,2021-02-11
+Texas St.,UT Arlington,63,56,2021-02-11
+USC Upstate,Campbell,71,72,2021-02-11
+Iowa St.,Kansas,64,97,2021-02-11
+Colorado,Stanford,69,51,2021-02-11
+St. Francis Brooklyn,Saint Francis (PA),70,67,2021-02-11
+Merrimack,Central Conn. St.,62,46,2021-02-11
+Weber St.,Montana,67,80,2021-02-11
+LIU,Mount St. Mary's,60,66,2021-02-11
+Eastern Wash.,Montana St.,93,77,2021-02-11
+ULM,Louisiana,72,66,2021-02-11
+Oregon St.,Arizona,61,70,2021-02-11
+Eastern Ill.,Jacksonville St.,64,76,2021-02-11
+Oregon,Arizona St.,75,64,2021-02-11
+Morehead St.,Tennessee St.,79,66,2021-02-11
+Idaho,Idaho St.,43,69,2021-02-11
+Eastern Ky.,Belmont,74,92,2021-02-11
+SIUE,Tennessee Tech,81,63,2021-02-11
+Fresno St.,Air Force,69,63,2021-02-11
+UNLV,Boise St.,66,78,2021-02-11
+Southern California,Washington,69,54,2021-02-11
+UCLA,Washington St.,73,81,2021-02-11
+UC Santa Barbara,Hawaii,59,50,2021-02-12
+UIC,IUPUI,69,89,2021-02-12
+Canisius,Quinnipiac,74,67,2021-02-12
+LIU,Mount St. Mary's,46,64,2021-02-12
+Presbyterian,Hampton,57,62,2021-02-12
+Gardner-Webb,Longwood,71,78,2021-02-12
+St. Francis Brooklyn,Saint Francis (PA),66,80,2021-02-12
+Purdue Fort Wayne,Youngstown St.,70,84,2021-02-12
+Northern Ky.,Green Bay,82,86,2021-02-12
+Manhattan,Iona,67,85,2021-02-12
+Middle Tenn.,Marshall,79,107,2021-02-12
+North Florida,Liberty,61,73,2021-02-12
+Stetson,Kennesaw St.,74,61,2021-02-12
+Charleston So.,High Point,69,68,2021-02-12
+Long Beach St.,UC Davis,66,68,2021-02-12
+Southeast Mo. St.,Murray St.,60,80,2021-02-12
+USC Upstate,Campbell,49,64,2021-02-12
+Bellarmine,North Ala.,66,64,2021-02-12
+Temple,Cincinnati,69,71,2021-02-12
+St. Bonaventure,VCU,64,67,2021-02-12
+UMass Lowell,Albany (NY),79,71,2021-02-12
+Tulane,UCF,49,53,2021-02-12
+Fla. Atlantic,UTSA,80,84,2021-02-12
+Akron,Miami (OH),83,76,2021-02-12
+Merrimack,Central Conn. St.,72,52,2021-02-12
+Oakland,Robert Morris,82,88,2021-02-12
+Winthrop,Radford,55,47,2021-02-12
+Lipscomb,Jacksonville,60,66,2021-02-12
+UC San Diego,CSU Bakersfield,71,76,2021-02-12
+Milwaukee,Wright St.,81,92,2021-02-12
+UC Irvine,UC Riverside,65,86,2021-02-12
+UAB,Louisiana Tech,58,70,2021-02-12
+Omaha,Kansas City,52,62,2021-02-12
+Western Mich.,Buffalo,54,86,2021-02-12
+Rice,Western Ky.,71,77,2021-02-12
+Georgia Tech,Clemson,72,74,2021-02-12
+North Texas,Southern Miss.,65,49,2021-02-12
+Dixie St.,Utah Valley,72,87,2021-02-12
+Denver,Western Ill.,69,75,2021-02-12
+Little Rock,Arkansas St.,62,73,2021-02-12
+Detroit Mercy,Cleveland St.,89,83,2021-02-12
+New Mexico St.,Seattle U,72,83,2021-02-12
+FIU,UTEP,59,75,2021-02-12
+Illinois,Nebraska,77,72,2021-02-12
+Simpson (CA),Portland St.,66,99,2021-02-12
+UC Irvine,UC Riverside,73,67,2021-02-13
+UC Santa Barbara,Hawaii,81,74,2021-02-13
+The Citadel,Chattanooga,66,70,2021-02-13
+Loyola Chicago,Drake,81,54,2021-02-13
+UConn,Xavier,80,72,2021-02-13
+Indiana,Ohio St.,59,78,2021-02-13
+Kansas St.,Oklahoma St.,60,67,2021-02-13
+Wake Forest,Florida St.,85,92,2021-02-13
+UIC,IUPUI,81,88,2021-02-13
+Vanderbilt,Mississippi St.,72,51,2021-02-13
+Oklahoma,West Virginia,91,90,2021-02-13
+Elon,Col. of Charleston,53,71,2021-02-13
+Auburn,Kentucky,80,82,2021-02-13
+Samford,VMI,56,85,2021-02-13
+Canisius,Quinnipiac,89,70,2021-02-13
+Northeastern,Towson,76,67,2021-02-13
+Butler,Georgetown,63,78,2021-02-13
+Boston U.,Holy Cross,65,82,2021-02-13
+Loyola Maryland,Lafayette,94,97,2021-02-13
+Boston College,Syracuse,67,75,2021-02-13
+Hofstra,James Madison,89,93,2021-02-13
+Idaho,Idaho St.,58,64,2021-02-13
+TCU,Texas,55,70,2021-02-13
+Norfolk St.,Morgan St.,74,69,2021-02-13
+NJIT,Hartford,67,57,2021-02-13
+Tennessee,LSU,65,78,2021-02-13
+Stony Brook,Vermont,78,86,2021-02-13
+UNC Greensboro,Mercer,77,74,2021-02-13
+Bowling Green,Toledo,88,81,2021-02-13
+Western Caro.,Furman,70,88,2021-02-13
+Northern Ill.,Kent St.,58,80,2021-02-13
+Oregon,Arizona,63,61,2021-02-13
+Eastern Wash.,Montana St.,85,69,2021-02-13
+Iowa,Michigan St.,88,58,2021-02-13
+Milwaukee,Wright St.,82,92,2021-02-13
+UMass Lowell,Albany (NY),69,81,2021-02-13
+Fresno St.,Air Force,67,64,2021-02-13
+Kansas,Iowa St.,64,50,2021-02-13
+UT Arlington,Texas St.,68,79,2021-02-13
+Sacramento St.,California Baptist,71,83,2021-02-13
+South Dakota,North Dakota,76,85,2021-02-13
+Georgia,Alabama,82,115,2021-02-13
+Saint Louis,Fordham,68,40,2021-02-13
+Southern U.,Ark.-Pine Bluff,73,71,2021-02-13
+Wofford,ETSU,49,71,2021-02-13
+Long Beach St.,UC Davis,76,78,2021-02-13
+Arkansas,Missouri,86,81,2021-02-13
+Charlotte,Old Dominion,45,64,2021-02-13
+Fla. Atlantic,UTSA,75,86,2021-02-13
+UAB,Louisiana Tech,64,69,2021-02-13
+Illinois St.,Southern Ill.,80,55,2021-02-13
+Stetson,Kennesaw St.,75,83,2021-02-13
+Duke,NC State,69,53,2021-02-13
+Colgate,Army West Point,84,74,2021-02-13
+Middle Tenn.,Marshall,85,96,2021-02-13
+Texas Southern,Grambling,75,73,2021-02-13
+Weber St.,Montana,91,82,2021-02-13
+Louisiana,ULM,88,72,2021-02-13
+A&M-Corpus Christi,Abilene Christian,55,83,2021-02-13
+Northern Ky.,Green Bay,71,66,2021-02-13
+Northwestern,Rutgers,50,64,2021-02-13
+Fairfield,Saint Peter's,55,50,2021-02-13
+Morehead St.,Belmont,58,73,2021-02-13
+SIUE,Jacksonville St.,60,80,2021-02-13
+Purdue Fort Wayne,Youngstown St.,70,72,2021-02-13
+Oakland,Robert Morris,86,81,2021-02-13
+Eastern Ky.,Tennessee St.,93,73,2021-02-13
+South Dakota St.,Oral Roberts,86,103,2021-02-13
+McNeese,Northwestern St.,66,69,2021-02-13
+South Alabama,Troy,58,51,2021-02-13
+North Texas,Southern Miss.,68,56,2021-02-13
+Villanova,Creighton,70,86,2021-02-13
+Manhattan,Iona,77,70,2021-02-13
+North Florida,Liberty,60,80,2021-02-13
+Eastern Ill.,Tennessee Tech,67,80,2021-02-13
+Alcorn,Mississippi Val.,70,56,2021-02-13
+Alabama A&M,Alabama St.,58,72,2021-02-13
+Lamar University,Houston Baptist,75,80,2021-02-13
+Lipscomb,Jacksonville,71,69,2021-02-13
+Bradley,Missouri St.,58,80,2021-02-13
+Rice,Western Ky.,66,89,2021-02-13
+Central Ark.,Sam Houston,57,97,2021-02-13
+Arkansas St.,Little Rock,67,65,2021-02-13
+Southeast Mo. St.,Austin Peay,63,78,2021-02-13
+Gonzaga,San Francisco,100,61,2021-02-13
+North Carolina,Virginia,48,60,2021-02-13
+Ole Miss,South Carolina,81,74,2021-02-13
+Bellarmine,North Ala.,87,63,2021-02-13
+Wagner,Fairleigh Dickinson,95,86,2021-02-13
+Pacific,LMU (CA),76,80,2021-02-13
+Detroit Mercy,Cleveland St.,64,71,2021-02-13
+UC San Diego,CSU Bakersfield,50,65,2021-02-13
+UCLA,Washington,64,61,2021-02-13
+Southern California,Washington St.,76,65,2021-02-13
+Omaha,Kansas City,47,55,2021-02-13
+Dixie St.,Utah Valley,93,89,2021-02-13
+Denver,Western Ill.,75,82,2021-02-13
+Saint Mary's (CA),Pepperdine,58,60,2021-02-13
+Nicholls St.,Southeastern La.,86,84,2021-02-13
+Valparaiso,UNI,70,57,2021-02-13
+Providence,DePaul,57,47,2021-02-13
+UT Martin,Murray St.,55,84,2021-02-13
+FIU,UTEP,68,77,2021-02-13
+Utah,Stanford,66,73,2021-02-13
+Colorado,California,62,71,2021-02-13
+UNLV,Boise St.,59,61,2021-02-13
+New Mexico St.,Seattle U,65,58,2021-02-13
+Stony Brook,Vermont,57,61,2021-02-14
+Northeastern,Towson,57,68,2021-02-14
+Michigan,Wisconsin,67,59,2021-02-14
+Elon,Col. of Charleston,66,55,2021-02-14
+UCF,Cincinnati,68,69,2021-02-14
+NJIT,Hartford,61,75,2021-02-14
+Norfolk St.,Morgan St.,68,65,2021-02-14
+Tulane,South Fla.,62,59,2021-02-14
+Hofstra,James Madison,70,74,2021-02-14
+Nebraska,Penn St.,62,61,2021-02-14
+Marquette,Seton Hall,51,57,2021-02-14
+Loyola Chicago,Drake,50,51,2021-02-14
+Sacramento St.,California Baptist,70,69,2021-02-14
+South Dakota,North Dakota,81,85,2021-02-14
+Illinois St.,Southern Ill.,49,59,2021-02-14
+Indiana St.,Evansville,76,70,2021-02-14
+Pittsburgh,Georgia Tech,65,71,2021-02-14
+Bradley,Missouri St.,57,72,2021-02-14
+Fairfield,Saint Peter's,49,66,2021-02-14
+South Dakota St.,Oral Roberts,95,80,2021-02-14
+Holy Cross,Boston U.,68,86,2021-02-14
+Lafayette,Loyola Maryland,69,88,2021-02-14
+Miami (FL),Notre Dame,61,71,2021-02-14
+Colgate,Army West Point,92,83,2021-02-14
+St. Mary's (MD),Richmond,49,90,2021-02-14
+Minnesota,Maryland,59,72,2021-02-14
+Oregon St.,Arizona St.,73,75,2021-02-14
+Valparaiso,UNI,60,74,2021-02-14
+SFA,New Orleans,89,79,2021-02-15
+Eastern Ky.,Tennessee Tech,83,72,2021-02-15
+Murray St.,SIUE,86,57,2021-02-15
+Hampton,Longwood,73,83,2021-02-15
+USC Upstate,Presbyterian,65,75,2021-02-15
+Virginia,Florida St.,60,81,2021-02-15
+ETSU,Chattanooga,51,53,2021-02-15
+Washington,Washington St.,65,63,2021-02-15
+Northern Ill.,Akron,76,81,2021-02-16
+Iowa St.,Oklahoma St.,58,76,2021-02-16
+Providence,UConn,61,73,2021-02-16
+Florida,Arkansas,64,75,2021-02-16
+Nebraska,Maryland,50,64,2021-02-16
+Austin Peay,Southeast Mo. St.,81,86,2021-02-16
+St. Francis Brooklyn,Fairleigh Dickinson,83,75,2021-02-16
+Temple,Tulsa,66,72,2021-02-16
+Missouri,Georgia,70,80,2021-02-16
+Dayton,Rhode Island,89,91,2021-02-16
+Miami (OH),Toledo,75,87,2021-02-16
+Kent St.,Western Mich.,76,69,2021-02-16
+Bowling Green,Ball St.,75,62,2021-02-16
+Michigan St.,Purdue,65,75,2021-02-16
+Wagner,Mount St. Mary's,61,39,2021-02-16
+Xavier,St. John's (NY),84,93,2021-02-16
+Northwestern,Illinois,66,73,2021-02-16
+La Salle,Saint Louis,57,78,2021-02-16
+LMU (CA),Santa Clara,76,73,2021-02-16
+Wagner,Mount St. Mary's,57,55,2021-02-17
+Iona,Quinnipiac,70,74,2021-02-17
+NC State,Pittsburgh,74,73,2021-02-17
+Evansville,Indiana St.,73,87,2021-02-17
+Boston U.,Holy Cross,78,69,2021-02-17
+Sacred Heart,Central Conn. St.,82,70,2021-02-17
+Gardner-Webb,Radford,69,57,2021-02-17
+Marquette,Butler,73,57,2021-02-17
+Western Caro.,Chattanooga,81,89,2021-02-17
+Mercer,ETSU,71,64,2021-02-17
+Richmond,VCU,56,68,2021-02-17
+St. Francis Brooklyn,Fairleigh Dickinson,90,87,2021-02-17
+South Fla.,UCF,65,81,2021-02-17
+Samford,Furman,64,78,2021-02-17
+The Citadel,Wofford,67,81,2021-02-17
+UNC Greensboro,VMI,77,88,2021-02-17
+Northeastern,North Carolina,62,82,2021-02-17
+Nebraska,Maryland,71,79,2021-02-17
+Kentucky,Vanderbilt,82,78,2021-02-17
+Drake,UNI,77,69,2021-02-17
+Kansas,Kansas St.,59,41,2021-02-17
+Valparaiso,Loyola Chicago,52,54,2021-02-17
+Arizona St.,Southern California,71,89,2021-02-17
+Wyoming,New Mexico,83,74,2021-02-17
+DePaul,Seton Hall,52,60,2021-02-17
+Duke,Wake Forest,84,60,2021-02-17
+South Carolina,Tennessee,73,93,2021-02-17
+Minnesota,Indiana,72,82,2021-02-17
+Utah St.,Boise St.,70,79,2021-02-17
+Missouri St.,Southern Ill.,68,53,2021-02-17
+USC Upstate,Presbyterian,65,51,2021-02-18
+Gardner-Webb,Radford,77,49,2021-02-18
+Campbell,Hampton,76,57,2021-02-18
+Vermont,UMBC,80,71,2021-02-18
+Longwood,Charleston So.,70,62,2021-02-18
+Houston,Wichita St.,63,68,2021-02-18
+Illinois St.,Bradley,88,71,2021-02-18
+Iowa,Wisconsin,77,62,2021-02-18
+BYU,Pacific,80,52,2021-02-18
+Jacksonville St.,Belmont,59,63,2021-02-18
+Ohio St.,Penn St.,92,82,2021-02-18
+Utah,Oregon St.,56,74,2021-02-18
+SIUE,Austin Peay,57,79,2021-02-18
+Eastern Ill.,Murray St.,68,59,2021-02-18
+Arizona,UCLA,60,74,2021-02-18
+Winthrop,High Point,76,70,2021-02-18
+Saint Mary's (CA),Gonzaga,65,87,2021-02-18
+San Diego,Santa Clara,71,60,2021-02-18
+Tennessee Tech,Tennessee St.,86,91,2021-02-18
+Rutgers,Michigan,64,71,2021-02-18
+Sacramento St.,Southern Utah,69,88,2021-02-18
+Northern Ariz.,Weber St.,59,92,2021-02-18
+LMU (CA),San Francisco,68,63,2021-02-18
+Eastern Ky.,UT Martin,89,72,2021-02-18
+Montana,Eastern Wash.,76,90,2021-02-18
+San Diego St.,Fresno St.,67,53,2021-02-18
+Idaho,Portland St.,64,84,2021-02-18
+California,Washington St.,51,82,2021-02-18
+Stanford,Washington,79,61,2021-02-18
+Colorado,Oregon,56,60,2021-02-18
+Southern Va.,Davidson,51,101,2021-02-19
+Canisius,Fairfield,80,69,2021-02-19
+IUPUI,Youngstown St.,72,70,2021-02-19
+Vermont,UMBC,55,66,2021-02-19
+Longwood,Charleston So.,64,58,2021-02-19
+Oakland,Milwaukee,85,81,2021-02-19
+Wright St.,Northern Ky.,75,81,2021-02-19
+Robert Morris,Detroit Mercy,74,85,2021-02-19
+South Alabama,App State,65,63,2021-02-19
+Troy,Georgia St.,66,80,2021-02-19
+Campbell,Hampton,73,68,2021-02-19
+Cleveland St.,Purdue Fort Wayne,68,75,2021-02-19
+Southern Miss.,FIU,85,72,2021-02-19
+Akron,Ball St.,88,79,2021-02-19
+Jacksonville,Stetson,75,91,2021-02-19
+Hawaii,CSUN,75,74,2021-02-19
+Saint Louis,Dayton,53,76,2021-02-19
+Cal Poly,Long Beach St.,60,64,2021-02-19
+Winthrop,High Point,71,63,2021-02-19
+Monmouth,Iona,86,91,2021-02-19
+Old Dominion,UAB,69,76,2021-02-19
+Denver,Kansas City,57,68,2021-02-19
+Green Bay,UIC,58,61,2021-02-19
+UC Riverside,UC San Diego,81,75,2021-02-19
+North Dakota,Omaha,62,72,2021-02-19
+Marist,Saint Peter's,54,59,2021-02-19
+Kennesaw St.,Lipscomb,62,76,2021-02-19
+South Dakota St.,North Dakota St.,68,67,2021-02-19
+California Baptist,Grand Canyon,61,71,2021-02-19
+UC Irvine,Cal St. Fullerton,89,78,2021-02-19
+Utah Valley,New Mexico St.,69,66,2021-02-19
+Tarleton St.,Dixie St.,77,59,2021-02-19
+Wyoming,New Mexico,79,67,2021-02-19
+Toledo,Buffalo,80,70,2021-02-19
+UNLV,San Jose St.,76,60,2021-02-19
+Utah St.,Boise St.,77,81,2021-02-19
+CSU Bakersfield,UC Santa Barbara,66,71,2021-02-19
+Siena,Niagara,62,64,2021-02-20
+Michigan St.,Indiana,78,71,2021-02-20
+Georgia Tech,Miami (FL),87,60,2021-02-20
+UCF,Tulane,84,81,2021-02-20
+Navy,American,72,60,2021-02-20
+La Salle,Saint Joseph's,82,91,2021-02-20
+Kentucky,Tennessee,70,55,2021-02-20
+Loyola Maryland,Lehigh,75,47,2021-02-20
+Boston U.,Colgate,72,82,2021-02-20
+UConn,Villanova,60,68,2021-02-20
+Wofford,Western Caro.,80,56,2021-02-20
+VMI,The Citadel,74,75,2021-02-20
+Vanderbilt,Alabama,78,82,2021-02-20
+Rider,Quinnipiac,64,80,2021-02-20
+New Hampshire,UMass Lowell,69,67,2021-02-20
+Columbus St.,Col. of Charleston,83,86,2021-02-20
+Northern Ariz.,Weber St.,52,74,2021-02-20
+Furman,Mercer,70,60,2021-02-20
+Elon,William & Mary,75,54,2021-02-20
+Missouri,South Carolina,93,78,2021-02-20
+Mount St. Mary's,Fairleigh Dickinson,71,76,2021-02-20
+Sacramento St.,Southern Utah,57,77,2021-02-20
+Eastern Mich.,Kent St.,51,64,2021-02-20
+N.C. A&T,Florida A&M,57,71,2021-02-20
+Notre Dame,Syracuse,67,75,2021-02-20
+NC State,Wake Forest,80,62,2021-02-20
+Texas Tech,Kansas,61,67,2021-02-20
+Eastern Wash.,Montana,90,76,2021-02-20
+George Mason,VCU,79,76,2021-02-20
+Holy Cross,Army West Point,65,69,2021-02-20
+BYU,LMU (CA),88,71,2021-02-20
+West Virginia,Texas,84,82,2021-02-20
+Portland St.,Idaho,71,40,2021-02-20
+Georgia,Florida,63,70,2021-02-20
+Illinois,Minnesota,94,63,2021-02-20
+Florida St.,Pittsburgh,79,72,2021-02-20
+Troy,Georgia St.,53,65,2021-02-20
+Binghamton,NJIT,76,63,2021-02-20
+Stony Brook,Albany (NY),59,43,2021-02-20
+Stanford,Washington St.,76,85,2021-02-20
+Old Dominion,UAB,65,58,2021-02-20
+South Alabama,App State,56,54,2021-02-20
+Pacific,Portland,80,58,2021-02-20
+Sacred Heart,St. Francis Brooklyn,76,88,2021-02-20
+Auburn,LSU,80,104,2021-02-20
+Merrimack,Bryant,58,60,2021-02-20
+Duquesne,Richmond,72,79,2021-02-20
+Oral Roberts,South Dakota,84,86,2021-02-20
+Oakland,Milwaukee,87,89,2021-02-20
+Cleveland St.,Purdue Fort Wayne,67,55,2021-02-20
+Lamar University,A&M-Corpus Christi,68,77,2021-02-20
+Kansas St.,TCU,62,54,2021-02-20
+Robert Morris,Detroit Mercy,61,80,2021-02-20
+Wright St.,Northern Ky.,77,71,2021-02-20
+IUPUI,Youngstown St.,70,77,2021-02-20
+Tennessee Tech,Belmont,66,90,2021-02-20
+Jacksonville,Stetson,86,82,2021-02-20
+Morehead St.,UT Martin,79,69,2021-02-20
+Eastern Ill.,Austin Peay,76,69,2021-02-20
+Chattanooga,UNC Greensboro,55,60,2021-02-20
+Jacksonville St.,Tennessee St.,77,76,2021-02-20
+Canisius,Fairfield,53,66,2021-02-20
+Seton Hall,Georgetown,75,81,2021-02-20
+Purdue,Nebraska,75,58,2021-02-20
+Louisville,North Carolina,54,99,2021-02-20
+Oklahoma,Iowa St.,66,56,2021-02-20
+Pepperdine,Santa Clara,82,86,2021-02-20
+Eastern Ky.,Southeast Mo. St.,72,94,2021-02-20
+Miami (OH),Northern Ill.,69,64,2021-02-20
+Central Ark.,Nicholls St.,68,79,2021-02-20
+Arizona,Southern California,81,72,2021-02-20
+Mississippi St.,Ole Miss,66,56,2021-02-20
+Saint Francis (PA),Wagner,52,67,2021-02-20
+Monmouth,Iona,65,88,2021-02-20
+Cal Poly,Long Beach St.,69,74,2021-02-20
+Hawaii,CSUN,80,88,2021-02-20
+Central Conn. St.,LIU,74,87,2021-02-20
+San Diego St.,Fresno St.,75,57,2021-02-20
+DePaul,St. John's (NY),88,83,2021-02-20
+Colorado,Oregon St.,61,57,2021-02-20
+Marist,Saint Peter's,51,50,2021-02-20
+Kennesaw St.,Lipscomb,63,77,2021-02-20
+UC Riverside,UC San Diego,82,83,2021-02-20
+UC Irvine,Cal St. Fullerton,64,67,2021-02-20
+San Diego,Gonzaga,69,106,2021-02-20
+Green Bay,UIC,69,59,2021-02-20
+North Dakota,Omaha,81,69,2021-02-20
+Denver,Kansas City,69,80,2021-02-20
+Virginia,Duke,65,66,2021-02-20
+South Dakota St.,North Dakota St.,82,84,2021-02-20
+SIUE,Murray St.,62,89,2021-02-20
+Tarleton St.,Dixie St.,48,64,2021-02-20
+Utah Valley,New Mexico St.,60,67,2021-02-20
+Utah,Oregon,64,67,2021-02-20
+California Baptist,Grand Canyon,65,62,2021-02-20
+Arizona St.,UCLA,79,80,2021-02-20
+CSU Bakersfield,UC Santa Barbara,44,63,2021-02-20
+California,Washington,51,62,2021-02-20
+Rhode Island,George Washington,70,78,2021-02-21
+Siena,Niagara,68,66,2021-02-21
+Boston U.,Colgate,63,78,2021-02-21
+Rider,Quinnipiac,68,93,2021-02-21
+Ga. Southern,Coastal Carolina,55,65,2021-02-21
+Michigan,Ohio St.,92,87,2021-02-21
+St. Mary's (MD),Delaware St.,58,75,2021-02-21
+Cincinnati,Houston,52,90,2021-02-21
+Stony Brook,Albany (NY),59,67,2021-02-21
+South Fla.,Temple,83,76,2021-02-21
+Sacred Heart,St. Francis Brooklyn,88,82,2021-02-21
+Mount St. Mary's,Fairleigh Dickinson,74,61,2021-02-21
+Binghamton,NJIT,72,58,2021-02-21
+Army West Point,Holy Cross,51,67,2021-02-21
+Maryland,Rutgers,68,59,2021-02-21
+Davidson,St. Bonaventure,58,69,2021-02-21
+Evansville,Drake,71,85,2021-02-21
+Saint Francis (PA),Wagner,68,70,2021-02-21
+Central Conn. St.,LIU,79,81,2021-02-21
+UNLV,San Jose St.,67,64,2021-02-21
+Bryant,Merrimack,76,60,2021-02-21
+N.C. A&T,Florida A&M,70,63,2021-02-21
+Prairie View,Texas Southern,77,75,2021-02-21
+Little Rock,ULM,66,78,2021-02-21
+Penn St.,Iowa,68,74,2021-02-21
+Valparaiso,Southern Ill.,66,65,2021-02-21
+Lehigh,Loyola Maryland,76,72,2021-02-21
+Navy,American,69,60,2021-02-21
+Butler,Xavier,51,63,2021-02-21
+Wisconsin,Northwestern,68,51,2021-02-21
+Dallas Christian,UTRGV,51,116,2021-02-21
+North Ala.,Liberty,54,74,2021-02-22
+Eastern Ky.,Southeast Mo. St.,87,65,2021-02-22
+Little Rock,ULM,64,68,2021-02-22
+UNC Greensboro,Western Caro.,77,56,2021-02-22
+Grambling,Jackson St.,59,63,2021-02-22
+Charleston So.,Presbyterian,78,77,2021-02-22
+UT Arlington,Louisiana,74,76,2021-02-22
+Pepperdine,Saint Mary's (CA),61,66,2021-02-22
+Morehead St.,SIUE,56,48,2021-02-22
+Gardner-Webb,USC Upstate,69,58,2021-02-22
+The Citadel,Mercer,52,88,2021-02-22
+Texas St.,Arkansas St.,57,52,2021-02-22
+Rust,UAB,45,117,2021-02-22
+Valparaiso,Southern Ill.,64,67,2021-02-22
+William & Mary,Elon,54,73,2021-02-22
+Evansville,Drake,63,74,2021-02-22
+Syracuse,Duke,71,85,2021-02-22
+Southeastern La.,A&M-Corpus Christi,78,75,2021-02-22
+Houston Baptist,Northwestern St.,80,86,2021-02-22
+Sam Houston,Lamar University,77,71,2021-02-22
+Central Ark.,New Orleans,63,88,2021-02-22
+Alabama St.,Southern U.,66,75,2021-02-22
+Alabama A&M,Alcorn,52,65,2021-02-22
+Texas Tech,Oklahoma St.,69,74,2021-02-22
+Oregon,Southern California,58,72,2021-02-22
+New Mexico,Air Force,73,65,2021-02-22
+North Ala.,Liberty,54,74,2021-02-23
+Akron,Ohio,73,90,2021-02-23
+Pacific,San Diego,77,67,2021-02-23
+App State,Georgia St.,71,85,2021-02-23
+Miami (OH),Central Mich.,96,54,2021-02-23
+Buffalo,Northern Ill.,102,74,2021-02-23
+Saint Louis,VCU,65,67,2021-02-23
+Massachusetts,Richmond,65,79,2021-02-23
+LSU,Georgia,78,91,2021-02-23
+High Point,Campbell,48,68,2021-02-23
+Bowling Green,Eastern Mich.,82,69,2021-02-23
+Illinois,Michigan St.,72,81,2021-02-23
+West Virginia,TCU,74,66,2021-02-23
+Georgia Tech,Virginia Tech,69,53,2021-02-23
+Florida,Auburn,74,57,2021-02-23
+Notre Dame,Louisville,57,69,2021-02-23
+Ark.-Pine Bluff,Prairie View,56,72,2021-02-23
+Iowa St.,Baylor,72,77,2021-02-23
+St. John's (NY),Villanova,58,81,2021-02-23
+Penn St.,Nebraska,86,83,2021-02-23
+Mississippi Val.,Texas Southern,45,82,2021-02-23
+Ole Miss,Missouri,60,53,2021-02-23
+Oklahoma,Kansas St.,57,62,2021-02-23
+UConn,Georgetown,70,57,2021-02-23
+Washington,Arizona St.,64,97,2021-02-23
+Kansas,Texas,72,75,2021-02-23
+Kent St.,Ball St.,71,90,2021-02-24
+Alabama A&M,Southern U.,57,73,2021-02-24
+Clemson,Wake Forest,60,39,2021-02-24
+Alabama St.,Alcorn,59,68,2021-02-24
+N.C. A&T,N.C. Central,79,63,2021-02-24
+St. Bonaventure,Davidson,56,53,2021-02-24
+New Mexico,Air Force,55,62,2021-02-24
+Delaware St.,Norfolk St.,55,86,2021-02-24
+Dayton,Saint Joseph's,84,97,2021-02-24
+Hampton,Longwood,74,68,2021-02-24
+Mount Aloysius,Radford,51,74,2021-02-24
+George Washington,George Mason,58,63,2021-02-24
+NC State,Virginia,68,61,2021-02-24
+Marquette,North Carolina,83,70,2021-02-24
+Duquesne,La Salle,65,85,2021-02-24
+Temple,South Fla.,65,47,2021-02-24
+Holy Cross,Boston U.,86,75,2021-02-24
+Seton Hall,Butler,52,61,2021-02-24
+Western Caro.,UNC Greensboro,81,80,2021-02-24
+Chattanooga,Mercer,77,81,2021-02-24
+South Carolina,Mississippi St.,48,69,2021-02-24
+American,Loyola Maryland,49,60,2021-02-24
+The Citadel,Furman,63,72,2021-02-24
+SFA,Northwestern St.,83,57,2021-02-24
+Houston Baptist,Nicholls St.,68,83,2021-02-24
+Tulane,Memphis,46,61,2021-02-24
+Northern Ariz.,Southern Utah,80,85,2021-02-24
+Lamar University,UIW,67,45,2021-02-24
+McNeese,Southeastern La.,95,91,2021-02-24
+Indiana,Rutgers,63,74,2021-02-24
+New Orleans,A&M-Corpus Christi,69,61,2021-02-24
+Florida St.,Miami (FL),88,71,2021-02-24
+Sam Houston,Abilene Christian,72,86,2021-02-24
+Alabama,Arkansas,66,81,2021-02-24
+Cincinnati,Tulsa,70,69,2021-02-24
+DePaul,Creighton,53,77,2021-02-24
+Xavier,Providence,68,83,2021-02-24
+Tennessee,Vanderbilt,70,58,2021-02-24
+Fresno St.,UNLV,67,64,2021-02-24
+Miami (OH),Western Mich.,74,66,2021-02-25
+Eastern Mich.,Ohio,67,86,2021-02-25
+Central Mich.,Buffalo,73,85,2021-02-25
+St. Francis Brooklyn,Merrimack,84,71,2021-02-25
+UT Martin,SIUE,53,66,2021-02-25
+Western Ky.,Houston,57,81,2021-02-25
+Robert Morris,Detroit Mercy,73,83,2021-02-25
+Santa Clara,Gonzaga,75,89,2021-02-25
+Florida A&M,South Carolina St.,75,67,2021-02-25
+Washington,Arizona St.,72,80,2021-02-25
+Tennessee St.,Morehead St.,60,74,2021-02-25
+Iowa,Michigan,57,79,2021-02-25
+Mount St. Mary's,Saint Francis (PA),72,65,2021-02-25
+Fairleigh Dickinson,Sacred Heart,82,69,2021-02-25
+LIU,Bryant,80,87,2021-02-25
+Wagner,Central Conn. St.,83,63,2021-02-25
+Nebraska,Illinois,70,86,2021-02-25
+Mississippi Val.,Prairie View,62,82,2021-02-25
+Purdue Fort Wayne,Green Bay,89,84,2021-02-25
+UIC,Youngstown St.,58,74,2021-02-25
+UCLA,Utah,76,61,2021-02-25
+Belmont,Eastern Ky.,67,81,2021-02-25
+IUPUI,Milwaukee,72,84,2021-02-25
+Weber St.,Sacramento St.,82,73,2021-02-25
+Ark.-Pine Bluff,Texas Southern,65,79,2021-02-25
+Southeast Mo. St.,Eastern Ill.,94,88,2021-02-25
+Murray St.,Jacksonville St.,74,87,2021-02-25
+Portland St.,Northern Colo.,64,66,2021-02-25
+Northwestern,Minnesota,67,59,2021-02-25
+San Francisco,BYU,73,79,2021-02-25
+Southern California,Colorado,62,80,2021-02-25
+Oregon,Stanford,71,68,2021-02-25
+Austin Peay,Tennessee Tech,76,81,2021-02-25
+Montana,Idaho St.,64,58,2021-02-25
+Ohio St.,Michigan St.,67,71,2021-02-25
+LMU (CA),Pepperdine,81,74,2021-02-25
+Boise St.,San Diego St.,66,78,2021-02-25
+Oregon St.,California,59,57,2021-02-25
+Washington St.,Arizona,53,69,2021-02-25
+Pacific,Saint Mary's (CA),46,58,2021-02-25
+Long Beach St.,Hawaii,76,78,2021-02-26
+North Florida,Stetson,79,74,2021-02-26
+LIU,Bryant,60,63,2021-02-26
+Tulane,Cincinnati,71,91,2021-02-26
+Rider,Saint Peter's,52,66,2021-02-26
+St. Francis Brooklyn,Merrimack,67,75,2021-02-26
+Drexel,James Madison,84,78,2021-02-26
+Wagner,Central Conn. St.,77,83,2021-02-26
+Manhattan,Siena,69,74,2021-02-26
+UC Davis,Cal Poly,69,61,2021-02-26
+ULM,Texas St.,49,58,2021-02-26
+App State,Ga. Southern,84,78,2021-02-26
+George Washington,St. Bonaventure,41,88,2021-02-26
+Kennesaw St.,FGCU,80,63,2021-02-26
+Omaha,Denver,80,76,2021-02-26
+Indiana St.,Valparaiso,58,43,2021-02-26
+Missouri St.,Evansville,90,81,2021-02-26
+Drake,Bradley,80,71,2021-02-26
+UAB,UTSA,64,57,2021-02-26
+North Texas,Marshall,77,65,2021-02-26
+Middle Tenn.,Old Dominion,61,67,2021-02-26
+Southern Utah,Northern Ariz.,92,62,2021-02-26
+Arkansas St.,UT Arlington,71,73,2021-02-26
+Montana St.,Idaho,69,74,2021-02-26
+Coastal Carolina,Troy,75,59,2021-02-26
+Purdue,Penn St.,73,52,2021-02-26
+Bowling Green,Akron,83,71,2021-02-26
+UC San Diego,UC Irvine,55,80,2021-02-26
+Fairleigh Dickinson,Sacred Heart,64,70,2021-02-26
+Richmond,Saint Louis,67,72,2021-02-26
+Louisiana,Little Rock,66,61,2021-02-26
+Rice,Louisiana Tech,57,101,2021-02-26
+Fla. Atlantic,Southern Miss.,69,60,2021-02-26
+New Mexico St.,Tarleton St.,78,51,2021-02-26
+UTRGV,Utah Valley,74,78,2021-02-26
+Kansas City,South Dakota St.,49,67,2021-02-26
+Nevada,Utah St.,72,75,2021-02-26
+Georgia St.,South Alabama,84,81,2021-02-26
+Grand Canyon,Seattle U,57,63,2021-02-26
+UNI,Illinois St.,70,56,2021-02-26
+Southern Ill.,Loyola Chicago,52,60,2021-02-26
+CSUN,CSU Bakersfield,58,84,2021-02-26
+UC Santa Barbara,UC Riverside,72,68,2021-02-26
+Fresno St.,UNLV,67,68,2021-02-26
+Michigan,Indiana,73,57,2021-02-27
+Liberty,Bellarmine,94,78,2021-02-27
+Texas,Texas Tech,59,68,2021-02-27
+Tennessee,Auburn,72,77,2021-02-27
+Syracuse,Georgia Tech,77,84,2021-02-27
+Georgetown,DePaul,68,60,2021-02-27
+Navy,Loyola Maryland,73,67,2021-02-27
+Stony Brook,UMass Lowell,62,64,2021-02-27
+Montana,Idaho St.,59,58,2021-02-27
+Northern Ill.,Eastern Mich.,57,91,2021-02-27
+South Carolina,Georgia,91,70,2021-02-27
+Mercer,Western Caro.,61,85,2021-02-27
+Central Mich.,Ball St.,91,97,2021-02-27
+North Texas,Marshall,72,73,2021-02-27
+North Florida,Stetson,68,85,2021-02-27
+American,Bucknell,78,71,2021-02-27
+Florida A&M,South Carolina St.,57,63,2021-02-27
+Washington,Arizona,74,75,2021-02-27
+Rice,Louisiana Tech,58,79,2021-02-27
+Notre Dame,Boston College,90,94,2021-02-27
+Portland St.,Northern Colo.,73,65,2021-02-27
+LSU,Arkansas,75,83,2021-02-27
+VCU,Davidson,57,65,2021-02-27
+Illinois,Wisconsin,74,69,2021-02-27
+Buffalo,Ohio,86,66,2021-02-27
+Miami (FL),Clemson,58,66,2021-02-27
+Presbyterian,Hampton,65,67,2021-02-27
+Binghamton,Hartford,60,77,2021-02-27
+Weber St.,Sacramento St.,72,70,2021-02-27
+Marquette,UConn,62,80,2021-02-27
+Lipscomb,North Ala.,66,73,2021-02-27
+Oklahoma St.,Oklahoma,94,90,2021-02-27
+App State,Ga. Southern,57,65,2021-02-27
+Boston U.,Army West Point,75,63,2021-02-27
+Ole Miss,Vanderbilt,70,75,2021-02-27
+Belmont,Morehead St.,82,89,2021-02-27
+USC Upstate,High Point,60,65,2021-02-27
+Vanguard,California Baptist,65,78,2021-02-27
+Lehigh,Lafayette,69,75,2021-02-27
+Oregon,California,74,63,2021-02-27
+UAB,UTSA,79,96,2021-02-27
+Southeastern La.,Northwestern St.,61,79,2021-02-27
+UNC Greensboro,ETSU,85,74,2021-02-27
+Pepperdine,San Diego,90,84,2021-02-27
+Wake Forest,Virginia Tech,46,84,2021-02-27
+Florida,Kentucky,71,67,2021-02-27
+Florida St.,North Carolina,70,78,2021-02-27
+Boise St.,San Diego St.,58,62,2021-02-27
+Air Force,Colorado St.,49,72,2021-02-27
+Kansas St.,West Virginia,43,65,2021-02-27
+Kent St.,Miami (OH),64,51,2021-02-27
+North Dakota St.,South Dakota,71,80,2021-02-27
+La Salle,George Mason,54,89,2021-02-27
+Louisiana,Little Rock,59,69,2021-02-27
+Arkansas St.,UT Arlington,56,64,2021-02-27
+NJIT,Albany (NY),66,76,2021-02-27
+Fla. Atlantic,Southern Miss.,73,66,2021-02-27
+Creighton,Xavier,69,77,2021-02-27
+Coastal Carolina,Troy,76,71,2021-02-27
+ULM,Texas St.,57,61,2021-02-27
+Western Ill.,Oral Roberts,81,85,2021-02-27
+Western Mich.,Toledo,44,91,2021-02-27
+UT Martin,Eastern Ill.,73,68,2021-02-27
+UC Davis,Cal Poly,68,66,2021-02-27
+Austin Peay,Jacksonville St.,67,75,2021-02-27
+Alcorn,Southern U.,75,89,2021-02-27
+Prairie View,Alabama A&M,55,54,2021-02-27
+Texas Southern,Alabama St.,86,76,2021-02-27
+SFA,Lamar University,83,88,2021-02-27
+Abilene Christian,Central Ark.,82,84,2021-02-27
+Elon,UNCW,80,77,2021-02-27
+Southern Ill.,Loyola Chicago,58,65,2021-02-27
+UNI,Illinois St.,94,87,2021-02-27
+Indiana St.,Valparaiso,58,70,2021-02-27
+Charlotte,UTEP,47,70,2021-02-27
+Southeast Mo. St.,SIUE,69,63,2021-02-27
+TCU,Iowa St.,76,72,2021-02-27
+Alabama,Mississippi St.,64,59,2021-02-27
+Louisville,Duke,80,73,2021-02-27
+Omaha,Denver,80,76,2021-02-27
+Oregon St.,Stanford,73,62,2021-02-27
+Minnesota,Nebraska,74,78,2021-02-27
+Rhode Island,Duquesne,75,86,2021-02-27
+Manhattan,Siena,56,64,2021-02-27
+Missouri St.,Evansville,63,72,2021-02-27
+Drake,Bradley,61,67,2021-02-27
+Middle Tenn.,Old Dominion,60,73,2021-02-27
+Nicholls St.,New Orleans,105,101,2021-02-27
+Furman,Wofford,73,74,2021-02-27
+Tennessee St.,Eastern Ky.,84,89,2021-02-27
+UC San Diego,UC Irvine,64,75,2021-02-27
+Georgia St.,South Alabama,82,73,2021-02-27
+UTRGV,Utah Valley,64,73,2021-02-27
+N.C. Central,N.C. A&T,53,55,2021-02-27
+Southern California,Utah,61,71,2021-02-27
+New Mexico St.,Tarleton St.,55,64,2021-02-27
+Baylor,Kansas,58,71,2021-02-27
+Coppin St.,Delaware St.,81,68,2021-02-27
+Rider,Saint Peter's,78,65,2021-02-27
+Houston Baptist,McNeese,58,85,2021-02-27
+Jackson St.,Mississippi Val.,68,54,2021-02-27
+Kansas City,South Dakota St.,77,89,2021-02-27
+Washington St.,Arizona St.,74,77,2021-02-27
+Grand Canyon,Seattle U,81,71,2021-02-27
+Murray St.,Tennessee Tech,61,71,2021-02-27
+UC Santa Barbara,UC Riverside,52,68,2021-02-27
+CSUN,CSU Bakersfield,90,87,2021-02-27
+Long Beach St.,Hawaii,76,79,2021-02-27
+UCLA,Colorado,61,70,2021-02-27
+San Francisco,Pacific,69,76,2021-02-27
+LMU (CA),Gonzaga,69,86,2021-02-27
+Saint Mary's (CA),BYU,51,65,2021-02-27
+Villanova,Butler,61,73,2021-02-28
+UMass Lowell,New Hampshire,72,64,2021-02-28
+Memphis,Cincinnati,80,74,2021-02-28
+Michigan St.,Maryland,55,73,2021-02-28
+Florida A&M,South Carolina St.,63,58,2021-02-28
+St. Mary's (MD),Norfolk St.,51,72,2021-02-28
+Montana St.,Idaho,71,61,2021-02-28
+Charlotte,UTEP,62,77,2021-02-28
+FIU,Western Ky.,58,91,2021-02-28
+Boston U.,Army West Point,55,57,2021-02-28
+Albany (NY),Hartford,77,83,2021-02-28
+Loyola Maryland,Navy,58,66,2021-02-28
+Bucknell,American,68,81,2021-02-28
+Iowa,Ohio St.,73,57,2021-02-28
+Quinnipiac,Marist,67,76,2021-02-28
+South Fla.,Houston,52,98,2021-02-28
+Pittsburgh,NC State,62,65,2021-02-28
+North Dakota St.,South Dakota,89,77,2021-02-28
+Western Ill.,Oral Roberts,59,95,2021-02-28
+Coppin St.,Delaware St.,94,74,2021-02-28
+Lafayette,Lehigh,71,70,2021-02-28
+Nevada,Utah St.,66,87,2021-02-28
+FIU,Western Ky.,59,71,2021-03-01
+SFA,Central Ark.,79,66,2021-03-01
+Dayton,St. Bonaventure,55,52,2021-03-01
+Miami (FL),Virginia,51,62,2021-03-01
+Quinnipiac,Marist,52,65,2021-03-01
+Saint Joseph's,Richmond,76,73,2021-03-01
+Massachusetts,Saint Louis,57,78,2021-03-01
+High Point,Winthrop,54,83,2021-03-01
+Hampton,Radford,52,67,2021-03-01
+Longwood,UNC Asheville,77,61,2021-03-01
+Northwestern St.,Nicholls St.,71,87,2021-03-01
+Gardner-Webb,Campbell,57,63,2021-03-01
+North Carolina,Syracuse,70,72,2021-03-01
+Rutgers,Nebraska,51,72,2021-03-01
+A&M-Corpus Christi,Lamar University,47,66,2021-03-01
+Sam Houston,Houston Baptist,83,70,2021-03-01
+New Orleans,UIW,88,72,2021-03-01
+Texas Southern,Alabama A&M,68,58,2021-03-01
+Grambling,Mississippi Val.,63,67,2021-03-01
+Ark.-Pine Bluff,Jackson St.,58,64,2021-03-01
+Prairie View,Alabama St.,70,67,2021-03-01
+Oklahoma,Oklahoma St.,75,79,2021-03-01
+Arizona,Oregon,69,80,2021-03-01
+Air Force,Colorado St.,44,74,2021-03-01
+UTRGV,New Mexico St.,51,69,2021-03-02
+Akron,Buffalo,78,80,2021-03-02
+Toledo,Central Mich.,79,81,2021-03-02
+Baylor,West Virginia,94,89,2021-03-02
+Wake Forest,Pittsburgh,57,70,2021-03-02
+Arkansas,South Carolina,101,73,2021-03-02
+Illinois,Michigan,76,53,2021-03-02
+Texas,Iowa St.,81,67,2021-03-02
+TCU,Texas Tech,49,69,2021-03-02
+Fresno St.,Boise St.,67,64,2021-03-02
+Milwaukee,Wright St.,94,92,2021-03-02
+Purdue Fort Wayne,Cleveland St.,104,108,2021-03-02
+Detroit Mercy,Northern Ky.,69,70,2021-03-02
+Merrimack,Wagner,67,74,2021-03-02
+Tulsa,UCF,69,73,2021-03-02
+Xavier,Georgetown,66,72,2021-03-02
+Western Mich.,Northern Ill.,73,63,2021-03-02
+Auburn,Alabama,58,70,2021-03-02
+Eastern Mich.,Ball St.,65,100,2021-03-02
+Miami (OH),Bowling Green,84,79,2021-03-02
+Youngstown St.,Oakland,83,87,2021-03-02
+Duke,Georgia Tech,77,81,2021-03-02
+Indiana,Michigan St.,58,64,2021-03-02
+Vanderbilt,LSU,68,83,2021-03-02
+Kentucky,Ole Miss,62,70,2021-03-02
+Wisconsin,Purdue,69,73,2021-03-02
+Memphis,South Fla.,73,52,2021-03-02
+Marquette,DePaul,77,71,2021-03-02
+Saint Joseph's,La Salle,72,66,2021-03-03
+Fordham,George Washington,49,53,2021-03-03
+Merrimack,Wagner,59,64,2021-03-03
+Clemson,Syracuse,54,64,2021-03-03
+Wichita St.,Tulane,78,70,2021-03-03
+Missouri,Florida,72,70,2021-03-03
+UConn,Seton Hall,69,58,2021-03-03
+NC State,Notre Dame,80,69,2021-03-03
+Minnesota,Penn St.,65,84,2021-03-03
+Providence,St. John's (NY),67,81,2021-03-03
+Florida A&M,N.C. Central,65,58,2021-03-03
+Oregon St.,Utah,75,70,2021-03-03
+Lehigh,Boston U.,58,69,2021-03-03
+A&M-Corpus Christi,Sam Houston,61,84,2021-03-03
+SIUE,Belmont,61,78,2021-03-03
+Our Lady of the Lake,Louisiana Tech,66,99,2021-03-03
+Southeastern La.,Central Ark.,71,88,2021-03-03
+New Mexico,Colorado St.,73,87,2021-03-03
+Northwestern St.,New Orleans,83,92,2021-03-03
+UIW,Houston Baptist,67,72,2021-03-03
+Mississippi St.,Texas A&M,63,57,2021-03-03
+Creighton,Villanova,60,72,2021-03-03
+Boston College,Florida St.,64,93,2021-03-03
+Maryland,Northwestern,55,60,2021-03-03
+Abilene Christian,SFA,63,61,2021-03-03
+UCLA,Oregon,74,82,2021-03-03
+San Diego St.,UNLV,71,62,2021-03-03
+Idaho St.,Eastern Wash.,68,63,2021-03-03
+Stanford,Southern California,42,79,2021-03-03
+Southeast Mo. St.,Morehead St.,54,61,2021-03-03
+Portland,Santa Clara,86,95,2021-03-04
+Duquesne,Richmond,67,62,2021-03-04
+Northeastern St.,Tulsa,74,107,2021-03-04
+Saint Joseph's,Massachusetts,66,100,2021-03-04
+Kennesaw St.,Liberty,59,69,2021-03-04
+North Ala.,North Florida,68,60,2021-03-04
+Rhode Island,Dayton,72,84,2021-03-04
+Saint Peter's,Quinnipiac,60,65,2021-03-04
+Monmouth,Rider,77,74,2021-03-04
+George Washington,George Mason,59,73,2021-03-04
+Fairfield,Manhattan,59,69,2021-03-04
+Middle Tenn.,Fla. Atlantic,50,80,2021-03-04
+Campbell,Radford,78,60,2021-03-04
+Southern Ill.,Bradley,73,63,2021-03-04
+Iowa St.,Texas Tech,54,81,2021-03-04
+FGCU,Lipscomb,72,60,2021-03-04
+Vanderbilt,Cincinnati,78,64,2021-03-04
+TCU,West Virginia,67,76,2021-03-04
+Florida A&M,N.C. Central,71,74,2021-03-04
+Oklahoma St.,Baylor,70,81,2021-03-04
+Stetson,Bellarmine,73,70,2021-03-04
+Michigan St.,Michigan,50,69,2021-03-04
+Canisius,Siena,64,73,2021-03-04
+Longwood,Winthrop,61,82,2021-03-04
+Nicholls St.,McNeese,80,67,2021-03-04
+UTEP,Kansas,62,67,2021-03-04
+Murray St.,Jacksonville St.,65,68,2021-03-04
+Southern U.,Prairie View,61,68,2021-03-04
+Alabama St.,Grambling,68,91,2021-03-04
+Alabama A&M,Jackson St.,35,50,2021-03-04
+Alcorn,Texas Southern,78,80,2021-03-04
+Northern Colo.,Weber St.,59,60,2021-03-04
+Nebraska,Iowa,64,102,2021-03-04
+Arizona St.,Colorado,61,75,2021-03-04
+Texas,Oklahoma,69,65,2021-03-04
+Illinois St.,UNI,60,65,2021-03-04
+San Diego,San Francisco,51,67,2021-03-04
+UCF,East Carolina,64,60,2021-03-04
+Wyoming,Utah St.,59,72,2021-03-04
+Southern Utah,Portland St.,68,58,2021-03-04
+Austin Peay,Eastern Ky.,67,70,2021-03-04
+Santa Clara,Pacific,81,76,2021-03-05
+Duquesne,St. Bonaventure,59,75,2021-03-05
+Southern Ill.,Loyola Chicago,49,73,2021-03-05
+Morgan St.,Delaware St.,92,67,2021-03-05
+Massachusetts,Saint Louis,72,86,2021-03-05
+Sacramento St.,Montana St.,75,77,2021-03-05
+Stetson,Liberty,64,77,2021-03-05
+Evansville,Indiana St.,43,53,2021-03-05
+Our Lady of the Lake,Rice,77,80,2021-03-05
+Idaho St.,Eastern Wash.,62,75,2021-03-05
+Dayton,VCU,68,73,2021-03-05
+Saint Peter's,Quinnipiac,66,64,2021-03-05
+Monmouth,Rider,65,62,2021-03-05
+Northern Ill.,Central Mich.,79,74,2021-03-05
+George Mason,Davidson,67,99,2021-03-05
+Western Caro.,The Citadel,86,100,2021-03-05
+Fairfield,Manhattan,85,67,2021-03-05
+Kent St.,Buffalo,67,81,2021-03-05
+Boston College,Miami (FL),76,80,2021-03-05
+Middle Tenn.,Fla. Atlantic,54,63,2021-03-05
+Ga. Southern,Arkansas St.,58,62,2021-03-05
+ULM,South Alabama,72,80,2021-03-05
+FGCU,North Ala.,81,96,2021-03-05
+Canisius,Siena,76,75,2021-03-05
+Charlotte,Marshall,67,75,2021-03-05
+Eastern Mich.,Western Mich.,64,63,2021-03-05
+Hawaii,UC Davis,73,68,2021-03-05
+Ball St.,Toledo,70,89,2021-03-05
+UC Irvine,Long Beach St.,71,68,2021-03-05
+UC Riverside,CSUN,72,68,2021-03-05
+Jacksonville St.,Belmont,69,72,2021-03-05
+Cal St. Fullerton,UC San Diego,85,89,2021-03-05
+Georgia Tech,Wake Forest,75,63,2021-03-05
+Tarleton St.,UTRGV,65,47,2021-03-05
+Ark.-Pine Bluff,Mississippi Val.,82,59,2021-03-05
+UAB,North Texas,65,51,2021-03-05
+Old Dominion,Western Ky.,71,69,2021-03-05
+Samford,Mercer,59,87,2021-03-05
+Cal Poly,UC Santa Barbara,57,71,2021-03-05
+San Francisco,LMU (CA),66,70,2021-03-05
+Troy,UT Arlington,91,86,2021-03-05
+Little Rock,App State,60,67,2021-03-05
+Utah Valley,Grand Canyon,59,55,2021-03-05
+Valparaiso,Missouri St.,55,66,2021-03-05
+Colorado St.,Nevada,82,85,2021-03-05
+New Mexico St.,Dixie St.,76,66,2021-03-05
+Seattle U,California Baptist,80,79,2021-03-05
+Eastern Ky.,Morehead St.,64,67,2021-03-05
+Santa Clara,Pepperdine,70,78,2021-03-06
+Loyola Maryland,Navy,76,68,2021-03-06
+Florida St.,Notre Dame,73,83,2021-03-06
+Sacred Heart,Bryant,55,85,2021-03-06
+Pittsburgh,Clemson,62,77,2021-03-06
+The Citadel,UNC Greensboro,72,80,2021-03-06
+South Carolina,Kentucky,64,92,2021-03-06
+Rutgers,Minnesota,77,70,2021-03-06
+Georgetown,UConn,82,98,2021-03-06
+Sacramento St.,Montana St.,74,73,2021-03-06
+Mississippi St.,Auburn,71,78,2021-03-06
+Indiana St.,Loyola Chicago,49,65,2021-03-06
+Boston U.,Colgate,69,77,2021-03-06
+South Fla.,Wichita St.,63,80,2021-03-06
+Indiana,Purdue,58,67,2021-03-06
+Central Ark.,Northwestern St.,70,79,2021-03-06
+Charlotte,Marshall,66,75,2021-03-06
+Arizona St.,Utah,59,98,2021-03-06
+Oklahoma St.,West Virginia,85,80,2021-03-06
+Alabama,Georgia,89,79,2021-03-06
+Bucknell,Lafayette,92,84,2021-03-06
+UMass Lowell,UMBC,79,77,2021-03-06
+Mount St. Mary's,Wagner,66,60,2021-03-06
+ETSU,Chattanooga,63,53,2021-03-06
+Villanova,Providence,52,54,2021-03-06
+LSU,Missouri,86,80,2021-03-06
+Towson,Elon,48,69,2021-03-06
+American,Army West Point,66,89,2021-03-06
+Southern Utah,Portland St.,73,54,2021-03-06
+Alcorn,Prairie View,69,81,2021-03-06
+Virginia,Louisville,68,58,2021-03-06
+Southern U.,Texas Southern,74,80,2021-03-06
+Illinois,Ohio St.,73,68,2021-03-06
+UIW,Abilene Christian,60,85,2021-03-06
+Southern California,UCLA,64,63,2021-03-06
+Missouri St.,Drake,69,71,2021-03-06
+Hartford,Vermont,71,65,2021-03-06
+Morgan St.,Delaware St.,75,82,2021-03-06
+Iowa St.,Kansas St.,56,61,2021-03-06
+Texas A&M,Arkansas,80,87,2021-03-06
+Old Dominion,Western Ky.,57,60,2021-03-06
+Butler,Creighton,73,93,2021-03-06
+UAB,North Texas,65,61,2021-03-06
+Lamar University,McNeese,60,51,2021-03-06
+Mercer,Wofford,62,61,2021-03-06
+Saint Louis,St. Bonaventure,53,71,2021-03-06
+Duke,North Carolina,73,91,2021-03-06
+South Alabama,Louisiana,68,79,2021-03-06
+A&M-Corpus Christi,Houston Baptist,94,70,2021-03-06
+SFA,Sam Houston,64,59,2021-03-06
+Alabama St.,Jackson St.,54,79,2021-03-06
+Arkansas St.,Georgia St.,68,71,2021-03-06
+Omaha,South Dakota St.,71,84,2021-03-06
+UC Irvine,Long Beach St.,73,58,2021-03-06
+Hawaii,UC Davis,66,74,2021-03-06
+Seton Hall,St. John's (NY),71,81,2021-03-06
+Vanderbilt,Ole Miss,46,56,2021-03-06
+UNCW,William & Mary,60,73,2021-03-06
+UC Riverside,CSUN,66,65,2021-03-06
+Morehead St.,Belmont,86,71,2021-03-06
+VMI,Furman,91,90,2021-03-06
+Southeastern La.,New Orleans,76,81,2021-03-06
+Tarleton St.,UTRGV,69,58,2021-03-06
+Cal Poly,UC Santa Barbara,54,70,2021-03-06
+Cal St. Fullerton,UC San Diego,78,85,2021-03-06
+Troy,Coastal Carolina,68,86,2021-03-06
+Utah Valley,Grand Canyon,64,74,2021-03-06
+Alabama A&M,Grambling,72,80,2021-03-06
+Seattle U,California Baptist,76,79,2021-03-06
+Xavier,Marquette,59,66,2021-03-06
+New Mexico St.,Dixie St.,68,56,2021-03-06
+LMU (CA),Saint Mary's (CA),47,52,2021-03-06
+App State,Texas St.,76,73,2021-03-06
+Davidson,VCU,52,64,2021-03-06
+Western Ill.,South Dakota,69,86,2021-03-06
+UNLV,Wyoming,69,80,2021-03-06
+Utah St.,Fresno St.,57,51,2021-03-06
+Delaware,Hofstra,75,83,2021-03-07
+Memphis,Houston,64,67,2021-03-07
+Campbell,Winthrop,53,80,2021-03-07
+Florida,Tennessee,54,65,2021-03-07
+Wisconsin,Iowa,73,77,2021-03-07
+Cincinnati,East Carolina,82,69,2021-03-07
+Nebraska,Northwestern,78,79,2021-03-07
+Drake,Loyola Chicago,65,75,2021-03-07
+North Ala.,Liberty,75,79,2021-03-07
+Elon,James Madison,72,71,2021-03-07
+Texas Tech,Baylor,73,88,2021-03-07
+Michigan,Michigan St.,64,70,2021-03-07
+ETSU,UNC Greensboro,65,77,2021-03-07
+William & Mary,Northeastern,47,63,2021-03-07
+Louisiana,Georgia St.,73,84,2021-03-07
+North Dakota,Oral Roberts,65,76,2021-03-07
+Penn St.,Maryland,66,61,2021-03-07
+Texas,TCU,76,64,2021-03-07
+Mercer,VMI,73,59,2021-03-07
+Oregon,Oregon St.,80,67,2021-03-07
+App State,Coastal Carolina,64,61,2021-03-07
+Drexel,Col. of Charleston,80,75,2021-03-07
+Kansas City,North Dakota St.,65,69,2021-03-07
+Pepperdine,BYU,77,82,2021-03-08
+Elon,Hofstra,76,58,2021-03-08
+Milwaukee,Cleveland St.,65,71,2021-03-08
+Oral Roberts,South Dakota St.,90,88,2021-03-08
+Mercer,UNC Greensboro,61,69,2021-03-08
+App State,Georgia St.,80,73,2021-03-08
+Rider,Canisius,78,76,2021-03-08
+Saint Mary's (CA),Gonzaga,55,78,2021-03-08
+Northern Ky.,Oakland,58,69,2021-03-08
+Drexel,Northeastern,74,67,2021-03-08
+North Dakota St.,South Dakota,79,75,2021-03-08
+Miami (FL),Pittsburgh,79,73,2021-03-09
+Boston College,Duke,51,86,2021-03-09
+Iona,Quinnipiac,72,48,2021-03-09
+Long Beach St.,CSUN,85,63,2021-03-09
+McNeese,Southeastern La.,68,71,2021-03-09
+Oakland,Cleveland St.,69,80,2021-03-09
+Elon,Drexel,56,63,2021-03-09
+Wake Forest,Notre Dame,77,80,2021-03-09
+Mount St. Mary's,Bryant,73,68,2021-03-09
+Manhattan,Fairfield,58,59,2021-03-09
+Southern Miss.,Rice,52,61,2021-03-09
+BYU,Gonzaga,78,88,2021-03-09
+Oral Roberts,North Dakota St.,75,72,2021-03-09
+Cal Poly,Cal St. Fullerton,87,82,2021-03-09
+Houston Baptist,UIW,80,68,2021-03-09
+Sacramento St.,Northern Colo.,83,90,2021-03-10
+NC State,Syracuse,68,89,2021-03-10
+Northern Ariz.,Portland St.,77,66,2021-03-10
+San Jose St.,Wyoming,80,111,2021-03-10
+Miami (FL),Clemson,67,64,2021-03-10
+Ark.-Pine Bluff,Jackson St.,62,74,2021-03-10
+Marquette,Georgetown,49,68,2021-03-10
+Washington St.,Arizona St.,59,64,2021-03-10
+Air Force,UNLV,52,80,2021-03-10
+Iona,Siena,55,52,2021-03-10
+Idaho,Montana,64,69,2021-03-10
+Loyola Maryland,Army West Point,67,63,2021-03-10
+Butler,Xavier,70,69,2021-03-10
+Southeastern La.,New Orleans,63,80,2021-03-10
+Kansas St.,TCU,71,50,2021-03-10
+Minnesota,Northwestern,51,46,2021-03-10
+Charlotte,UTSA,62,72,2021-03-10
+Duke,Louisville,70,56,2021-03-10
+Rice,Marshall,72,68,2021-03-10
+Texas A&M,Vanderbilt,68,79,2021-03-10
+Washington,Utah,95,98,2021-03-10
+New Mexico,Fresno St.,77,85,2021-03-10
+Bucknell,Colgate,75,105,2021-03-10
+Fairfield,Monmouth,79,60,2021-03-10
+Nebraska,Penn St.,66,72,2021-03-10
+Notre Dame,North Carolina,59,101,2021-03-10
+DePaul,Providence,70,62,2021-03-10
+Houston Baptist,Lamar University,52,62,2021-03-10
+UTEP,Fla. Atlantic,70,76,2021-03-10
+Mississippi Val.,Prairie View,64,91,2021-03-10
+Iowa St.,Oklahoma,73,79,2021-03-10
+Middle Tenn.,North Texas,56,76,2021-03-10
+California,Stanford,76,58,2021-03-10
