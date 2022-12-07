@@ -1,7 +1,19 @@
 #set number monte carlo iterations
-its <- 100000
+its <- 1000000
 
 server <- function(input, output) {
+  
+  ptobet <- reactive({
+    b <- input$moneyline / 100
+    b <- ifelse(b>0, b, 1/b)    
+    p <- input$modelline / 100
+    p <- ifelse(p>0, p, 1/p)
+    p <- 1/(1+p)
+    kellycrit(p,b)
+  })
+  
+  output$ptobet <- renderText(ptobet())
+  output$tobet <- renderText(input$purse*ptobet())
   
   mcm <- reactive({
     withProgress(message = "Simulating games...", value = .5, {
@@ -30,8 +42,8 @@ server <- function(input, output) {
   
   output$matchup <- renderTable({
     
-    p1 <- sum(mcm()$s1>mcm()$s2)/its
-    
+    #p1 <- sum(mcm()$s1>mcm()$s2)/its
+    p1 <- sum(mcm()$s1>mcm()$s2) / (its - sum(mcm()$s1==mcm()$s2))
     
     data.frame(team=c(input$team1, input$team2),
                win_prob=c(p1,1-p1),

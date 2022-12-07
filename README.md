@@ -10,7 +10,7 @@ General workflow
 
 0. Helper functions in utils/
 
-1. process.R - get new games
+1. get_games.R - get new games
 
 2. fit_stan.R - fit stan model located in stan_model/
 

@@ -15,10 +15,10 @@ parameters{
     matrix<lower=0>[N, 2] df;
 }
 model{
-    ofa ~ lognormal(0, 1);
-    ofb ~ lognormal(0, 1);
-    dfa ~ lognormal(0, 1);
-    dfb ~ lognormal(0, 1);
+    ofa ~ lognormal(0, 0.1);
+    ofb ~ lognormal(0, 0.1);
+    dfa ~ lognormal(0, 0.1);
+    dfb ~ lognormal(0, 0.1);
     
     for(n in 1:N){
         of[n, 1] ~ gamma(ofa[tid1[n]], ofb[tid1[n]]);

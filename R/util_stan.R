@@ -14,8 +14,9 @@ get_posterior.norm <- function(p){
   ofsd <- sapply(1:length(teams), function(i) sd(p$of[,i]))
   dfmu <- colMeans(p$df)
   dfsd <- sapply(1:length(teams), function(i) sd(p$df[,i]))
-  phimu <- colMeans(p$phi)
-  phisd <- sapply(1:length(teams), function(i) sd(p$phi[,i]))
+  phimu <- mean(p$phi)
+  #phisd <- sapply(1:length(teams), function(i) sd(p$phi[,i]))
+  phisd <- sd(p$phi)
   list(ofmu=ofmu,
        ofsd=ofsd,
        dfmu=dfmu,
@@ -70,24 +71,26 @@ mc_matchup.pois_prod <- function(t1, t2, iter=1000){
   of2 <- rnorm(iter, t2$ofmu, t2$ofsd)
   df2 <- rnorm(iter, t2$dfmu, t2$dfsd)
   
-  s1 <- rpois(iter, exp(of1 * df2))
-  s2 <- rpois(iter, exp(of2 * df1))
+  s1 <- rpois(iter, exp(of1 + df2 + of1 * df2))
+  s2 <- rpois(iter, exp(of2 + df1 + of2 * df1))
   list(s1=s1, s2=s2)
 }
 
-mc_matchup.norm <- function(t1, t2, iter=1000){
+mc_matchup.norm <- function(t1, t2, phi, iter=1000){
   of1 <- rnorm(iter, t1$ofmu, t1$ofsd)
   df1 <- rnorm(iter, t1$dfmu, t1$dfsd)
-  phi1 <- rnorm(iter, t1$phimu, t1$phisd)
+  #phi1 <- rnorm(iter, t1$phimu, t1$phisd)
   of2 <- rnorm(iter, t2$ofmu, t2$ofsd)
   df2 <- rnorm(iter, t2$dfmu, t2$dfsd)
-  phi2 <- rnorm(iter, t2$phimu, t2$phisd)
-  #phis <- rnorm(iter, phi$mu, phi$sd)
+  #phi2 <- rnorm(iter, t2$phimu, t2$phisd)
+  phis <- rnorm(iter, phi$mu, phi$sd)
   
-  s1 <- rnorm(iter, exp(of1 - df2), phi1)
-  s2 <- rnorm(iter, exp(of2 - df1), phi2)
+  s1 <- rnorm(iter, exp(of1 - df2), phis)
+  s2 <- rnorm(iter, exp(of2 - df1), phis)
   list(s1=s1, s2=s2)
 }
+
+mc_matchup <- mc_matchup.pois_sum
 
 matchup.pois <- function(t1n, t2n, param, teams, its=10000, method="sum"){
   if(!method %in% c("sum", "prod")){
@@ -112,9 +115,11 @@ matchup.norm <- function(t1n, t2n, param, teams, its=10000){
   t1 <- which(t1n==teams)
   t2 <- which(t2n==teams)
   
-  mc_matchup.norm(list(ofmu=param$ofmu[t1], ofsd=param$ofsd[t1], dfmu=param$dfmu[t1], dfsd=param$dfsd[t1], phimu=param$phimu[t1], phisd=param$phisd[t1]),
-             list(ofmu=param$ofmu[t2], ofsd=param$ofsd[t2], dfmu=param$dfmu[t2], dfsd=param$dfsd[t2], phimu=param$phimu[t2], phisd=param$phisd[t2]),
-             #list(mu=param$phimu, sd=param$phisd),
+  mc_matchup.norm(list(ofmu=param$ofmu[t1], ofsd=param$ofsd[t1], dfmu=param$dfmu[t1], dfsd=param$dfsd[t1]),
+             list(ofmu=param$ofmu[t2], ofsd=param$ofsd[t2], dfmu=param$dfmu[t2], dfsd=param$dfsd[t2]),
+             list(mu=param$phimu, sd=param$phisd),
              iter=its)
   
 }
+
+matchup <- matchup.pois

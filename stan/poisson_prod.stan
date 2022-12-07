@@ -13,11 +13,11 @@ parameters{
     vector<lower=0>[T] df;
 }
 model{
-    of ~ normal(0, ofsd);
-    df ~ double_exponential(1, dfsd);
+    of ~ lognormal(0, ofsd);
+    df ~ lognormal(1, dfsd);
     
     for(n in 1:N){
-        pt1[n] ~ poisson_log(of[tid1[n]] * df[tid2[n]]);
-        pt2[n] ~ poisson_log(of[tid2[n]] * df[tid1[n]]);
+        pt1[n] ~ poisson_log(of[tid1[n]] + df[tid2[n]] + of[tid1[n]] * df[tid2[n]]);
+        pt2[n] ~ poisson_log(of[tid2[n]] + df[tid1[n]] + of[tid2[n]] * df[tid1[n]]);
     }
 }

@@ -1,6 +1,11 @@
 ui <- navbarPage("NCAA Men's Basketball 2019",
                  
   tabPanel("Today's Games",
+           numericInput("purse", "Purse", 100, min=0),
+           numericInput("moneyline", "Moneyline", 100),
+           numericInput("modelline", "Modelline", 100),
+           textOutput("ptobet"),
+           textOutput("tobet"),
            tableOutput("today")
            ),
    

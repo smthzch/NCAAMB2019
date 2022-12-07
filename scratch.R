@@ -13,18 +13,18 @@ bteams <- read.csv("data/meta/bracket_teams.csv", stringsAsFactors = F, header =
 teams <- union(unique(g$team1), unique(g$team2)) %>% unique() %>% str_sort()
 
 
-####################################
+####################################    
 #poisson product model lambda = exp(of*df)
 #load latest model parameters
 mxdt <- list.files("data/parameters") %>% parse_number() %>% ymd() %>% max() %>% strftime("%y%m%d")
 paramdt <- list.files("data/parameters") %>% parse_number() %>% ymd() %>% max() %>% strftime("%Y-%m-%d") #for display on ui
-load(paste0("data/parameters/pois_prod_", mxdt, ".RData"), .GlobalEnv)
+load(paste0("data/parameters/pois_sum_", mxdt, ".RData"), .GlobalEnv)
 
 #posterior predictive
 g.pred <- g %>% 
   mutate(
     s_hat = map2(team1, team2, function(t1, t2){
-      matchup.pois(t1, t2, param, teams, 100, method="prod")$s1 %>% mean()
+      matchup.pois(t1, t2, param, teams, 100, method="sum")$s1 %>% mean()
     })
   ) %>% 
   unnest(s_hat) %>% 

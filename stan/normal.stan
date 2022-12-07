@@ -13,16 +13,16 @@ parameters{
     
     real<lower=0> ofsd;
     real<lower=0> dfsd;
-    real<lower=0> phisd;
+    //real<lower=0> phisd;
 }
 model{
     ofsd ~ lognormal(0, 1);
     dfsd ~ lognormal(0, 1);
-    phisd ~ lognormal(1, 1);
+    phi ~ lognormal(0, 1);
     
-    of ~ normal(0, ofsd);
-    df ~ normal(0, dfsd);
-    phi ~ double_exponential(1, phisd);
+    of ~ lognormal(0, ofsd);
+    df ~ lognormal(0, dfsd);
+    //phi ~ double_exponential(1, phisd);
     
     for(n in 1:N){
         pt1[n] ~ normal(exp(of[tid1[n]] - df[tid2[n]]), phi);

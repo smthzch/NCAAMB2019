@@ -13,6 +13,8 @@ parameters{
     vector<lower=0>[T] df;
 }
 model{
+    ofsd ~ normal(0, 10);
+    dfsd ~ normal(0, 10);
     of ~ normal(0, ofsd);
     df ~ normal(0, dfsd);
     

@@ -4,27 +4,18 @@ library(tidyverse)
 source("utils/parseWeb.R")
 source("utils/util_stan.R")
 
-validate <- function(param, st="2019/03/19", ed="2019/03/22"){
-  load_latestg()
-  teams <- union(unique(g$team1), unique(g$team2)) %>% unique() %>% sort()
-  games <- data.frame(matrix(nrow=0,ncol=5), stringsAsFactors = F) %>% set_names(c("team1","team2","score1","score2","date"))
-  for(d in seq.Date(as.Date(st), as.Date(ed), by=1)){
-    dte <- strftime(as.Date(d, origin="1970-01-01"), "%Y/%m/%d")
-    print(paste("Getting date:",dte))
-    ur <- paste("https://www.ncaa.com/scoreboard/basketball-men/d1/", dte, sep="")
-    games <- rbind(games, read_page(ur, dte))
-  }
+validate <- function(param, st = "2022-03-14", ed = "2022-04-05"){
+  games <- load_games() |> filter(date >= st & date <= ed)
+  teams <- union(unique(games$team1), unique(games$team2)) %>% unique() %>% str_sort()
   games$p1 <- 0
   games$t1w <- F
   games$correct <- F
-  its <- 1000000
+  its <- 10000
   for(i in 1:nrow(games)){
     print(paste("Sim game:",i))
-    t1 <- which(teams==games[i,"team1"])
-    t2 <- which(teams==games[i,"team2"])
-    pred <- mc_matchup(list(ofmu=param$ofmu[t1],ofsd=param$ofsd[t1],dfmu=param$dfmu[t1],dfsd=param$dfsd[t1]),
-               list(ofmu=param$ofmu[t2],ofsd=param$ofsd[t2],dfmu=param$dfmu[t2],dfsd=param$dfsd[t2]),
-               iter=its)
+    t1 <- games[["team1"]][i]
+    t2 <- games[["team2"]][i]
+    pred <- matchup(t1, t2, param, teams, its = its)
     p1 <- sum(pred$s1>pred$s2)/its
     games[i,"p1"] <- p1
     games[i,"t1w"] <- games[i,"score1"] > games[i,"score2"]
@@ -38,69 +29,37 @@ validate <- function(param, st="2019/03/19", ed="2019/03/22"){
   games
 }
 
-
-
-#just a running go of it
-#03/22
-load("app_data/param_190320.RData")
-vld <- validate(param)
-save(vld, file="vali_data/vld_190322.RData")
-sum(vld$correct)/nrow(vld)
-
-reliability.plot(verify(vld$t1w, vld$p1))
-
-load("app_data/param_190322.RData")
-load("vali_data/vld_190322.RData")
-vld <- rbind(vld, validate(param, st="2019/03/23",ed="2019/03/23"))
-save(vld, file="vali_data/vld_190323.RData")
-sum(vld$correct)/nrow(vld)
-reliability.plot(verify(vld$t1w, vld$p1))
-
-load("app_data/param_190323.RData")
-load("vali_data/vld_190323.RData")
-vld <- rbind(vld, validate(param, st="2019/03/24",ed="2019/03/24"))
-save(vld, file="vali_data/vld_190324.RData")
-sum(vld$correct)/nrow(vld)
-reliability.plot(verify(vld$t1w, vld$p1))
-
-load("app_data/param_190324.RData")
-load("vali_data/vld_190324.RData")
-vld <- rbind(vld, validate(param, st="2019/03/25",ed="2019/03/25"))
-save(vld, file="vali_data/vld_190325.RData")
-sum(vld$correct)/nrow(vld)
-reliability.plot(verify(vld$t1w, vld$p1))
-
-load("app_data/param_190324.RData")
-load("vali_data/vld_190325.RData")
-vld <- rbind(vld, validate(param, st="2019/03/26",ed="2019/03/29"))
-save(vld, file="vali_data/vld_190329.RData")
-sum(vld$correct)/nrow(vld)
-reliability.plot(verify(vld$t1w, vld$p1))
-
-load("app_data/param_190329.RData")
-load("vali_data/vld_190329.RData")
-vld <- rbind(vld, validate(param, st="2019/03/30",ed="2019/03/31"))
-save(vld, file="vali_data/vld_190331.RData")
+load("data/parameters/pois_sum_220313.RData")
+vld <- validate(param, st = "2022-03-14", ed = "2022-04-05")
 sum(vld$correct)/nrow(vld)
 reliability.plot(verify(vld$t1w, vld$p1))
 
 
-load("vali_data/vld_190331.RData")
-logLoss(vld$t1w*1, vld$p1)
+validate <- function(team_dist, st = "2022-03-14", ed = "2022-04-05"){
+  games <- load_games() |> filter(date >= st & date <= ed)
+  teams <- union(unique(games$team1), unique(games$team2)) %>% unique() %>% str_sort()
+  games$p1 <- 0
+  games$t1w <- F
+  games$correct <- F
+  its <- 1000000
+  for(i in 1:nrow(games)){
+    print(paste("Sim game:",i))
+    t1 <- games[["team1"]][i]
+    t2 <- games[["team2"]][i]
+    p1 <- team_dist[[t1]]
+    p2 <- team_dist[[t2]]
+    p1w <- p1 / (p1 + p2)
+    games[i,"p1"] <- p1w
+    s1 <- games[i,"score1"]
+    s2 <- games[i,"score2"]
+    t1w <- s1 > s2
+    games[i,"t1w"] <- t1w
+    games[i,"correct"] <- t1w == (p1 > p2)
+  }
+  games
+}
 
-load("app_data/param_190331.RData")
-load("vali_data/vld_190331.RData")
-vld <- rbind(vld, validate(param, st="2019/04/01",ed="2019/04/06"))
-save(vld, file="vali_data/vld_190406.RData")
+load("data/markov/team_dist.Rdata")
+vld <- validate(team_dist, st = "2022-03-14", ed = "2022-04-05")
 sum(vld$correct)/nrow(vld)
 reliability.plot(verify(vld$t1w, vld$p1))
-
-load("app_data/param_190406.RData")
-load("vali_data/vld_190406.RData")
-#vld <- rbind(vld, validate(param, st="2019/04/01",ed="2019/04/06"))
-#save(vld, file="vali_data/vld_190406.RData")
-sum(vld$correct)/nrow(vld)
-reliability.plot(verify(vld$t1w, vld$p1))
-plot(c(vld$score1,vld$score2), c(vld$ps1,vld$ps2))
-abline(a=0,b=1)
-cor(c(vld$score1,vld$score2), c(vld$ps1,vld$ps2))

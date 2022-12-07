@@ -1,0 +1,69 @@
+team,conference,round,seed
+Norfolk St.,west,0,16
+App State,west,0,16
+Wichita St.,west,0,11
+Drake,west,0,11
+Mount St. Marys,east,0,16
+Texas Southern,east,0,16
+Michigan St.,east,0,11
+UCLA,east,0,11
+Gonzaga,west,1,1
+Oklahoma,west,1,8
+Missouri,west,1,9
+Creighton,west,1,5
+UC Santa Barbara,west,1,12
+Virginia,west,1,4
+Ohio,west,1,13
+Southern California,west,1,6
+Kansas,west,1,3
+Eastern Wash.,west,1,14
+Oregon,west,1,7
+VCU,west,1,10
+Iowa,west,1,2
+Grand Canyon,west,1,15
+Michigan,east,1,1
+LSU,east,1,9
+St. Bonaventure,east,1,9
+Colorado,east,1,5
+Georgetown,east,1,12
+Florida St.,east,1,4
+UNC Greensboro,east,1,13
+BYU,east,1,6
+Texas,east,1,3
+Abilene Christian,east,1,14
+UConn,east,1,7
+Maryland,east,1,10
+Alabama,east,1,2
+Iona,east,1,15
+Baylor,south,1,1
+Hartford,south,1,16
+North Carolina,south,1,8
+Wisconsin,south,1,9
+Villanova,south,1,5
+Winthrop,south,1,12
+Purdue,south,1,4
+North Texas,south,1,13
+Texas Tech,south,1,6
+Utah St.,south,1,11
+Arkansas,south,1,3
+Colgate,south,1,14
+Florida,south,1,7
+Virginia Tech,south,1,10
+Ohio St.,south,1,2
+Oral Roberts,south,1,15
+Illinois,midwest,1,1
+Drexel,midwest,1,16
+Loyola Chicago,midwest,1,8
+Georgia Tech,midwest,1,9
+Tennessee,midwest,1,5
+Oregon St.,midwest,1,12
+Oklahoma St.,midwest,1,4
+Liberty,midwest,1,13
+San Diego St.,midwest,1,6
+Syracuse,midwest,1,11
+West Virginia,midwest,1,3
+Morehead St.,midwest,1,14
+Clemson,midwest,1,7
+Rutgers,midwest,1,10
+Houston,midwest,1,2
+Cleveland St.,midwest,1,15

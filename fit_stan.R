@@ -41,15 +41,15 @@ param <- get_posterior.pois(para)
 save(param, file=paste0("data/parameters/pois_prod_", gdt, ".RData"))
 
 ##########################################
-#fit poisson prod model
-model <- stan_model("stan/poisson_prod.stan")
-fit <- sampling(model, data=stan_data, chains=1, iter=4000)
-#save(fit, file = paste0("data/fits/poisson_", gdt, ".RData"))
+#fit normal model
+model <- stan_model("stan/normal.stan")
+fit <- sampling(model, data=stan_data, chains=1, iter=10000)
+    #save(fit, file = paste0("data/fits/poisson_", gdt, ".RData"))
 
 #check rhat and neff
 #print(fit, pars=c("ofsd","dfsd","of[1]","df[1]","of[10]","df[10]"))
 #traceplot(fit, pars=c("ofsd","dfsd","of[1]","df[1]","of[10]","df[10]"))
-pairs(fit, pars=c("ofsd", "dfsd"))
+pairs(fit, pars=c("ofsd", "dfsd", "phi"))
 pairs(fit, pars=c("of[103]","df[103]","of[291]","df[291]"))
 
 #extract parameter samples
@@ -57,12 +57,12 @@ para <- extract(fit)
 #save(para, file=paste0("data/parameters/para_", gdt, ".RData"))
 
 #summarize posterior
-param <- get_posterior.pois(para)
-save(param, file=paste0("data/parameters/pois_prod_", gdt, ".RData"))
+param <- get_posterior.norm(para)
+save(param, file=paste0("data/parameters/norm_", gdt, ".RData"))
 
 ##########################################
 #fit poisson sum model
-model <- stan_model("stan/poisson_sum.stan")
+model <- stan_model("stan/poisson_prod.stan")
 fit <- sampling(model, data=stan_data, chains=4, iter=4000)
 #save(fit, file = paste0("data/fits/poisson_", gdt, ".RData"))
 
@@ -78,6 +78,6 @@ para <- extract(fit)
 
 #summarize posterior
 param <- get_posterior.pois(para)
-save(param, file=paste0("data/parameters/pois_sum_", gdt, ".RData"))
+save(param, file=paste0("data/parameters/pois_prod_", gdt, ".RData"))
 
 
